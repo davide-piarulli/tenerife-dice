@@ -1,3 +1,8 @@
+// Future English edition convention (not yet built): Spanish stays unprefixed
+// at "/" as the default locale (keeps every current URL and indexed backlink
+// intact); English would live under "/en/..." mirroring the same route
+// structure, added only once real translated content and hreflang tags for
+// both versions ship together. See project memory for the full note.
 export const SITE = {
   name: "Tenerife Dice",
   tagline: "Lo que la isla cuenta",
