@@ -5,7 +5,8 @@ excerpt: "El baño queda restringido en El Cabezo después de que los análisis 
 date: "2026-09-11T18:25:05.619Z"
 category: "actualidad"
 tags: ["El Cabezo", "contaminación", "baño prohibido"]
-image: "/images/articles/prohibido-bano-playa-el-cabezo-guimar.jpg"
+image: "/images/articles/prohibido-bano-playa-el-cabezo-guimar.webp"
+imageAlt: "Cartel de prohibido el baño en la playa de El Cabezo, Güímar, Tenerife"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
 sourceName: "desconocida"

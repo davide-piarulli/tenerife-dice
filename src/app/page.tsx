@@ -3,7 +3,7 @@ import { getAllArticles, getArticlesByCategory } from "@/lib/articles";
 import { ArticleCard } from "@/components/ArticleCard";
 import { LatestList } from "@/components/LatestList";
 import { BreakingTicker } from "@/components/BreakingTicker";
-import { CATEGORIES } from "@/lib/constants";
+import { CATEGORIES, SITE } from "@/lib/constants";
 import { isRecent } from "@/lib/time";
 
 export default async function HomePage() {
@@ -15,6 +15,8 @@ export default async function HomePage() {
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-6 sm:px-6">
+      <h1 className="sr-only">{SITE.name} — noticias de Tenerife al minuto</h1>
+
       {articles.length === 0 ? (
         <EmptyState />
       ) : (
@@ -27,7 +29,9 @@ export default async function HomePage() {
 
           <section aria-label="Destacados" className="grid gap-8 lg:grid-cols-3">
             <div className="lg:col-span-2">
-              {hero && <ArticleCard article={hero} priority size="large" />}
+              {hero && (
+                <ArticleCard article={hero} priority size="large" headingLevel="h2" />
+              )}
               {secondary.length > 0 && (
                 <div className="mt-6 grid gap-6 sm:grid-cols-2">
                   {secondary.map((article) => (
@@ -94,9 +98,9 @@ async function CategorySection({ slug, label }: { slug: string; label: string })
 function EmptyState() {
   return (
     <div className="rounded-xl border border-dashed border-black/15 bg-white/60 px-6 py-20 text-center">
-      <h1 className="font-display text-2xl font-bold text-volcanic">
+      <p className="font-display text-2xl font-bold text-volcanic">
         Tenerife Dice está a punto de arrancar
-      </h1>
+      </p>
       <p className="mx-auto mt-3 max-w-md text-sm text-ink/70">
         Todavía no hay noticias publicadas. Añade el primer artículo en{" "}
         <code className="rounded bg-black/5 px-1.5 py-0.5">content/articles</code> para verlo

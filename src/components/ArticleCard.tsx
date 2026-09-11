@@ -9,12 +9,15 @@ export function ArticleCard({
   article,
   priority = false,
   size = "default",
+  headingLevel = "h3",
 }: {
   article: Article;
   priority?: boolean;
   size?: "default" | "large";
+  headingLevel?: "h2" | "h3";
 }) {
   const isLarge = size === "large";
+  const Heading = headingLevel;
 
   return (
     <article className="group flex flex-col overflow-hidden rounded-xl border border-black/5 bg-white shadow-sm transition hover:shadow-md">
@@ -38,13 +41,13 @@ export function ArticleCard({
             {format(new Date(article.date), "d MMM yyyy", { locale: es })}
           </time>
         </div>
-        <h3
+        <Heading
           className={`font-display font-bold leading-snug text-volcanic transition group-hover:text-ocean ${
             isLarge ? "text-2xl" : "text-lg"
           }`}
         >
           <Link href={`/noticias/${article.slug}`}>{article.title}</Link>
-        </h3>
+        </Heading>
         <p className="line-clamp-2 text-sm text-ink/70">{article.excerpt}</p>
       </div>
     </article>
