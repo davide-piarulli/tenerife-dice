@@ -10,6 +10,15 @@ imageAlt: "Fotografía editorial de una playa de Tenerife"
 imageIsAI: true
 author: "Redacción Tenerife Dice"
 draft: false
+faq:
+  - question: "¿Cuál es la mejor hora para ir a la playa y evitar aglomeraciones en Tenerife?"
+    answer: "Entre semana y a primera hora de la mañana suele haber mucha menos gente, incluso en las playas más populares del sur."
+  - question: "¿Qué playa de Tenerife tiene arena dorada?"
+    answer: "La Playa de las Teresitas, cerca de Santa Cruz, tiene arena dorada traída del Sáhara y aguas tranquilas gracias a su dique de protección."
+  - question: "¿Hay playas de difícil acceso en Tenerife, más tranquilas?"
+    answer: "Sí, como la Playa de Antequera, en el macizo de Anaga, a la que solo se llega a pie o en barco, lo que la mantiene mucho menos masificada."
+  - question: "¿Qué playas del norte de Tenerife tienen arena negra?"
+    answer: "El Bollullo, en Puerto de la Cruz, y La Arena, en Santiago del Teide, son dos playas de arena negra volcánica con menos afluencia que las playas urbanas del sur."
 ---
 
 Tenerife tiene una costa muy variada, con playas de arena dorada traída del Sáhara, playas de arena negra volcánica y calas de acceso más limitado. Estas son algunas opciones para quienes buscan alternativas a los arenales más concurridos del sur.

@@ -13,6 +13,7 @@ export type ArticleFrontmatter = {
   sourceName?: string;
   sourceUrl?: string;
   draft?: boolean;
+  faq?: { question: string; answer: string }[];
 };
 
 export type Article = ArticleFrontmatter & {

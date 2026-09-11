@@ -10,6 +10,15 @@ imageAlt: "Fotografía editorial del Teide"
 imageIsAI: true
 author: "Redacción Tenerife Dice"
 draft: false
+faq:
+  - question: "¿Necesito un permiso para subir al Teide?"
+    answer: "Sí, para el tramo final hasta el cráter, por encima de la estación superior del teleférico, necesitas un permiso gratuito del Parque Nacional. Tiene plazas limitadas por día, así que conviene solicitarlo con varias semanas de antelación."
+  - question: "¿Hay que reservar el teleférico con antelación?"
+    answer: "Es muy recomendable. Las plazas suelen agotarse con días de antelación en verano y en puentes, así que conviene comprar el billete online cuanto antes."
+  - question: "¿Hace frío en la cumbre del Teide aunque sea verano?"
+    answer: "Sí. Las temperaturas en la cumbre son mucho más bajas que en la costa, así que conviene llevar ropa de abrigo incluso en pleno verano."
+  - question: "¿Puede cerrar el teleférico por mal tiempo?"
+    answer: "Sí, el viento fuerte, la nieve o el hielo pueden obligar a cerrarlo, así que conviene comprobar las condiciones antes de subir."
 ---
 
 El Teide es el punto más alto de España y el corazón del Parque Nacional del Teide, uno de los más visitados del mundo. Antes de organizar la subida conviene tener claros tres puntos: el permiso de acceso a la cumbre, la reserva del teleférico y la preparación física, ya que se trata de una zona de alta montaña.

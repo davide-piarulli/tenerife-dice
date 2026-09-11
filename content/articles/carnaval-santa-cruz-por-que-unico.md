@@ -10,6 +10,15 @@ imageAlt: "Fotografía editorial del Carnaval de Santa Cruz de Tenerife"
 imageIsAI: true
 author: "Redacción Tenerife Dice"
 draft: false
+faq:
+  - question: "¿Por qué es tan famoso el Carnaval de Santa Cruz de Tenerife?"
+    answer: "Está declarado Fiesta de Interés Turístico Internacional y es, junto al de Río de Janeiro, uno de los carnavales más conocidos del mundo, con cientos de miles de visitantes cada edición."
+  - question: "¿Qué diferencia hay entre las comparsas y las murgas?"
+    answer: "Las comparsas son grandes grupos coreografiados con trajes elaborados durante meses, mientras que las murgas cantan letras satíricas en directo. Ambas categorías tienen sus propios concursos en el recinto ferial."
+  - question: "¿Qué es la Gala de Elección de la Reina del Carnaval?"
+    answer: "Es uno de los actos de mayor repercusión mediática: las candidatas desfilan con fantasías de gran tamaño y complejidad técnica, elaboradas por talleres especializados durante meses."
+  - question: "¿Cómo termina el Carnaval de Santa Cruz de Tenerife?"
+    answer: "Con el Coso Apoteosis, el gran desfile final, y el Entierro de la Sardina, una comitiva funeraria satírica que marca simbólicamente el fin de la fiesta hasta el año siguiente."
 ---
 
 El Carnaval de Santa Cruz de Tenerife es, junto al de Río de Janeiro, una de las citas de carnaval más conocidas del mundo, y ha sido declarado Fiesta de Interés Turístico Internacional. Cada edición reúne en las calles de la capital tinerfeña a cientos de miles de personas, entre residentes y visitantes llegados de fuera de la isla.

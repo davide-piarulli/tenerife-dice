@@ -116,6 +116,19 @@ export default async function ArticlePage({
     ],
   };
 
+  const faqJsonLd =
+    article.faq && article.faq.length > 0
+      ? {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: article.faq.map((item) => ({
+            "@type": "Question",
+            name: item.question,
+            acceptedAnswer: { "@type": "Answer", text: item.answer },
+          })),
+        }
+      : null;
+
   return (
     <article className="mx-auto max-w-3xl px-4 py-8 sm:px-6">
       <script
@@ -126,6 +139,12 @@ export default async function ArticlePage({
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
+      {faqJsonLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+        />
+      )}
 
       <nav aria-label="Migas de pan" className="mb-4 text-xs text-muted">
         <Link href="/" className="hover:text-ocean">
@@ -175,6 +194,24 @@ export default async function ArticlePage({
         className="prose-article mt-8"
         dangerouslySetInnerHTML={{ __html: article.content }}
       />
+
+      {article.faq && article.faq.length > 0 && (
+        <section className="mt-10">
+          <h2 className="mb-4 font-display text-xl font-bold text-volcanic">
+            Preguntas frecuentes
+          </h2>
+          <div className="divide-y divide-black/10 rounded-lg border border-black/10 bg-white">
+            {article.faq.map((item) => (
+              <details key={item.question} className="group px-4 py-3">
+                <summary className="cursor-pointer list-none font-semibold text-ink marker:content-none">
+                  {item.question}
+                </summary>
+                <p className="mt-2 text-sm text-ink/75">{item.answer}</p>
+              </details>
+            ))}
+          </div>
+        </section>
+      )}
 
       {article.sourceUrl && (
         <p className="mt-8 rounded-lg border border-black/10 bg-white/60 px-4 py-3 text-sm text-muted">
