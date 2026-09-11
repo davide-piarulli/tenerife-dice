@@ -5,7 +5,7 @@ excerpt: "El aparcamiento, inaugurado el 11 de septiembre de 2026, ofrece 37 pla
 date: "2026-09-11T18:24:57.446Z"
 category: "actualidad"
 tags: ["La Laguna", "aparcamiento", "movilidad"]
-image: "/images/articles/la-laguna-aparcamiento-cerca-del-centro-37-plazas.png"
+image: "/images/articles/la-laguna-aparcamiento-cerca-del-centro-37-plazas.jpg"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
 sourceName: "desconocida"

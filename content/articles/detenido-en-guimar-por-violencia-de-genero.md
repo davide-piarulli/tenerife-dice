@@ -5,7 +5,7 @@ excerpt: "La víctima llamó al 112 mientras estaba encerrada en una habitación
 date: "2026-09-11T18:24:44.749Z"
 category: "sucesos"
 tags: ["violencia de género", "Güímar", "112"]
-image: "/images/articles/detenido-en-guimar-por-violencia-de-genero.png"
+image: "/images/articles/detenido-en-guimar-por-violencia-de-genero.jpg"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
 sourceName: "desconocida"

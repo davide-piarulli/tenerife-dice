@@ -5,7 +5,7 @@ import { ArticleCard } from "@/components/ArticleCard";
 export const metadata: Metadata = {
   title: "Todas las noticias",
   description: "Todas las noticias de Tenerife publicadas en Tenerife Dice.",
-  alternates: { canonical: "/noticias" },
+  alternates: { canonical: "/noticias/" },
 };
 
 export default async function NoticiasPage() {

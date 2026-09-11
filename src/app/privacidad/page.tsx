@@ -4,7 +4,7 @@ import { SITE } from "@/lib/constants";
 export const metadata: Metadata = {
   title: "Política de privacidad",
   description: `Política de privacidad de ${SITE.name}.`,
-  alternates: { canonical: "/privacidad" },
+  alternates: { canonical: "/privacidad/" },
 };
 
 export default function PrivacyPage() {
@@ -23,7 +23,10 @@ export default function PrivacyPage() {
         <h2>Datos que tratamos</h2>
         <p>
           Datos de contacto facilitados voluntariamente a través del correo electrónico
-          ({SITE.email}) y datos de navegación agregados con fines estadísticos.
+          ({SITE.email}) y, únicamente si aceptas las cookies de analítica, datos de
+          navegación agregados y anonimizados a través de Google Analytics (páginas
+          vistas, procedencia del tráfico). Consulta nuestra{" "}
+          <a href="/cookies">política de cookies</a> para más detalle.
         </p>
         <h2>Tus derechos</h2>
         <p>

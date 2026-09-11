@@ -28,7 +28,7 @@ export async function generateMetadata({
   const article = await getArticleBySlug(slug);
   if (!article) return {};
 
-  const url = `${SITE.url}/noticias/${article.slug}`;
+  const url = `${SITE.url}/noticias/${article.slug}/`;
 
   return {
     title: article.title,
@@ -64,7 +64,7 @@ export default async function ArticlePage({
 
   const category = getCategory(article.category);
   const related = await getRelatedArticles(article);
-  const url = `${SITE.url}/noticias/${article.slug}`;
+  const url = `${SITE.url}/noticias/${article.slug}/`;
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -84,11 +84,39 @@ export default async function ArticlePage({
     articleSection: category?.label,
   };
 
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Portada", item: `${SITE.url}/` },
+      ...(category
+        ? [
+            {
+              "@type": "ListItem",
+              position: 2,
+              name: category.label,
+              item: `${SITE.url}/categoria/${category.slug}/`,
+            },
+          ]
+        : []),
+      {
+        "@type": "ListItem",
+        position: category ? 3 : 2,
+        name: article.title,
+        item: url,
+      },
+    ],
+  };
+
   return (
     <article className="mx-auto max-w-3xl px-4 py-8 sm:px-6">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
 
       <nav aria-label="Migas de pan" className="mb-4 text-xs text-muted">

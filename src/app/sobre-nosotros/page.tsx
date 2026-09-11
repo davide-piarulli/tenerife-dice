@@ -4,7 +4,7 @@ import { SITE } from "@/lib/constants";
 export const metadata: Metadata = {
   title: "Sobre nosotros",
   description: `Quiénes somos y cómo trabajamos en ${SITE.name}, el medio digital de noticias de Tenerife.`,
-  alternates: { canonical: "/sobre-nosotros" },
+  alternates: { canonical: "/sobre-nosotros/" },
 };
 
 export default function AboutPage() {

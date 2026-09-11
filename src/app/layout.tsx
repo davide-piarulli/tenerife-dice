@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter, Lora } from "next/font/google";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
+import { Analytics } from "@/components/Analytics";
 import { SITE } from "@/lib/constants";
 import "./globals.css";
 
@@ -54,6 +55,9 @@ export const metadata: Metadata = {
     follow: true,
     googleBot: { index: true, follow: true },
   },
+  verification: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION
+    ? { google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION }
+    : undefined,
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -79,11 +83,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         description: SITE.description,
         publisher: { "@id": `${SITE.url}/#organization` },
         inLanguage: SITE.language,
-        potentialAction: {
-          "@type": "SearchAction",
-          target: `${SITE.url}/buscar?q={search_term_string}`,
-          "query-input": "required name=search_term_string",
-        },
       },
     ],
   };
@@ -98,6 +97,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Header />
         <main className="min-h-screen">{children}</main>
         <Footer />
+        <Analytics gaId={process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID} />
       </body>
     </html>
   );

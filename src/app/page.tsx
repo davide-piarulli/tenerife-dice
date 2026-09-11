@@ -1,36 +1,50 @@
 import Link from "next/link";
 import { getAllArticles, getArticlesByCategory } from "@/lib/articles";
 import { ArticleCard } from "@/components/ArticleCard";
+import { LatestList } from "@/components/LatestList";
+import { BreakingTicker } from "@/components/BreakingTicker";
 import { CATEGORIES } from "@/lib/constants";
+import { isRecent } from "@/lib/time";
 
 export default async function HomePage() {
   const articles = await getAllArticles();
   const [hero, ...rest] = articles;
   const secondary = rest.slice(0, 4);
+  const sidebar = rest.slice(0, 7);
   const more = rest.slice(4, 10);
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-8 sm:px-6">
+    <div className="mx-auto max-w-6xl px-4 py-6 sm:px-6">
       {articles.length === 0 ? (
         <EmptyState />
       ) : (
         <>
-          <section aria-label="Destacados" className="grid gap-6 lg:grid-cols-3">
-            {hero && (
-              <div className="lg:col-span-2">
-                <ArticleCard article={hero} priority size="large" />
-              </div>
-            )}
-            <div className="flex flex-col gap-4">
-              {secondary.map((article) => (
-                <ArticleCard key={article.slug} article={article} />
-              ))}
+          {hero && isRecent(hero.date) && (
+            <div className="mb-6">
+              <BreakingTicker article={hero} />
+            </div>
+          )}
+
+          <section aria-label="Destacados" className="grid gap-8 lg:grid-cols-3">
+            <div className="lg:col-span-2">
+              {hero && <ArticleCard article={hero} priority size="large" />}
+              {secondary.length > 0 && (
+                <div className="mt-6 grid gap-6 sm:grid-cols-2">
+                  {secondary.map((article) => (
+                    <ArticleCard key={article.slug} article={article} />
+                  ))}
+                </div>
+              )}
+            </div>
+
+            <div className="lg:col-span-1">
+              <LatestList articles={sidebar} />
             </div>
           </section>
 
           {more.length > 0 && (
             <section className="mt-12">
-              <SectionHeading title="Más noticias" />
+              <SectionHeading title="Más noticias" href="/noticias" />
               <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
                 {more.map((article) => (
                   <ArticleCard key={article.slug} article={article} />

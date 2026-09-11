@@ -4,7 +4,7 @@ import { SITE } from "@/lib/constants";
 export const metadata: Metadata = {
   title: "Aviso legal",
   description: `Aviso legal de ${SITE.name}.`,
-  alternates: { canonical: "/aviso-legal" },
+  alternates: { canonical: "/aviso-legal/" },
 };
 
 export default function LegalNoticePage() {
