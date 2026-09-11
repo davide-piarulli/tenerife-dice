@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { Menu, X } from "lucide-react";
+import { Menu, X, Search } from "lucide-react";
 import { Logo } from "./Logo";
 import { CATEGORIES } from "@/lib/constants";
 
@@ -24,17 +24,29 @@ export function Header() {
               {cat.label}
             </Link>
           ))}
+          <Link
+            href="/buscar"
+            aria-label="Buscar"
+            className="text-ink/70 transition hover:text-ocean"
+          >
+            <Search size={19} />
+          </Link>
         </nav>
 
-        <button
-          type="button"
-          onClick={() => setOpen((v) => !v)}
-          className="inline-flex items-center justify-center rounded-md p-2 text-ink lg:hidden"
-          aria-label={open ? "Cerrar menú" : "Abrir menú"}
-          aria-expanded={open}
-        >
-          {open ? <X size={24} /> : <Menu size={24} />}
-        </button>
+        <div className="flex items-center gap-1 lg:hidden">
+          <Link href="/buscar" aria-label="Buscar" className="p-2 text-ink">
+            <Search size={22} />
+          </Link>
+          <button
+            type="button"
+            onClick={() => setOpen((v) => !v)}
+            className="inline-flex items-center justify-center rounded-md p-2 text-ink"
+            aria-label={open ? "Cerrar menú" : "Abrir menú"}
+            aria-expanded={open}
+          >
+            {open ? <X size={24} /> : <Menu size={24} />}
+          </button>
+        </div>
       </div>
 
       {open && (

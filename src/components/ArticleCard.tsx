@@ -11,7 +11,7 @@ export function ArticleCard({
   size = "default",
   headingLevel = "h3",
 }: {
-  article: Article;
+  article: Omit<Article, "content">;
   priority?: boolean;
   size?: "default" | "large";
   headingLevel?: "h2" | "h3";
