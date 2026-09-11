@@ -5,8 +5,8 @@ excerpt: "Todo lo que necesitas saber antes de visitar el Teide: cómo conseguir
 date: "2026-09-01T09:00:00+01:00"
 category: "turismo"
 tags: ["Teide", "senderismo", "parque nacional"]
-image: "/images/articles/teide-guia.svg"
-imageAlt: "Ilustración del Teide al atardecer"
+image: "/images/articles/guia-subir-teide-2026.png"
+imageAlt: "Fotografía editorial del Teide"
 author: "Redacción Tenerife Dice"
 draft: false
 ---

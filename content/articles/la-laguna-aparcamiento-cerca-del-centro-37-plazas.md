@@ -5,7 +5,7 @@ excerpt: "El aparcamiento, inaugurado el 11 de septiembre de 2026, ofrece 37 pla
 date: "2026-09-11T18:24:57.446Z"
 category: "actualidad"
 tags: ["La Laguna", "aparcamiento", "movilidad"]
-image: "/images/articles/default-actualidad.svg"
+image: "/images/articles/la-laguna-aparcamiento-cerca-del-centro-37-plazas.png"
 author: "Redaccion Tenerife Dice"
 sourceName: "desconocida"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/la-laguna-aparcamiento-parque-de-la-vega/"

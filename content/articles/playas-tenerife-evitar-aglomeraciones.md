@@ -5,8 +5,8 @@ excerpt: "Del norte volcánico al sur más tranquilo: una selección de playas y
 date: "2026-08-10T09:30:00+01:00"
 category: "turismo"
 tags: ["playas", "norte de Tenerife", "sur de Tenerife"]
-image: "/images/articles/playas.svg"
-imageAlt: "Ilustración abstracta de playa y mar"
+image: "/images/articles/playas-tenerife-evitar-aglomeraciones.png"
+imageAlt: "Fotografía editorial de una playa de Tenerife"
 author: "Redacción Tenerife Dice"
 draft: false
 ---

@@ -5,8 +5,8 @@ excerpt: "Comparsas, murgas, la elección de la Reina y la Gala Drag Queen convi
 date: "2026-08-20T10:00:00+01:00"
 category: "cultura"
 tags: ["carnaval", "Santa Cruz de Tenerife", "tradiciones"]
-image: "/images/articles/carnaval.svg"
-imageAlt: "Ilustración abstracta de confeti de carnaval"
+image: "/images/articles/carnaval-santa-cruz-por-que-unico.png"
+imageAlt: "Fotografía editorial del Carnaval de Santa Cruz de Tenerife"
 author: "Redacción Tenerife Dice"
 draft: false
 ---
