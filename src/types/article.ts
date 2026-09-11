@@ -1,0 +1,20 @@
+export type ArticleFrontmatter = {
+  title: string;
+  slug: string;
+  excerpt: string;
+  date: string;
+  updated?: string;
+  category: string;
+  tags?: string[];
+  image: string;
+  imageAlt?: string;
+  author: string;
+  sourceName?: string;
+  sourceUrl?: string;
+  draft?: boolean;
+};
+
+export type Article = ArticleFrontmatter & {
+  content: string;
+  readingTime: string;
+};
