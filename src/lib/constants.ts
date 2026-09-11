@@ -2,7 +2,7 @@ export const SITE = {
   name: "Tenerife Dice",
   tagline: "Lo que la isla cuenta",
   description:
-    "Noticias de Tenerife al minuto: actualidad, sucesos, turismo, cultura y deportes de la isla. Lo que pasa en Tenerife, contado por Tenerife Dice.",
+    "Noticias de Tenerife al minuto: actualidad, sucesos, turismo, cultura y deportes de la isla, con un ojo puesto en el resto de Canarias. Lo que pasa en Tenerife, contado por Tenerife Dice.",
   url: "https://tenerifedice.com",
   locale: "es_ES",
   language: "es",
@@ -53,6 +53,13 @@ export const CATEGORIES: Category[] = [
     label: "Economía",
     description: "Economía, empleo y empresas en Tenerife.",
     color: "gold",
+  },
+  {
+    slug: "canarias",
+    label: "Canarias",
+    description:
+      "Actualidad del resto del archipiélago: Gran Canaria, Lanzarote, Fuerteventura, La Palma, La Gomera y El Hierro.",
+    color: "ocean",
   },
 ];
 
