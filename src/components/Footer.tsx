@@ -54,6 +54,11 @@ export function Footer() {
                   Todas las noticias
                 </Link>
               </li>
+              <li>
+                <a href="/rss.xml" className="hover:text-white">
+                  RSS
+                </a>
+              </li>
             </ul>
           </div>
 

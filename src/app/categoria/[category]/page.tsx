@@ -2,7 +2,9 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getArticlesByCategory } from "@/lib/articles";
 import { ArticleCard } from "@/components/ArticleCard";
+import { Pagination } from "@/components/Pagination";
 import { CATEGORIES, getCategory } from "@/lib/constants";
+import { PAGE_SIZE } from "@/lib/pagination";
 
 export const dynamicParams = false;
 
@@ -36,6 +38,8 @@ export default async function CategoryPage({
   if (!category) notFound();
 
   const articles = await getArticlesByCategory(slug);
+  const totalPages = Math.max(1, Math.ceil(articles.length / PAGE_SIZE));
+  const pageArticles = articles.slice(0, PAGE_SIZE);
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-8 sm:px-6">
@@ -45,7 +49,7 @@ export default async function CategoryPage({
       <p className="mt-1 max-w-2xl text-sm text-muted">{category.description}</p>
 
       <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {articles.map((article) => (
+        {pageArticles.map((article) => (
           <ArticleCard key={article.slug} article={article} />
         ))}
       </div>
@@ -55,6 +59,12 @@ export default async function CategoryPage({
           Aún no hay noticias publicadas en esta sección.
         </p>
       )}
+
+      <Pagination
+        currentPage={1}
+        totalPages={totalPages}
+        basePath={`/categoria/${category.slug}`}
+      />
     </div>
   );
 }

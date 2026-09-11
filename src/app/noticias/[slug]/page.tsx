@@ -11,6 +11,7 @@ import {
 } from "@/lib/articles";
 import { ArticleCard } from "@/components/ArticleCard";
 import { CategoryBadge } from "@/components/CategoryBadge";
+import { ShareButtons } from "@/components/ShareButtons";
 import { getCategory, SITE } from "@/lib/constants";
 
 export const dynamicParams = false;
@@ -183,6 +184,10 @@ export default async function ArticlePage({
       )}
 
       <p className="mt-3 text-xs text-muted">Por {article.author} — {SITE.name}</p>
+
+      <div className="mt-6 border-t border-black/10 pt-6">
+        <ShareButtons url={url} title={article.title} />
+      </div>
 
       {related.length > 0 && (
         <section className="mt-14">

@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { getAllArticles } from "@/lib/articles";
 import { ArticleCard } from "@/components/ArticleCard";
+import { Pagination } from "@/components/Pagination";
+import { PAGE_SIZE } from "@/lib/pagination";
 
 export const metadata: Metadata = {
   title: "Todas las noticias",
@@ -10,6 +12,8 @@ export const metadata: Metadata = {
 
 export default async function NoticiasPage() {
   const articles = await getAllArticles();
+  const totalPages = Math.max(1, Math.ceil(articles.length / PAGE_SIZE));
+  const pageArticles = articles.slice(0, PAGE_SIZE);
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-8 sm:px-6">
@@ -19,7 +23,7 @@ export default async function NoticiasPage() {
       <p className="mt-1 text-sm text-muted">{articles.length} artículos publicados</p>
 
       <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {articles.map((article) => (
+        {pageArticles.map((article) => (
           <ArticleCard key={article.slug} article={article} />
         ))}
       </div>
@@ -27,6 +31,8 @@ export default async function NoticiasPage() {
       {articles.length === 0 && (
         <p className="mt-10 text-sm text-muted">Aún no hay noticias publicadas.</p>
       )}
+
+      <Pagination currentPage={1} totalPages={totalPages} basePath="/noticias" />
     </div>
   );
 }
