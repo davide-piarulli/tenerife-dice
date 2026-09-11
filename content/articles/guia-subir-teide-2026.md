@@ -7,6 +7,7 @@ category: "turismo"
 tags: ["Teide", "senderismo", "parque nacional"]
 image: "/images/articles/guia-subir-teide-2026.png"
 imageAlt: "Fotografía editorial del Teide"
+imageIsAI: true
 author: "Redacción Tenerife Dice"
 draft: false
 ---

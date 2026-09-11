@@ -8,6 +8,7 @@ export type ArticleFrontmatter = {
   tags?: string[];
   image: string;
   imageAlt?: string;
+  imageIsAI?: boolean;
   author: string;
   sourceName?: string;
   sourceUrl?: string;

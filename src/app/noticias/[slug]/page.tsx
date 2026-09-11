@@ -128,6 +128,11 @@ export default async function ArticlePage({
           className="object-cover"
         />
       </div>
+      {article.imageIsAI && (
+        <p className="mt-1.5 text-right text-xs text-muted">
+          Imagen ilustrativa generada con inteligencia artificial
+        </p>
+      )}
 
       <div
         className="prose-article mt-8"

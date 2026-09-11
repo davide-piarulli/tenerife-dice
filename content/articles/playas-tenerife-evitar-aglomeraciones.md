@@ -7,6 +7,7 @@ category: "turismo"
 tags: ["playas", "norte de Tenerife", "sur de Tenerife"]
 image: "/images/articles/playas-tenerife-evitar-aglomeraciones.png"
 imageAlt: "Fotografía editorial de una playa de Tenerife"
+imageIsAI: true
 author: "Redacción Tenerife Dice"
 draft: false
 ---

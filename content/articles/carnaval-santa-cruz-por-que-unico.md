@@ -7,6 +7,7 @@ category: "cultura"
 tags: ["carnaval", "Santa Cruz de Tenerife", "tradiciones"]
 image: "/images/articles/carnaval-santa-cruz-por-que-unico.png"
 imageAlt: "Fotografía editorial del Carnaval de Santa Cruz de Tenerife"
+imageIsAI: true
 author: "Redacción Tenerife Dice"
 draft: false
 ---

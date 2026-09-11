@@ -6,34 +6,21 @@ date: "2026-09-11T18:24:44.749Z"
 category: "sucesos"
 tags: ["violencia de género", "Güímar", "112"]
 image: "/images/articles/detenido-en-guimar-por-violencia-de-genero.png"
+imageIsAI: true
 author: "Redaccion Tenerife Dice"
 sourceName: "desconocida"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/detenido-violencia-de-genero-guimar/"
 draft: false
 ---
 
-## Resumen
+## Detenido tras una llamada al 112
 
-Un hombre ha sido detenido en Güímar en relación con un presunto caso de violencia de género. La intervención se produjo después de que la víctima solicitara auxilio por teléfono al 112 mientras permanecía encerrada en una habitación acompañada por su hija menor.
+Un hombre ha sido detenido en Güímar por un presunto caso de violencia de género, después de que la víctima llamara al 112 pidiendo ayuda mientras permanecía encerrada en una habitación junto a su hija menor.
 
-## Circunstancias conocidas
+Por el momento no han trascendido más detalles sobre las circunstancias exactas de la detención ni sobre el estado de la víctima y la menor, que según la denuncia estaban retenidas en el momento de la llamada.
 
-- Lugar: Güímar (Tenerife).
-- Hecho: detención de un hombre por un presunto caso de violencia de género.
-- Llamada de auxilio: la víctima contactó con el 112 desde una habitación donde también se encontraba su hija menor.
+## Dónde pedir ayuda
 
-La información disponible en la nota inicial es concisa y se limita a estos hechos. No se han proporcionado más datos sobre la identidad de las personas implicadas, la hora de los hechos, el estado físico de la víctima ni la gravedad de las posibles lesiones. Tampoco se detallan las actuaciones posteriores ni el cuerpo que practicó la detención.
+Si tú o alguien de tu entorno sufre una situación de violencia de género, puedes llamar al **016** (gratuito, no deja rastro en la factura y también atiende por WhatsApp en el 600 000 016) o directamente al **112** en caso de emergencia.
 
-## Información pendiente y recomendaciones
-
-- No hay datos sobre la identidad, edad ni condiciones del detenido ni de la víctima.
-- No se especifica la hora del suceso ni el lugar exacto dentro de Güímar.
-- Desconocemos si se han presentado cargos formales, la situación judicial del detenido o si la víctima y su hija han recibido asistencia especializada.
-
-Por la escasez de detalles en la fuente original, es recomendable solicitar a los cuerpos competentes (Policía Local, Guardia Civil o Juzgado de Guardia) confirmación sobre:
-
-- hora y circunstancias de la detención;
-- medidas de protección adoptadas para la víctima y su hija;
-- calificación jurídica de los hechos y seguimiento judicial.
-
-**Nota editorial:** la información disponible procede de una fuente identificada como "desconocida" y es limitada. Se debe actualizar la pieza cuando las autoridades faciliten datos oficiales.
+*Fuente: [Diario de Avisos](https://diariodeavisos.elespanol.com/2026/09/detenido-violencia-de-genero-guimar/).*
