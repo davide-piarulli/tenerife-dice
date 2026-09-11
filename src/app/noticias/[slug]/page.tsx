@@ -158,6 +158,7 @@ export default async function ArticlePage({
         <Image
           src={article.image}
           alt={article.imageAlt ?? article.title}
+          title={article.title}
           fill
           priority
           sizes="(min-width: 768px) 768px, 100vw"

@@ -28,6 +28,7 @@ export function ArticleCard({
         <Image
           src={article.image}
           alt={article.imageAlt ?? article.title}
+          title={article.title}
           fill
           priority={priority}
           sizes={isLarge ? "(min-width: 1024px) 800px, 100vw" : "(min-width: 1024px) 380px, 100vw"}
