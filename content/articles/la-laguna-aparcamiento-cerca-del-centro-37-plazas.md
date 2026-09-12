@@ -9,7 +9,7 @@ image: "/images/articles/la-laguna-aparcamiento-cerca-del-centro-37-plazas.webp"
 imageAlt: "Nuevo aparcamiento cerca del centro de La Laguna, Tenerife"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "desconocida"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/la-laguna-aparcamiento-parque-de-la-vega/"
 draft: false
 ---

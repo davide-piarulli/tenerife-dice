@@ -9,7 +9,7 @@ image: "/images/articles/prohibido-bano-playa-el-cabezo-guimar.webp"
 imageAlt: "Cartel de prohibido el baño en la playa de El Cabezo, Güímar, Tenerife"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "desconocida"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/prohibido-bano-playa-guimar-tenerife/"
 draft: false
 ---

@@ -9,7 +9,7 @@ image: "/images/articles/detenido-en-guimar-por-violencia-de-genero.webp"
 imageAlt: "Imagen ilustrativa de una intervención policial en Güímar, Tenerife"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "desconocida"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/detenido-violencia-de-genero-guimar/"
 draft: false
 ---
