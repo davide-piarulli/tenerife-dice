@@ -9,7 +9,7 @@ image: "/images/articles/desaparecidos-las-palmas-colaboracion.webp"
 imageAlt: "Imagen ilustrativa: Dos personas desaparecen en Las Palmas y piden colaboración ciudadana"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "desconocida"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/alerta-desaparecidos-en-canarias/"
 draft: false
 ---

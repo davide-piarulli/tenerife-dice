@@ -9,7 +9,7 @@ image: "/images/articles/sanidad-eleva-naranja-temperaturas-santa-cruz-el-r.webp
 imageAlt: "Imagen ilustrativa: Sanidad eleva a naranja el riesgo por temperaturas en Santa Cruz y El Rosario"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "desconocida"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/temperaturas-extremas-santa-cruz-el-rosario/"
 draft: false
 ---

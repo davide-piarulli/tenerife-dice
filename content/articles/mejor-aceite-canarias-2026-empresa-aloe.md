@@ -9,7 +9,7 @@ image: "/images/articles/mejor-aceite-canarias-2026-empresa-aloe.webp"
 imageAlt: "Imagen ilustrativa: Una empresa de aloe vera de Fuerteventura firma el mejor aceite de Canarias 2026"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "desconocida"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/mejor-aceite-canarias-aloe-vera/"
 draft: false
 ---

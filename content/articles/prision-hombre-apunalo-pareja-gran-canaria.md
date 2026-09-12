@@ -9,7 +9,7 @@ image: "/images/articles/prision-hombre-apunalo-pareja-gran-canaria.webp"
 imageAlt: "Imagen ilustrativa: Entran en prisión el hombre que apuñaló a su pareja el miércoles en Gran Canaria"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "desconocida"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/prision-apunala-pareja-gran-canaria/"
 draft: false
 ---

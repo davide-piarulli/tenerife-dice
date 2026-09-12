@@ -9,7 +9,7 @@ image: "/images/articles/merendero-tenerife-basura-buscan-responsables.webp"
 imageAlt: "Imagen ilustrativa: Merendero de Tenerife lleno de basura tras un cumpleaños; el Ayuntamiento busca a los responsables"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "desconocida"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/basura-merendero-la-camella-cumpleanos-arona/"
 draft: false
 ---
