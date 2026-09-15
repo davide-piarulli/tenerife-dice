@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+8:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+6:X
+18:X
+18:C
+0:{"buildId":"E-xrcCU97JP9hTy3ZhMVx","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6","children":[["$","h1",null,{"className":"font-display text-3xl font-bold text-volcanic","children":"Política de cookies"}],["$","div",null,{"className":"prose-article mt-6","children":[["$","p",null,{"children":"Este documento es un modelo de partida y debe ser revisado por un profesional antes de la publicación pública del sitio."}],["$","h2",null,{"children":"¿Qué son las cookies?"}],["$","p",null,{"children":"Pequeños archivos que se almacenan en tu navegador para recordar información sobre tu visita."}],["$","h2",null,{"children":"Cookies que utilizamos"}],["$","p",null,{"children":["Tenerife Dice"," solo utiliza cookies de analítica de audiencia (Google Analytics), y únicamente si has dado tu consentimiento en el aviso que aparece en tu primera visita. No utilizamos cookies de publicidad ni de seguimiento entre sitios web."]}],["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Cookie"}],["$","th",null,{"children":"Finalidad"}],["$","th",null,{"children":"Duración"}],["$","th",null,{"children":"Titular"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"td-cookie-consent"}],["$","td",null,{"children":"Recuerda tu elección de aceptar o rechazar cookies de analítica."}],["$","td",null,{"children":"1 año (almacenamiento local del navegador)"}],["$","td",null,{"children":"Propia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"_ga, _ga_*"}],["$","td",null,{"children":"Analítica de audiencia (Google Analytics 4): páginas más visitadas, procedencia del tráfico."}],["$","td",null,{"children":"Hasta 2 años"}],["$","td",null,{"children":"Google Ireland Limited"}]]}]]}]]}],["$","h2",null,{"children":"Gestión de cookies"}],["$","p",null,{"children":"Puedes cambiar tu elección en cualquier momento borrando los datos de este sitio en tu navegador, o configurar tu navegador para bloquear cookies de terceros. Consulta la ayuda de tu navegador para más información."}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Política de cookies | Tenerife Dice"}],["$","meta","1",{"name":"description","content":"Política de cookies de Tenerife Dice."}],["$","meta","2",{"name":"application-name","content":"Tenerife Dice"}],["$","meta","3",{"name":"author","content":"Tenerife Dice"}],["$","link","4",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","5",{"name":"keywords","content":"noticias Tenerife,actualidad Tenerife,Tenerife hoy,sucesos Tenerife,turismo Tenerife,Islas Canarias noticias"}],["$","meta","6",{"name":"robots","content":"index, follow, max-image-preview:large"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","link","8",{"rel":"canonical","href":"https://tenerifedice.com/cookies/"}],["$","meta","9",{"property":"og:title","content":"Tenerife Dice — Lo que la isla cuenta"}],["$","meta","10",{"property":"og:description","content":"Noticias de Tenerife al minuto: actualidad, sucesos, turismo, cultura y deportes de la isla, con un ojo puesto en el resto de Canarias. Lo que pasa en Tenerife, contado por Tenerife Dice."}],["$","meta","11",{"property":"og:url","content":"https://tenerifedice.com/"}],["$","meta","12",{"property":"og:site_name","content":"Tenerife Dice"}],["$","meta","13",{"property":"og:locale","content":"es_ES"}],["$","meta","14",{"property":"og:image","content":"https://tenerifedice.com/opengraph-image?b4eb86a2e54b6d4e"}],["$","meta","15",{"property":"og:image:type","content":"image/png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:type","content":"website"}],"$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13"]}]}]}],"$L14"]}],"isPartial":"$@15","staleTime":"$6","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$6","varyParams":"$18"}],"isUpgradeableISRFallback":false,"a":"$@19","rootVaryParams":null,"needsRuntimeRequest":"$@1a"}
+1b:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1c:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+1d:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+4:null
+9:["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}]
+a:["$","meta","20",{"name":"twitter:site","content":"@tenerifedice"}]
+b:["$","meta","21",{"name":"twitter:title","content":"Tenerife Dice — Lo que la isla cuenta"}]
+c:["$","meta","22",{"name":"twitter:description","content":"Noticias de Tenerife al minuto: actualidad, sucesos, turismo, cultura y deportes de la isla, con un ojo puesto en el resto de Canarias. Lo que pasa en Tenerife, contado por Tenerife Dice."}]
+d:["$","meta","23",{"name":"twitter:image","content":"https://tenerifedice.com/opengraph-image?b4eb86a2e54b6d4e"}]
+e:["$","meta","24",{"name":"twitter:image:type","content":"image/png"}]
+f:["$","meta","25",{"name":"twitter:image:width","content":"1200"}]
+10:["$","meta","26",{"name":"twitter:image:height","content":"630"}]
+11:["$","link","27",{"rel":"icon","href":"/icon.svg?icon.1b8co66b4iyv1.svg","sizes":"any","type":"image/svg+xml"}]
+12:["$","link","28",{"rel":"apple-touch-icon","href":"/apple-icon?36df4432d12cd1bf","type":"image/png","sizes":"180x180"}]
+13:["$","$L1b","29",{}]
+14:["$","meta",null,{"name":"next-size-adjust","content":""}]
+16:["$","$1","c",{"children":[null,["$","$L1c",null,{"parallelRouterKey":"children","template":["$","$L1d",null,{}]}]]}]
+1a:true
+6:300
+6:C
+19:0
+15:"$undefined"
+17:"$undefined"
+5:"$undefined"
