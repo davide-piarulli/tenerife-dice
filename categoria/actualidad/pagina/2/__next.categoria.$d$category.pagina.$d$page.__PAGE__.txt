@@ -1,0 +1,51 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/1n0atst6zwhz3.js","/_next/static/chunks/1y7_f2jiqgjqc.js"],""]
+3:I[5500,["/_next/static/chunks/1n0atst6zwhz3.js","/_next/static/chunks/1y7_f2jiqgjqc.js"],"Image"]
+4:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+8:X
+24:X
+24:C
+0:{"buildId":"IA8FSj8yr6Gbq08OwJQrj","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-8 sm:px-6","children":[["$","h1",null,{"className":"font-display text-2xl font-bold text-volcanic sm:text-3xl","children":"Actualidad"}],["$","p",null,{"className":"mt-1 max-w-2xl text-sm text-muted","children":["La actualidad de Tenerife: política, sociedad e instituciones."," — página ",2," de ",2]}],["$","div",null,{"className":"mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","article","la-laguna-aparcamiento-cerca-del-centro-37-plazas",{"className":"group flex flex-col overflow-hidden rounded-xl border border-black/5 bg-white shadow-sm transition hover:shadow-md","children":[["$","$L2",null,{"href":"/noticias/la-laguna-aparcamiento-cerca-del-centro-37-plazas","className":"relative block overflow-hidden aspect-[4/3]","children":["$","$L3",null,{"src":"/images/articles/la-laguna-aparcamiento-cerca-del-centro-37-plazas.webp","alt":"Nuevo aparcamiento cerca del centro de La Laguna, Tenerife","title":"La Laguna pone en servicio un aparcamiento cercano al centro con 37 plazas","fill":true,"priority":false,"sizes":"(min-width: 1024px) 380px, 100vw","className":"object-cover transition duration-300 group-hover:scale-105"}]}],["$","div",null,{"className":"flex flex-1 flex-col gap-2.5 p-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L2",null,{"href":"/categoria/actualidad","className":"inline-flex items-center rounded-full px-2.5 py-1 text-[11px] font-bold uppercase tracking-wide transition hover:opacity-90 bg-ocean text-sand","children":"Actualidad"}],["$","time",null,{"dateTime":"2026-09-11T18:24:57.446Z","className":"text-xs text-muted","children":"11 sep 2026"}]]}],["$","h3",null,{"className":"font-display font-bold leading-snug text-volcanic transition group-hover:text-ocean text-lg","children":["$","$L2",null,{"href":"/noticias/la-laguna-aparcamiento-cerca-del-centro-37-plazas","children":"La Laguna pone en servicio un aparcamiento cercano al centro con 37 plazas"}]}],["$","p",null,{"className":"line-clamp-2 text-sm text-ink/70","children":"El aparcamiento, inaugurado el 11 de septiembre de 2026, ofrece 37 plazas destinadas a turismos, vehículos eléctricos e híbridos, motocicletas y usuarios con movilidad reducida."}]]}]]}]]}],["$","nav",null,{"aria-label":"Paginación","className":"mt-10 flex items-center justify-between border-t border-black/10 pt-6","children":[["$","$L2",null,{"href":"/categoria/actualidad/","className":"rounded-md border border-black/15 px-4 py-2 text-sm font-semibold text-ink hover:bg-black/5","children":"← Anterior"}],["$","span",null,{"className":"text-sm text-muted","children":["Página ",2," de ",2]}],["$","span",null,{}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/1y7_f2jiqgjqc.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Actualidad — página 2 | Tenerife Dice"}],["$","meta","1",{"name":"description","content":"Noticias de Tenerife al minuto: actualidad, sucesos, turismo, cultura y deportes de la isla, con un ojo puesto en el resto de Canarias. Lo que pasa en Tenerife, contado por Tenerife Dice."}],["$","meta","2",{"name":"application-name","content":"Tenerife Dice"}],["$","meta","3",{"name":"author","content":"Tenerife Dice"}],["$","link","4",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","5",{"name":"keywords","content":"noticias Tenerife,actualidad Tenerife,Tenerife hoy,sucesos Tenerife,turismo Tenerife,Islas Canarias noticias"}],["$","meta","6",{"name":"robots","content":"noindex, follow"}],["$","link","7",{"rel":"canonical","href":"https://tenerifedice.com/categoria/actualidad/pagina/2/"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f"]}]}]}],"$L20"]}],"isPartial":"$@21","staleTime":"$8","varyParams":null},{"rsc":"$L22","isPartial":"$@23","staleTime":"$8","varyParams":"$24"},{"rsc":"$L25","isPartial":"$@26","staleTime":"$8","varyParams":"$24"},{"rsc":"$L27","isPartial":"$@28","staleTime":"$8","varyParams":"$24"},{"rsc":"$L29","isPartial":"$@2a","staleTime":"$8","varyParams":"$24"}],"isUpgradeableISRFallback":false,"a":"$@2b","rootVaryParams":null,"needsRuntimeRequest":"$@2c"}
+2d:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2e:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+2f:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:null
+b:["$","meta","8",{"property":"og:title","content":"Tenerife Dice — Lo que la isla cuenta"}]
+c:["$","meta","9",{"property":"og:description","content":"Noticias de Tenerife al minuto: actualidad, sucesos, turismo, cultura y deportes de la isla, con un ojo puesto en el resto de Canarias. Lo que pasa en Tenerife, contado por Tenerife Dice."}]
+d:["$","meta","10",{"property":"og:url","content":"https://tenerifedice.com/"}]
+e:["$","meta","11",{"property":"og:site_name","content":"Tenerife Dice"}]
+f:["$","meta","12",{"property":"og:locale","content":"es_ES"}]
+10:["$","meta","13",{"property":"og:image","content":"https://tenerifedice.com/opengraph-image?b4eb86a2e54b6d4e"}]
+11:["$","meta","14",{"property":"og:image:type","content":"image/png"}]
+12:["$","meta","15",{"property":"og:image:width","content":"1200"}]
+13:["$","meta","16",{"property":"og:image:height","content":"630"}]
+14:["$","meta","17",{"property":"og:type","content":"website"}]
+15:["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}]
+16:["$","meta","19",{"name":"twitter:site","content":"@tenerifedice"}]
+17:["$","meta","20",{"name":"twitter:title","content":"Tenerife Dice — Lo que la isla cuenta"}]
+18:["$","meta","21",{"name":"twitter:description","content":"Noticias de Tenerife al minuto: actualidad, sucesos, turismo, cultura y deportes de la isla, con un ojo puesto en el resto de Canarias. Lo que pasa en Tenerife, contado por Tenerife Dice."}]
+19:["$","meta","22",{"name":"twitter:image","content":"https://tenerifedice.com/opengraph-image?b4eb86a2e54b6d4e"}]
+1a:["$","meta","23",{"name":"twitter:image:type","content":"image/png"}]
+1b:["$","meta","24",{"name":"twitter:image:width","content":"1200"}]
+1c:["$","meta","25",{"name":"twitter:image:height","content":"630"}]
+1d:["$","link","26",{"rel":"icon","href":"/icon.svg?icon.1b8co66b4iyv1.svg","sizes":"any","type":"image/svg+xml"}]
+1e:["$","link","27",{"rel":"apple-touch-icon","href":"/apple-icon?36df4432d12cd1bf","type":"image/png","sizes":"180x180"}]
+1f:["$","$L2d","28",{}]
+20:["$","meta",null,{"name":"next-size-adjust","content":""}]
+22:["$","$1","c",{"children":[null,["$","$L2e",null,{"parallelRouterKey":"children","template":["$","$L2f",null,{}]}]]}]
+25:["$","$1","c",{"children":[null,["$","$L2e",null,{"parallelRouterKey":"children","template":["$","$L2f",null,{}]}]]}]
+27:["$","$1","c",{"children":[null,["$","$L2e",null,{"parallelRouterKey":"children","template":["$","$L2f",null,{}]}]]}]
+29:["$","$1","c",{"children":[null,["$","$L2e",null,{"parallelRouterKey":"children","template":["$","$L2f",null,{}]}]]}]
+2c:true
+8:300
+8:C
+2b:0
+21:"$undefined"
+23:"$undefined"
+26:"$undefined"
+28:"$undefined"
+2a:"$undefined"
+7:"$undefined"
