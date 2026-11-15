@@ -39,9 +39,19 @@ jobs:
           NEXT_PUBLIC_GA_MEASUREMENT_ID: ${{ vars.NEXT_PUBLIC_GA_MEASUREMENT_ID }}
           NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION: ${{ vars.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION }}
 
+      - name: Check build output
+        run: node scripts/check-build.mjs
+
       - name: Publish out/ to hostinger-deploy branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: hostinger-deploy
           folder: out
           single-commit: true
+
+      - name: Alert on failure (Telegram via n8n)
+        if: failure()
+        run: |
+          curl -s -m 20 -X POST "https://n8n.manistudio.es/webhook/td-deploy-alerta-k7p2m9" \
+            -H "Content-Type: application/json" -H "X-TD-Token: td-gh-7Qm2Lx9Va4" \
+            -d "{\"motivo\":\"${{ github.event_name }}\",\"run_url\":\"${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}" || true
