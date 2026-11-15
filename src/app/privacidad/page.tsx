@@ -19,7 +19,9 @@ export default function PrivacyPage() {
           por un profesional antes de la publicación pública del sitio.
         </p>
         <h2>Responsable del tratamiento</h2>
-        <p>[Pendiente de completar.]</p>
+        <p>
+          Davide Piarulli, NIF Z0484000Q. Contacto: <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.
+        </p>
         <h2>Datos que tratamos</h2>
         <p>
           Datos de contacto facilitados voluntariamente a través del correo electrónico
@@ -27,6 +29,11 @@ export default function PrivacyPage() {
           navegación agregados y anonimizados a través de Google Analytics (páginas
           vistas, procedencia del tráfico). Consulta nuestra{" "}
           <a href="/cookies">política de cookies</a> para más detalle.
+        </p>
+        <p>
+          Además, para saber cuántas visitas recibe cada página usamos un contador propio sin cookies: solo registra
+          la fecha, la página visitada y el dominio desde el que llegas (por ejemplo, google.com). No guarda tu
+          dirección IP ni ningún identificador, no instala nada en tu dispositivo y no permite identificarte.
         </p>
         <h2>Tus derechos</h2>
         <p>

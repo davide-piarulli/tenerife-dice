@@ -3,6 +3,7 @@ import { Inter, Lora } from "next/font/google";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { Analytics } from "@/components/Analytics";
+import { Contador } from "@/components/Contador";
 import { SITE } from "@/lib/constants";
 import "./globals.css";
 
@@ -112,6 +113,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main className="min-h-screen">{children}</main>
         <Footer />
         <Analytics gaId={process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID} />
+        <Contador />
       </body>
     </html>
   );
