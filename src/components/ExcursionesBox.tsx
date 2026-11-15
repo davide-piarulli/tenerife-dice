@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { AFILIADO, enlaceAfiliado, getExcursiones } from "@/lib/excursiones";
+import Image from "next/image";
+import { AFILIADO, enlaceAfiliado, getExcursiones, imagenExcursion } from "@/lib/excursiones";
 
 /** Affiliate box with partner excursions. Always shows the affiliate disclosure. */
 export function ExcursionesBox({ ids, titulo }: { ids: string[]; titulo: string }) {
@@ -16,10 +17,16 @@ export function ExcursionesBox({ ids, titulo }: { ids: string[]; titulo: string 
               href={enlaceAfiliado(e.url)}
               target="_blank"
               rel="sponsored noopener"
-              className="block h-full rounded-xl border border-black/5 p-3 transition hover:border-ocean hover:shadow-sm"
+              className="block h-full overflow-hidden rounded-xl border border-black/5 transition hover:border-ocean hover:shadow-sm"
             >
-              <span className="font-semibold text-ocean">{e.titulo}</span>
-              <span className="mt-1 block text-sm text-ink/80">{e.descripcion}</span>
+              <span className="relative block aspect-[16/10]">
+                <Image src={imagenExcursion(e)} alt={e.titulo} fill sizes="(min-width: 640px) 360px, 100vw" className="object-cover" />
+              </span>
+              <span className="block p-3">
+                <span className="font-semibold text-ocean">{e.titulo}</span>
+                <span className="mt-1 block text-sm text-ink/80">{e.descripcion}</span>
+                {e.credito && <span className="mt-1 block text-[11px] text-muted">{e.credito}</span>}
+              </span>
             </a>
           </li>
         ))}

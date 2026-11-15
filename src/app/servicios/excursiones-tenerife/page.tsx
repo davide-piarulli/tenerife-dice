@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import { SITE } from "@/lib/constants";
 import { getServicio } from "@/lib/servicios";
-import { AFILIADO, CATEGORIAS, EXCURSIONES, enlaceAfiliado } from "@/lib/excursiones";
+import { AFILIADO, CATEGORIAS, EXCURSIONES, enlaceAfiliado, imagenExcursion } from "@/lib/excursiones";
 
 const servicio = getServicio("excursiones-tenerife")!;
 const path = `/servicios/${servicio.slug}/`;
@@ -31,7 +32,7 @@ export default function ExcursionesPage() {
         </a>
         , una empresa local de Tenerife inscrita en el Registro General Turístico de Canarias. Los enlaces son de
         afiliado: si reservas, Tenerife Dice recibe una comisión sin coste extra para ti. Precios, horarios y
-        disponibilidad, siempre en su web.
+        disponibilidad, siempre en su web. Fotos: {AFILIADO.nombre}, salvo indicación.
       </div>
 
       {CATEGORIAS.map((c) => {
@@ -47,11 +48,17 @@ export default function ExcursionesPage() {
                     href={enlaceAfiliado(e.url)}
                     target="_blank"
                     rel="sponsored noopener"
-                    className="flex h-full flex-col rounded-xl bg-white p-4 shadow-sm transition hover:shadow-md"
+                    className="flex h-full flex-col overflow-hidden rounded-xl bg-white shadow-sm transition hover:shadow-md"
                   >
-                    <span className="font-display text-lg font-bold text-ocean">{e.titulo}</span>
-                    <span className="mt-1 flex-1 text-sm text-ink/80">{e.descripcion}</span>
-                    <span className="mt-3 text-sm font-semibold text-sunset">Ver precios y disponibilidad →</span>
+                    <span className="relative block aspect-[16/10]">
+                      <Image src={imagenExcursion(e)} alt={e.titulo} fill sizes="(min-width: 640px) 430px, 100vw" className="object-cover" />
+                    </span>
+                    <span className="flex flex-1 flex-col p-4">
+                      <span className="font-display text-lg font-bold text-ocean">{e.titulo}</span>
+                      <span className="mt-1 flex-1 text-sm text-ink/80">{e.descripcion}</span>
+                      {e.credito && <span className="mt-2 text-[11px] text-muted">{e.credito}</span>}
+                      <span className="mt-3 text-sm font-semibold text-sunset">Ver precios y disponibilidad →</span>
+                    </span>
                   </a>
                 </li>
               ))}

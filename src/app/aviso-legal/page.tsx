@@ -18,7 +18,17 @@ export default function LegalNoticePage() {
           un profesional antes de la publicación pública del sitio.
         </p>
         <h2>Titularidad</h2>
-        <p>[Pendiente de completar: razón social, NIF/CIF, domicilio, datos registrales.]</p>
+        <p>
+          En cumplimiento del artículo 10 de la Ley 34/2002, de Servicios de la Sociedad de la Información y de
+          Comercio Electrónico (LSSI-CE), se informa de que el titular de {SITE.name} ({SITE.url.replace("https://", "")}) es:
+        </p>
+        <ul>
+          <li>Titular: Davide Piarulli</li>
+          <li>NIF: Z0484000Q</li>
+          <li>
+            Correo electrónico de contacto: <a href={`mailto:${SITE.email}`}>{SITE.email}</a>
+          </li>
+        </ul>
         <h2>Propiedad intelectual</h2>
         <p>
           Los contenidos originales de {SITE.name} están protegidos por derechos de
