@@ -60,6 +60,11 @@ export function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/servicios/que-hacer-fin-de-semana-tenerife/" className="hover:text-white">
+                  Qué hacer este fin de semana
+                </Link>
+              </li>
+              <li>
                 <Link href="/servicios/playas-tenerife-hoy/" className="hover:text-white">
                   Playas de Tenerife hoy
                 </Link>

@@ -20,6 +20,7 @@ for (const p of [
   "servicios/estado-carreteras-tenerife/index.html",
   "servicios/playas-tenerife-hoy/index.html",
   "servicios/permiso-subir-teide/index.html",
+  "servicios/que-hacer-fin-de-semana-tenerife/index.html",
 ]) {
   if (!existe(p)) errores.push(`Falta ${p}`);
 }

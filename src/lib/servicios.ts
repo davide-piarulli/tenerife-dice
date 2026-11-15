@@ -12,6 +12,14 @@ export type Servicio = {
 
 export const SERVICIOS: Servicio[] = [
   {
+    slug: "que-hacer-fin-de-semana-tenerife",
+    util: "Planes, carreras y eventos de viernes a domingo.",
+    title: "Qué hacer este fin de semana en Tenerife: agenda de planes y eventos",
+    short: "Agenda del fin de semana",
+    description:
+      "Planes para este fin de semana en Tenerife: eventos deportivos, carreras populares, fiestas y actividades de viernes a domingo, con horarios y lugares. Actualizado cada día.",
+  },
+  {
     slug: "excursiones-tenerife",
     util: "Teide, cetáceos, parques y aventura con una empresa local.",
     title: "Excursiones en Tenerife: qué hacer en la isla",
@@ -114,6 +122,11 @@ const REGLAS_SERVICIO: { slug: string; patron: RegExp; texto: string }[] = [
     slug: "playas-tenerife-hoy",
     patron: /\bplayas?\b|bañistas?|socorrista|bandera azul|litoral/i,
     texto: "Estado del mar, viento y webcams de las playas de Tenerife, actualizado cada día.",
+  },
+  {
+    slug: "que-hacer-fin-de-semana-tenerife",
+    patron: /fin de semana|romería|romeria|fiestas? (patronales|de)|concierto|festival|carrera popular|trail/i,
+    texto: "Más planes para este fin de semana en Tenerife, con horarios y lugares.",
   },
 ];
 
