@@ -14,6 +14,7 @@ import { CategoryBadge } from "@/components/CategoryBadge";
 import { ShareButtons } from "@/components/ShareButtons";
 import { getCategory, SITE } from "@/lib/constants";
 import { servicioRelacionado } from "@/lib/servicios";
+import { getAutor } from "@/lib/autores";
 
 export const dynamicParams = false;
 
@@ -43,7 +44,7 @@ export async function generateMetadata({
       url,
       publishedTime: article.date,
       modifiedTime: article.updated ?? article.date,
-      authors: [article.author],
+      authors: [getAutor(article.author).nombre],
       images: [
         {
           url: article.image,
@@ -74,6 +75,7 @@ export default async function ArticlePage({
   const category = getCategory(article.category);
   const related = await getRelatedArticles(article);
   const url = `${SITE.url}/noticias/${article.slug}/`;
+  const autor = getAutor(article.author);
   const servicio = servicioRelacionado([article.title, article.excerpt, ...(article.tags ?? [])].join(" "));
 
   const jsonLd = {
@@ -93,7 +95,7 @@ export default async function ArticlePage({
     ],
     datePublished: article.date,
     dateModified: article.updated ?? article.date,
-    author: [{ "@type": "Organization", name: article.author }],
+    author: [{ "@type": autor.tipo, name: autor.nombre, url: `${SITE.url}/autor/${autor.slug}/` }],
     publisher: {
       "@type": "Organization",
       name: SITE.name,
@@ -183,6 +185,15 @@ export default async function ArticlePage({
         {article.title}
       </h1>
       <p className="mt-4 text-lg text-ink/75">{article.excerpt}</p>
+      <p className="mt-3 text-sm text-muted">
+        Por{" "}
+        <Link href={`/autor/${autor.slug}/`} className="font-semibold text-ink hover:text-ocean">
+          {autor.nombre}
+        </Link>
+        {article.updated && article.updated !== article.date && (
+          <> · Actualizado el {format(new Date(article.updated), "d MMMM yyyy", { locale: es })}</>
+        )}
+      </p>
 
       <div className="relative mt-6 aspect-[16/9] overflow-hidden rounded-xl">
         <Image
@@ -271,7 +282,7 @@ export default async function ArticlePage({
         </p>
       )}
 
-      <p className="mt-3 text-xs text-muted">Por {article.author} — {SITE.name}</p>
+      <p className="mt-3 text-xs text-muted">Por {autor.nombre} — {SITE.name}</p>
 
       <div className="mt-6 border-t border-black/10 pt-6">
         <ShareButtons url={url} title={article.title} />

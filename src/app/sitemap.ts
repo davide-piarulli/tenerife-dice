@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { getAllArticles } from "@/lib/articles";
 import { CATEGORIES, SITE } from "@/lib/constants";
 import { SERVICIOS } from "@/lib/servicios";
+import { AUTORES } from "@/lib/autores";
 
 export const dynamic = "force-static";
 
@@ -17,6 +18,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       changeFrequency: "hourly" as const,
       priority: 0.8,
     })),
+    ...AUTORES.map((a) => ({ url: `${SITE.url}/autor/${a.slug}/`, changeFrequency: "weekly" as const, priority: 0.4 })),
     { url: `${SITE.url}/sobre-nosotros/`, changeFrequency: "monthly", priority: 0.3 },
     { url: `${SITE.url}/contacto/`, changeFrequency: "monthly", priority: 0.3 },
     { url: `${SITE.url}/aviso-legal/`, changeFrequency: "yearly", priority: 0.1 },
