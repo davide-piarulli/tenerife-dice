@@ -184,11 +184,30 @@ export default async function ArticlePage({
           className="object-cover"
         />
       </div>
-      {article.imageIsAI && (
+      {article.imageIsAI ? (
         <p className="mt-1.5 text-right text-xs text-muted">
           Imagen ilustrativa generada con inteligencia artificial
         </p>
-      )}
+      ) : article.imageCredit ? (
+        <p className="mt-1.5 text-right text-xs text-muted">
+          Imagen de archivo:{" "}
+          {article.imageCreditUrl ? (
+            <a
+              href={article.imageCreditUrl}
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+              className="underline hover:text-ink"
+            >
+              {article.imageCredit} / {article.imageSource ?? "archivo"}
+            </a>
+          ) : (
+            <>
+              {article.imageCredit} / {article.imageSource ?? "archivo"}
+            </>
+          )}
+          {article.imageLicense ? ` (${article.imageLicense})` : null}
+        </p>
+      ) : null}
 
       <div
         className="prose-article mt-8"

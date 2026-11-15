@@ -9,6 +9,10 @@ export type ArticleFrontmatter = {
   image: string;
   imageAlt?: string;
   imageIsAI?: boolean;
+  imageCredit?: string;
+  imageSource?: string;
+  imageLicense?: string;
+  imageCreditUrl?: string;
   author: string;
   sourceName?: string;
   sourceUrl?: string;
