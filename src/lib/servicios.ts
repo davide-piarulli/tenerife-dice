@@ -10,6 +10,13 @@ export type Servicio = {
 
 export const SERVICIOS: Servicio[] = [
   {
+    slug: "excursiones-tenerife",
+    title: "Excursiones en Tenerife: qué hacer en la isla",
+    short: "Excursiones",
+    description:
+      "Las mejores excursiones y actividades en Tenerife: Teide en quad o teleférico, avistamiento de cetáceos, kayak, Siam Park, Loro Parque y más, con una empresa local.",
+  },
+  {
     slug: "playas-tenerife-hoy",
     title: "Playas de Tenerife hoy: estado del mar, viento y webcams",
     short: "Playas hoy",

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { ExcursionesBox } from "@/components/ExcursionesBox";
 import { SITE } from "@/lib/constants";
 import { getServicio } from "@/lib/servicios";
 
@@ -173,6 +174,7 @@ export default function PermisoTeidePage() {
           es siempre Tenerife ON.
         </p>
       </div>
+      <ExcursionesBox ids={["teide-teleferico", "teide-tour", "teide-quad", "estrellas"]} titulo="Excursiones al Teide" />
     </article>
   );
 }

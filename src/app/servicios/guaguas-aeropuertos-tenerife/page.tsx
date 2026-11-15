@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { ExcursionesBox } from "@/components/ExcursionesBox";
 import { SITE } from "@/lib/constants";
 import { getServicio } from "@/lib/servicios";
 
@@ -158,6 +159,7 @@ export default function GuaguasAeropuertosPage() {
           siempre la web oficial.
         </p>
       </div>
+      <ExcursionesBox ids={["traslado", "coche"]} titulo="¿Prefieres no depender de la guagua?" />
     </article>
   );
 }

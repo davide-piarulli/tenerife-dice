@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { ExcursionesBox } from "@/components/ExcursionesBox";
 import { SITE } from "@/lib/constants";
 import { getServicio } from "@/lib/servicios";
 import { getPlayas, hoyCanarias, veredicto, type DiaPlaya, type Playa, type Veredicto, type Zona } from "@/lib/playas";
@@ -246,6 +247,7 @@ export default async function PlayasPage() {
         Fuente de la previsión: © AEMET, Agencia Estatal de Meteorología. Las webcams pertenecen a sus
         respectivos titulares.
       </p>
+      <ExcursionesBox ids={["ballenas", "catamaran", "kayak", "fiat500"]} titulo="Planes en el mar" />
     </div>
   );
 }

@@ -25,6 +25,13 @@ export default function LegalNoticePage() {
           propiedad intelectual. Cuando un artículo se elabora a partir de información
           publicada por terceros, se cita y enlaza la fuente original.
         </p>
+        <h2>Enlaces de afiliado</h2>
+        <p>
+          Algunas páginas de servicio incluyen enlaces de afiliado a excursiones y servicios de nuestro partner
+          Nabila Experience. Si reservas a través de ellos, {SITE.name} recibe una comisión sin coste adicional
+          para ti. Estos enlaces se identifican siempre como tales y nunca condicionan el contenido informativo
+          de las noticias.
+        </p>
         <h2>Solicitudes de corrección o retirada</h2>
         <p>
           Cualquier persona o medio que considere que un contenido publicado infringe
