@@ -10,6 +10,20 @@ export type Servicio = {
 
 export const SERVICIOS: Servicio[] = [
   {
+    slug: "playas-tenerife-hoy",
+    title: "Playas de Tenerife hoy: estado del mar, viento y webcams",
+    short: "Playas hoy",
+    description:
+      "¿A qué playa ir hoy en Tenerife? Oleaje, viento, temperatura del agua e índice UV en las playas del sur, norte, este y oeste según AEMET, con webcams en directo.",
+  },
+  {
+    slug: "permiso-subir-teide",
+    title: "Permiso para subir al Teide en 2026: cómo reservar, precio y alternativas",
+    short: "Permiso para subir al Teide",
+    description:
+      "Cómo conseguir el permiso para subir al pico del Teide en 2026: reserva en Tenerife ON, ecotasa (15 €, gratis para residentes), horarios, normas y cómo subir sin permiso desde el Refugio de Altavista.",
+  },
+  {
     slug: "avisos-aemet-tenerife",
     title: "Avisos de AEMET hoy en Tenerife",
     short: "Avisos meteorológicos",

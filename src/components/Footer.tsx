@@ -55,6 +55,16 @@ export function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/servicios/playas-tenerife-hoy/" className="hover:text-white">
+                  Playas de Tenerife hoy
+                </Link>
+              </li>
+              <li>
+                <Link href="/servicios/permiso-subir-teide/" className="hover:text-white">
+                  Permiso para subir al Teide
+                </Link>
+              </li>
+              <li>
                 <Link href="/servicios/avisos-aemet-tenerife/" className="hover:text-white">
                   Avisos AEMET en Tenerife
                 </Link>

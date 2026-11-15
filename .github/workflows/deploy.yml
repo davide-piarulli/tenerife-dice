@@ -4,6 +4,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    # Refresh data fetched at build time (AEMET beach forecasts, news sitemap window).
+    # Times in UTC: ~09:30 and ~15:30 in Canarias (winter).
+    - cron: "30 9 * * *"
+    - cron: "30 15 * * *"
 
 permissions:
   contents: write
