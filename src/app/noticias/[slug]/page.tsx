@@ -79,7 +79,16 @@ export default async function ArticlePage({
     "@type": "NewsArticle",
     headline: article.title,
     description: article.excerpt,
-    image: [article.image],
+    image: [
+      article.imageCredit
+        ? {
+            "@type": "ImageObject",
+            url: `${SITE.url}${article.image}`,
+            creditText: `${article.imageCredit} / ${article.imageSource ?? ""}`.trim(),
+            ...(article.imageCreditUrl ? { acquireLicensePage: article.imageCreditUrl } : {}),
+          }
+        : `${SITE.url}${article.image}`,
+    ],
     datePublished: article.date,
     dateModified: article.updated ?? article.date,
     author: [{ "@type": "Organization", name: article.author }],
