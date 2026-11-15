@@ -14,8 +14,6 @@ export default function LegalNoticePage() {
       <div className="prose-article mt-6">
         <p>
           Este sitio web, {SITE.name} ({SITE.url}), es un medio digital de noticias.
-          Este aviso legal es un modelo de partida y debe ser revisado y completado por
-          un profesional antes de la publicación pública del sitio.
         </p>
         <h2>Titularidad</h2>
         <p>
