@@ -55,6 +55,11 @@ export function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/municipios/" className="hover:text-white">
+                  Noticias por municipio
+                </Link>
+              </li>
+              <li>
                 <Link href="/servicios/playas-tenerife-hoy/" className="hover:text-white">
                   Playas de Tenerife hoy
                 </Link>

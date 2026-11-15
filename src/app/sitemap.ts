@@ -3,6 +3,7 @@ import { getAllArticles } from "@/lib/articles";
 import { CATEGORIES, SITE } from "@/lib/constants";
 import { SERVICIOS } from "@/lib/servicios";
 import { AUTORES } from "@/lib/autores";
+import { getMunicipiosConPagina } from "@/lib/municipios";
 
 export const dynamic = "force-static";
 
@@ -39,5 +40,14 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.8,
   }));
 
-  return [...staticRoutes, ...categoryRoutes, ...articleRoutes];
+  const municipioRoutes: MetadataRoute.Sitemap = [
+    { url: `${SITE.url}/municipios/`, changeFrequency: "daily", priority: 0.5 },
+    ...(await getMunicipiosConPagina()).map(({ m }) => ({
+      url: `${SITE.url}/municipio/${m.slug}/`,
+      changeFrequency: "daily" as const,
+      priority: 0.6,
+    })),
+  ];
+
+  return [...staticRoutes, ...categoryRoutes, ...municipioRoutes, ...articleRoutes];
 }

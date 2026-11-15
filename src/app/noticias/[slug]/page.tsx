@@ -14,6 +14,7 @@ import { CategoryBadge } from "@/components/CategoryBadge";
 import { ShareButtons } from "@/components/ShareButtons";
 import { getCategory, SITE } from "@/lib/constants";
 import { servicioRelacionado } from "@/lib/servicios";
+import { getMunicipiosConPagina, municipiosDeArticulo } from "@/lib/municipios";
 import { getAutor } from "@/lib/autores";
 
 export const dynamicParams = false;
@@ -76,6 +77,8 @@ export default async function ArticlePage({
   const related = await getRelatedArticles(article);
   const url = `${SITE.url}/noticias/${article.slug}/`;
   const autor = getAutor(article.author);
+  const conPagina = new Set((await getMunicipiosConPagina()).map((x) => x.m.slug));
+  const municipios = municipiosDeArticulo(article).filter((m) => conPagina.has(m.slug));
   const servicio = servicioRelacionado([article.title, article.excerpt, ...(article.tags ?? [])].join(" "));
 
   const jsonLd = {
@@ -235,6 +238,21 @@ export default async function ArticlePage({
         className="prose-article mt-8"
         dangerouslySetInnerHTML={{ __html: article.content }}
       />
+
+      {municipios.length > 0 && (
+        <p className="mt-8 flex flex-wrap items-center gap-2 text-sm">
+          <span className="text-muted">Más noticias de</span>
+          {municipios.map((m) => (
+            <Link
+              key={m.slug}
+              href={`/municipio/${m.slug}/`}
+              className="rounded-full bg-white px-3 py-1 font-semibold text-ocean ring-1 ring-black/10 hover:ring-ocean"
+            >
+              {m.nombre}
+            </Link>
+          ))}
+        </p>
+      )}
 
       {servicio && (
         <aside className="mt-8 rounded-xl border-l-4 border-ocean bg-white p-4 shadow-sm">
