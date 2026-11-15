@@ -1,7 +1,7 @@
 ---
 title: "El agua residual en Tenerife gana nueva utilidad"
 slug: "segunda-vida-agua-residual-tenerife"
-excerpt: "La isla ha mejorado la gestión de aguas residuales: más tratamiento y mayor capacidad para regenerarlas, según medios locales."
+excerpt: "La isla ha mejorado la gestión de aguas residuales: más tratamiento y mayor capacidad para regenerarlas, según Diario de Avisos."
 date: "2026-10-02T08:39:03.796Z"
 category: "actualidad"
 tags: ["agua residual", "depuracion", "regeneracion", "tenerife"]
@@ -24,4 +24,4 @@ El porcentaje de aguas residuales depuradas se ha incrementado del 52% al 86% en
 
 Estos datos reflejan una mejora sostenida en la gestión del agua en la isla y una apuesta por reutilizar el recurso. El avance sitúa a Tenerife en una senda hacia casi la plena capacidad de regeneración anunciada, lo que podría reducir la presión sobre fuentes convencionales y mejorar la resiliencia frente a periodos secos.
 
-La información procede de medios locales y resume los principales indicadores comunicados sobre depuración y regeneración. El progreso se describe en términos porcentuales y en el horizonte de tres años, con la meta del 97% como referencia para próximos pasos.
+La información procede de Diario de Avisos y resume los principales indicadores comunicados sobre depuración y regeneración. El progreso se describe en términos porcentuales y en el horizonte de tres años, con la meta del 97% como referencia para próximos pasos.

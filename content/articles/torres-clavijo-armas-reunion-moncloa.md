@@ -18,7 +18,7 @@ draft: false
 
 Torres, Clavijo y Armas se han reunido en Moncloa ante el reciente repunte de llegadas por la ruta canaria. La convocatoria responde a la presión migratoria que afecta al archipiélago.
 
-Según fuentes citadas por medios locales, el presidente del Gobierno, Sánchez, comunicó ayer al presidente canario la puesta en marcha de una comisión que se celebrará antes del próximo Consejo de Ministros. Esa comisión será presidida por el aruquense.
+Según fuentes citadas por Diario de Avisos, el presidente del Gobierno, Sánchez, comunicó ayer al presidente canario la puesta en marcha de una comisión que se celebrará antes del próximo Consejo de Ministros. Esa comisión será presidida por el aruquense.
 
 - Lugar: Moncloa.
 - Asistentes principales: Torres, Clavijo y Armas.

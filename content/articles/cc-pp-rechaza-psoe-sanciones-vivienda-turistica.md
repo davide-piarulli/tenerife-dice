@@ -25,4 +25,4 @@ Además, los afectados se presentaron de forma masiva en el Registro de la Propi
 - Posición del Gobierno: avanzar vía decreto, pero no respaldar la iniciativa del PSOE.
 - Reacción social: la Plataforma se opondrá a reclasificaciones y ha impulsado trámites registrales.
 
-La noticia, difundida por medios locales el 29 de septiembre de 2026, refleja el choque entre la propuesta política y la respuesta de los vecinos afectados.
+La noticia, difundida por Canarias Ahora el 29 de septiembre de 2026, refleja el choque entre la propuesta política y la respuesta de los vecinos afectados.

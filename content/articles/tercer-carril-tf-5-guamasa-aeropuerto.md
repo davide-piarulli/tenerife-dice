@@ -14,7 +14,7 @@ sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/tercer-carril-tf-5-3/"
 draft: false
 ---
 
-El tramo de la TF-5 entre Guamasa y el aeropuerto Tenerife Norte ha pasado a la fase de ejecución, según informan medios locales.
+El tramo de la TF-5 entre Guamasa y el aeropuerto Tenerife Norte ha pasado a la fase de ejecución, según informa Diario de Avisos.
 
 La contratación del proyecto se ha cerrado: tras la adjudicación definitiva de los trabajos se procedió a la formalización del contrato, lo que permite iniciar la etapa de obra. La noticia fue publicada el 2 de octubre de 2026.
 

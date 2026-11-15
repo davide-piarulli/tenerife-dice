@@ -16,7 +16,7 @@ draft: false
 
 **Vilaflor, en la cima de la isla, avanza en geotermia.**
 
-Vilaflor —el municipio más alto de España— aparece como referente en el impulso de la geotermia en Tenerife. Medios locales destacan que la iniciativa ofrece una energía estable y limpia con una ocupación del territorio reducida.
+Vilaflor —el municipio más alto de España— aparece como referente en el impulso de la geotermia en Tenerife. Diario de Avisos destaca que la iniciativa ofrece una energía estable y limpia con una ocupación del territorio reducida.
 
 La apuesta refuerza el interés por alternativas energéticas que complementen fuentes renovables ya presentes en la isla. El desarrollo geotérmico en Vilaflor podría aportar continuidad en el suministro y menor huella territorial en comparación con otras infraestructuras.
 

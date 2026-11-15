@@ -16,7 +16,7 @@ draft: false
 
 **José Manuel Bermúdez**, actual alcalde y candidato de Coalición Canaria a la Alcaldía santacrucera, declaró el 26 de octubre de 2026 que el PSOE es su principal adversario en la contienda electoral. 
 
-Bermúdez dejó claro que no tiene previsto cerrar acuerdos con Patricia Hernández, según la información difundida por medios locales. La postura marca distancia entre su formación y el PSOE en el escenario municipal de Santa Cruz. 
+Bermúdez dejó claro que no tiene previsto cerrar acuerdos con Patricia Hernández, según la información difundida por Diario de Avisos. La postura marca distancia entre su formación y el PSOE en el escenario municipal de Santa Cruz. 
 
 La nota publicada el 26 de octubre de 2026 recoge la afirmación del alcalde sobre la competencia con el partido socialista y su rechazo a pactos con Hernández. No se detallan en la pieza los motivos de la decisión ni posibles reacciones de otras fuerzas políticas. 
 

@@ -24,6 +24,6 @@ Principales objetivos:
 - Mejorar el bienestar físico y emocional.
 - Aumentar la calidad de vida mediante actividades adaptadas.
 
-La iniciativa refleja una respuesta local a las necesidades de la población dependiente en zonas rurales y dispersas como los caseríos de Anaga. Según la información difundida por medios locales, el programa ya está en marcha y está dirigido por la propia Acufade.
+La iniciativa refleja una respuesta local a las necesidades de la población dependiente en zonas rurales y dispersas como los caseríos de Anaga. Según la información difundida por Diario de Avisos, el programa ya está en marcha y está dirigido por la propia Acufade.
 
 Fecha de la información: 8 de noviembre de 2026.

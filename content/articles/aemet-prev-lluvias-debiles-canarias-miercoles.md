@@ -24,4 +24,4 @@ El aviso de la agencia meteorológica señala además un ascenso de las temperat
 - Cuándo: especialmente durante las primeras horas del miércoles.
 - Intensidad: precipitaciones débiles y ocasionales.
 
-El pronóstico apunta a una jornada con lluvia limitada en tiempo y espacio y temperaturas algo más altas en zonas elevadas. Las condiciones descritas proceden de la Aemet según la información recogida por medios locales.
+El pronóstico apunta a una jornada con lluvia limitada en tiempo y espacio y temperaturas algo más altas en zonas elevadas. Las condiciones descritas proceden de la Aemet según la información recogida por Diario de Avisos.

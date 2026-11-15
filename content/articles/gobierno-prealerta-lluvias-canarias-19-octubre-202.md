@@ -26,6 +26,6 @@ La entrada de ese aire modificará las condiciones meteorológicas y dejará un 
 - Posibles precipitaciones dispersas.
 - Mayor inestabilidad atmosférica en varias zonas del archipiélago.
 
-Las autoridades han elevado la vigilancia ante este cambio de tiempo. La actualización se hace efectiva a partir del 19 de octubre de 2026, según la información difundida por medios locales.
+Las autoridades han elevado la vigilancia ante este cambio de tiempo. La actualización se hace efectiva a partir del 19 de octubre de 2026, según la información difundida por Diario de Avisos.
 
 Se recomienda precaución en actividades al aire libre y atención a avisos posteriores que puedan precisar zonas o intensidades concretas. Esta nota resume la comunicación principal sobre la prealerta y sus motivos: la entrada de una masa de aire húmedo e inestable que provocará un entorno meteorológico más cambiante.

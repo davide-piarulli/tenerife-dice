@@ -22,4 +22,4 @@ El humorista conecta su trayectoria con esa mirada crítica. Para él, el oficio
 
 La entrevista marca un hito personal: veinte años dedicados al humor en vivo. Farray combina la anécdota profesional con reflexiones sociales que, según recoge la pieza, no eluden la polémica.
 
-La pieza original fue publicada por medios locales y recoge declaraciones del propio artista sobre su carrera y su opinión sobre la venta de suelo en Canarias.
+La pieza original fue publicada por Diario de Avisos y recoge declaraciones del propio artista sobre su carrera y su opinión sobre la venta de suelo en Canarias.

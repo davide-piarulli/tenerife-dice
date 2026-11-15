@@ -18,6 +18,6 @@ draft: false
 
 Ambas ya contaban con otros galardones antes de este reconocimiento. Han mostrado una actitud positiva ante el avance de la IA, si bien subrayan la necesidad de contrapesos para que la tecnología opere de forma responsable.
 
-El acto, difundido por medios locales, destaca a estas dos emprendedoras como ejemplo de talento canario en el terreno tecnológico. Sus propuestas combinan aplicación práctica en sectores clave y reconocimiento público en varios certámenes.
+El acto, difundido por Diario de Avisos, destaca a estas dos emprendedoras como ejemplo de talento canario en el terreno tecnológico. Sus propuestas combinan aplicación práctica en sectores clave y reconocimiento público en varios certámenes.
 
 La distinción de Ashotel refuerza la visibilidad de proyectos de IA desarrollados en Canarias y su potencial para abrir nuevas vías de negocio y servicios, especialmente en salud y en la mejora de procesos laborales.

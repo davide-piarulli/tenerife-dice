@@ -16,7 +16,7 @@ draft: false
 
 **Ángel Víctor Torres**, ministro de Política Territorial, presentó el Real Decreto‑Ley que el Congreso convalidó el 23 de septiembre de 2026. La norma incluye nuevas ayudas dirigidas a La Palma y una inversión de **600 millones** destinada a Canarias.
 
-La iniciativa salió adelante en el pleno, aunque obtuvo el voto en contra de **Vox** y **Junts**. El resto de grupos votó a favor de la convalidación, según informaron medios locales.
+La iniciativa salió adelante en el pleno, aunque obtuvo el voto en contra de **Vox** y **Junts**. El resto de grupos votó a favor de la convalidación, según informó Diario de Avisos.
 
 El texto aprobado busca canalizar recursos adicionales hacia la isla afectada y reforzar actuaciones en el conjunto del archipiélago. El paquete suma la partida económica anunciada y medidas contempladas en el Real Decreto‑Ley presentado por el ministerio.
 

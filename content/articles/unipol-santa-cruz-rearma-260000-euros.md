@@ -27,6 +27,6 @@ Los suministros incluidos en las adquisiciones afectan a equipos de defensa y co
 - porras
 - la munición
 
-La decisión se formalizó mediante la aprobación de los contratos municipales, según informan medios locales. El paquete responde a necesidades de dotación para la unidad policial implicada, que recibirá los equipos adquiridos a través de esos contratos.
+La decisión se formalizó mediante la aprobación de los contratos municipales, según informa Diario de Avisos. El paquete responde a necesidades de dotación para la unidad policial implicada, que recibirá los equipos adquiridos a través de esos contratos.
 
 El contenido de la compra cubre tanto elementos de protección como dispositivos para identificación y control en intervenciones. El importe total dedicado a este material asciende a 260.000 euros.

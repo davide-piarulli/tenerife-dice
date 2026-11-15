@@ -25,4 +25,4 @@ La Feria de Saldos llega al Parque de Las Mantecas, en La Laguna, con una jornad
 
 Entre los atractivos anunciados figura la actuación de Las Guerreras K-Pop, que se suma a la programación musical del día. La propuesta combina compra, ocio infantil y gastronomía en un solo espacio público, buscando atraer a vecinos y visitantes durante la jornada.
 
-El Parque de Las Mantecas acoge así una feria de formato familiar que permanecerá abierta desde media mañana hasta primera hora de la tarde, según la información facilitada por medios locales.
+El Parque de Las Mantecas acoge así una feria de formato familiar que permanecerá abierta desde media mañana hasta primera hora de la tarde, según la información facilitada por Diario de Avisos.

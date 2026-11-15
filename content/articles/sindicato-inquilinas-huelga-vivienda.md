@@ -16,7 +16,7 @@ draft: false
 
 **Sindicato de Inquilinas de Tenerife** ha convocado una huelga general por la vivienda para el 11 de noviembre. El colectivo invita a la población canaria a sumarse a la protesta.
 
-Según el comunicado difundido por medios locales, la organización plantea un paquete de seis reivindicaciones en materia de vivienda. Entre las medidas que reclama figura la regulación de los precios del alquiler.
+Según el comunicado difundido por Canarias Ahora, la organización plantea un paquete de seis reivindicaciones en materia de vivienda. Entre las medidas que reclama figura la regulación de los precios del alquiler.
 
 El Sindicato exige al Gobierno de Canarias que deje de aplicar soluciones puntuales a la crisis habitacional y adopte medidas efectivas contra la especulación inmobiliaria. No se han detallado en la nota pública las acciones concretas que se desarrollarán durante la jornada, más allá del llamamiento a la huelga.
 

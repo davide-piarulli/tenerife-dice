@@ -22,4 +22,4 @@ Las precipitaciones se esperan con mayor probabilidad en las zonas del norte del
 - Zonas con mayor riesgo: norte de las islas.
 - Evolución prevista: por la tarde, posible extensión a interior y medianías del sur.
 
-Se trata de una previsión difundida por medios locales que recogen los avisos de Aemet. Los detalles sobre intensidad o duración de los chubascos no se incluyen en la información recibida, pero la alerta destaca la distribución geográfica y el cambio horario previsto hacia la tarde.
+Se trata de una previsión difundida por Diario de Avisos que recogen los avisos de Aemet. Los detalles sobre intensidad o duración de los chubascos no se incluyen en la información recibida, pero la alerta destaca la distribución geográfica y el cambio horario previsto hacia la tarde.

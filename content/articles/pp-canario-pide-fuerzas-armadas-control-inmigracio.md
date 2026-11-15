@@ -16,8 +16,8 @@ draft: false
 
 **El PP canario ha presentado una iniciativa para pedir la intervención de las Fuerzas Armadas en el control de la inmigración.**
 
-Jacob Qadri, diputado del PP, será quien defenderá la propuesta en el Parlamento de Canarias. La iniciativa apunta a implicar a las Fuerzas Armadas en tareas relacionadas con el control migratorio, según informan medios locales.
+Jacob Qadri, diputado del PP, será quien defenderá la propuesta en el Parlamento de Canarias. La iniciativa apunta a implicar a las Fuerzas Armadas en tareas relacionadas con el control migratorio, según informa Diario de Avisos.
 
 El anuncio sitúa al PP canario en una línea similar a la defendida por Vox en materia de inmigración. La propuesta será debatida en la cámara autonómica cuando se tramite, a partir de la presentación formal por parte del diputado.
 
-La noticia se ha difundido a través de medios locales, que recogen la intención del grupo popular y la identificación de Jacob Qadri como portavoz de la iniciativa en el Parlamento de Canarias.
+La noticia se ha difundido a través de Diario de Avisos, que recogen la intención del grupo popular y la identificación de Jacob Qadri como portavoz de la iniciativa en el Parlamento de Canarias.

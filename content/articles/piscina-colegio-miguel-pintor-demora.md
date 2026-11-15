@@ -14,7 +14,7 @@ sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/piscina-ceip-miguel-pin
 draft: false
 ---
 
-El Ayuntamiento de Santa Cruz de Tenerife ha aprobado un proyecto de reforma integral de la piscina del Colegio Miguel Pintor, según medios locales.
+El Ayuntamiento de Santa Cruz de Tenerife ha aprobado un proyecto de reforma integral de la piscina del Colegio Miguel Pintor, según Diario de Avisos.
 
 La intervención incluye una revisión de precios, una medida tomada porque la obra no pudo ejecutarse anteriormente por falta de crédito. El cambio presupuestario forma parte del expediente para reactivar los trabajos y mejorar la instalación.
 
@@ -25,4 +25,4 @@ Puntos clave:
 - Motivo del ajuste: revisión de precios por falta de crédito que impidió iniciar la obra anteriormente.
 - Efecto inmediato: demora en la apertura al público hasta la ejecución de las obras.
 
-La información fue recogida por medios locales el 13 de octubre de 2026.
+La información fue recogida por Diario de Avisos el 13 de octubre de 2026.

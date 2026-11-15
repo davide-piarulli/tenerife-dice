@@ -14,7 +14,7 @@ sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/calima-tormentas-calor-
 draft: false
 ---
 
-**Aemet** ha emitido un aviso para Tenerife con fenómenos meteorológicos que se esperan el martes 22 de septiembre de 2026, según medios locales.
+**Aemet** ha emitido un aviso para Tenerife con fenómenos meteorológicos que se esperan el martes 22 de septiembre de 2026, según Diario de Avisos.
 
 La previsión recoge la presencia de calima junto a la posibilidad de tormentas. Estas precipitaciones tormentosas podrían venir acompañadas de rachas de viento que, en puntos concretos, serían más intensas.
 
@@ -26,4 +26,4 @@ El termómetro subirá hasta los 32 grados como temperatura máxima prevista par
 - Temperatura máxima: 32 grados
 - Viento: rachas puntualmente fuertes
 
-La información procede de medios locales que recogen la advertencia de la Aemet sobre las condiciones previstas para Tenerife este martes.
+La información procede de Diario de Avisos que recogen la advertencia de la Aemet sobre las condiciones previstas para Tenerife este martes.

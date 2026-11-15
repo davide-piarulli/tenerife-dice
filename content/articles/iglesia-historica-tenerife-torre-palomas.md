@@ -16,7 +16,7 @@ draft: false
 
 **La torre de una iglesia histórica de Tenerife ha sido clausurada tras detectarse problemas causados por palomas.**
 
-Según medios locales, los operarios encontraron acumulaciones de excrementos, plumas y pichones muertos en el interior y en las inmediaciones de la estructura. La torre había sido sometida a obras de restauración hace ocho meses.
+Según Diario de Avisos, los operarios encontraron acumulaciones de excrementos, plumas y pichones muertos en el interior y en las inmediaciones de la estructura. La torre había sido sometida a obras de restauración hace ocho meses.
 
 El área del Cabildo responsable del mantenimiento ha decidido cerrar el acceso a la torre mientras se actúa. Como medida correctora, se ha anunciado la sustitución de la malla actual por otra de mayor rigidez.
 

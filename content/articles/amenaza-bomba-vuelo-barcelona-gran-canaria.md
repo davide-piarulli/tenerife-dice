@@ -22,4 +22,4 @@ draft: false
 
 La operación se desarrolló en tierra después de que la aeronave tomara tierra en la isla. Las autoridades aeroportuarias y los equipos especializados se hicieron cargo de la inspección una vez finalizado el aterrizaje.
 
-La información fue avanzada por medios locales y notificada a lo largo de la tarde y la noche del lunes. No se han añadido en este texto detalles adicionales sobre el resultado de la inspección ni sobre posibles consecuencias operativas en el aeropuerto.
+La información fue avanzada por Canarias Ahora y notificada a lo largo de la tarde y la noche del lunes. No se han añadido en este texto detalles adicionales sobre el resultado de la inspección ni sobre posibles consecuencias operativas en el aeropuerto.

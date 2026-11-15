@@ -16,10 +16,10 @@ draft: false
 
 **Arico** exige cobrar más de **900.000 euros** pendientes por acoger los residuos de la isla.
 
-Según medios locales, el asunto se llevará al pleno municipal con una moción que pide saldar lo adeudado correspondiente a 2025. El texto de la propuesta reclama además que la compensación cubra el daño económico que soporta el municipio por prestar ese servicio.
+Según Diario de Avisos, el asunto se llevará al pleno municipal con una moción que pide saldar lo adeudado correspondiente a 2025. El texto de la propuesta reclama además que la compensación cubra el daño económico que soporta el municipio por prestar ese servicio.
 
 La reclamación pone el foco en la necesidad de regularizar los pagos y compensar los costes derivados de la gestión de basura. El grupo promotor busca que el pleno respalde la iniciativa y que se active el abono de las cantidades pendientes.
 
-La noticia fue publicada el 20 de octubre de 2026 por medios locales. La cifra de más de 900.000 euros y la referencia a la deuda de 2025 son los datos que motivan la moción que se presentará en el próximo pleno.
+La noticia fue publicada el 20 de octubre de 2026 por Diario de Avisos. La cifra de más de 900.000 euros y la referencia a la deuda de 2025 son los datos que motivan la moción que se presentará en el próximo pleno.
 
 El debate en el ayuntamiento se espera centrado en la cuantía pendiente y en cómo repercute en las cuentas municipales la recepción de residuos procedentes de otras partes de Tenerife.

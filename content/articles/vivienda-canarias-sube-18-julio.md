@@ -16,11 +16,11 @@ draft: false
 
 **Precios al alza y actividad a la baja en julio**
 
-Según medios locales, el precio de la vivienda en Canarias experimentó un incremento del **18%** durante el pasado mes de julio. El dato refleja una fuerte subida en el coste de la vivienda en el archipiélago en ese periodo.
+Según Diario de Avisos, el precio de la vivienda en Canarias experimentó un incremento del **18%** durante el pasado mes de julio. El dato refleja una fuerte subida en el coste de la vivienda en el archipiélago en ese periodo.
 
 Al mismo tiempo, la compraventa de inmuebles registró una caída del **6,9%** en el mismo mes. Estos movimientos coinciden con una mayor sensación de rechazo hacia la especulación inmobiliaria, según las mismas fuentes.
 
 - Precio de la vivienda: +18% en julio.
 - Compraventa: -6,9% en julio.
 
-El contraste entre la subida de precios y la reducción de operaciones plantea un escenario de mercado con menos transacciones y mayor presión sobre los precios. Los datos citados proceden de medios locales que difundieron las cifras correspondientes al mes mencionado.
+El contraste entre la subida de precios y la reducción de operaciones plantea un escenario de mercado con menos transacciones y mayor presión sobre los precios. Los datos citados proceden de Diario de Avisos que difundieron las cifras correspondientes al mes mencionado.

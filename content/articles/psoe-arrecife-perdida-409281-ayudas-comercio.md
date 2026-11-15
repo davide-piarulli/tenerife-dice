@@ -22,4 +22,4 @@ En un comunicado publicado el 12 de octubre de 2026, el PSOE responsabiliza dire
 
 La cuantía afectada asciende a **409.281 euros** y, según el partido, su destino era apoyar iniciativas comerciales en la ciudad. Los socialistas consideran que la ausencia de una propuesta presentada a tiempo es la causa de la obligación de devolución de la subvención.
 
-El comunicado del PSOE refleja su reproche al equipo de gobierno municipal y reclama responsabilidad por la gestión del dinero público. La información aquí recogida procede del material difundido por medios locales y recoge las cifras y las responsabilidades citadas por el grupo socialista.
+El comunicado del PSOE refleja su reproche al equipo de gobierno municipal y reclama responsabilidad por la gestión del dinero público. La información aquí recogida procede del material difundido por Canarias Ahora y recoge las cifras y las responsabilidades citadas por el grupo socialista.

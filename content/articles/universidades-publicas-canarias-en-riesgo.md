@@ -16,7 +16,7 @@ draft: false
 
 **Francisco García**, rector de la Universidad de La Laguna (ULL), pidió ayer en la apertura del curso académico medidas urgentes para la financiación de las universidades públicas de Canarias.
 
-García advirtió que los dos principales centros docentes del archipiélago afrontan un riesgo de colapso si no se articula un modelo de financiación equilibrado por parte del Gobierno regional. El mensaje llegó en el acto oficial de inicio del curso, según medios locales.
+García advirtió que los dos principales centros docentes del archipiélago afrontan un riesgo de colapso si no se articula un modelo de financiación equilibrado por parte del Gobierno regional. El mensaje llegó en el acto oficial de inicio del curso, según Diario de Avisos.
 
 La intervención del rector subraya la preocupación por la sostenibilidad de la oferta académica y los servicios que prestan las instituciones públicas en las islas. No se ofrecieron detalles adicionales sobre cifras concretas ni calendarios de actuación en la información difundida por la fuente.
 

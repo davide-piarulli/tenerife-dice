@@ -26,4 +26,4 @@ El club ha organizado el desplazamiento para asistir a los actos previstos en Na
 
 Se trata de un gesto institucional que reunirá a jugadores, técnicos y miembros de la dirección en la localidad. El viaje y la participación del CD Tenerife confirman la relevancia del acto para la entidad.
 
-El anuncio se ha difundido a través de medios locales, que informan de la asistencia del club este jueves.
+El anuncio se ha difundido a través de Diario de Avisos, que informan de la asistencia del club este jueves.

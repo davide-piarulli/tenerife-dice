@@ -20,6 +20,6 @@ draft: false
 - Se incorporarán instalaciones específicas para atletismo.
 - Se habilitarán espacios destinados a los clubes deportivos locales.
 
-Las obras están previstas para ejecutarse de forma gradual, según el proyecto comunicado por medios locales. El planteamiento busca compatibilizar la actividad deportiva con intervenciones por fases que permitan mantener el uso del estadio durante las obras.
+Las obras están previstas para ejecutarse de forma gradual, según el proyecto comunicado por Diario de Avisos. El planteamiento busca compatibilizar la actividad deportiva con intervenciones por fases que permitan mantener el uso del estadio durante las obras.
 
-La actuación en La Manzanilla responde a la demanda de mejores equipamientos deportivos en el municipio y a la necesidad de ofrecer instalaciones modernas para clubes y deportistas. Los detalles técnicos y el calendario de ejecución se recogen en la documentación difundida por los citados medios locales.
+La actuación en La Manzanilla responde a la demanda de mejores equipamientos deportivos en el municipio y a la necesidad de ofrecer instalaciones modernas para clubes y deportistas. Los detalles técnicos y el calendario de ejecución se recogen en la documentación difundida por Diario de Avisos.

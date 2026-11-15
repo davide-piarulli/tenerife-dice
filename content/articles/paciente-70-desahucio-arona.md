@@ -25,6 +25,6 @@ Fuentes locales apuntan que se trata del primer intento de ejecución contra est
 - Informes de vulnerabilidad: **dos** emitidos por el Ayuntamiento de Arona.
 - Estado del procedimiento: **primer intento de ejecución**.
 
-El caso ha sido recogido por medios locales y se mantiene en seguimiento institucional. La información difundida hasta ahora se centra en las gestiones del Consistorio para evitar el desahucio y en las condiciones de salud del afectado.
+El caso ha sido recogido por Diario de Avisos y se mantiene en seguimiento institucional. La información difundida hasta ahora se centra en las gestiones del Consistorio para evitar el desahucio y en las condiciones de salud del afectado.
 
 Seguiremos la evolución del procedimiento y las decisiones administrativas relacionadas con los informes de vulnerabilidad.

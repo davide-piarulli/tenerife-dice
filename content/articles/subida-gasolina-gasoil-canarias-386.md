@@ -16,7 +16,7 @@ draft: false
 
 **La gasolina y el gasóleo en Canarias registran una subida del 38,6%.**
 
-El incremento coloca los precios en máximos y los aproxima a los de la Península, según medios locales. Es, además, la mayor subida registrada en España.
+El incremento coloca los precios en máximos y los aproxima a los de la Península, según Diario de Avisos. Es, además, la mayor subida registrada en España.
 
 La escalada de los carburantes tiene impacto directo en empresas y familias, que afrontan costes de transporte y suministros más altos en un contexto de alzas generalizadas.
 

@@ -18,8 +18,8 @@ draft: false
 
 La falta de personal ha provocado problemas en varios centros de la isla. Algunos colegios han reducido el número de comensales que atienden en el comedor. Otros han requerido la colaboración de docentes y familias para cubrir el servicio.
 
-El dato facilitado por medios locales indica que son 60 las bajas registradas en Tenerife. No se especifican los centros ni las causas individuales de las ausencias en el informe al que tuvo acceso la prensa local.
+El dato facilitado por Diario de Avisos indica que son 60 las bajas registradas en Tenerife. No se especifican los centros ni las causas individuales de las ausencias en el informe al que tuvo acceso la prensa local.
 
 Las consecuencias prácticas varían según el centro: cambios en horarios, refuerzos puntuales con personal docente o apelaciones a las familias para organizar turnos. Fuentes locales apuntan a que la prestación del servicio se ha visto alterada en varios casos.
 
-La información procede de medios locales y refleja la situación actual reportada en la isla.
+La información procede de Diario de Avisos y refleja la situación actual reportada en la isla.

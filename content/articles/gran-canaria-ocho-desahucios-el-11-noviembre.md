@@ -22,6 +22,6 @@ Se trata del desalojo de ocho viviendas en un mismo edificio. Entre los afectado
 - Número de viviendas afectadas: ocho.
 - Lugar: El Carrizal de Ingenio, Gran Canaria.
 
-La coincidencia con la jornada de protesta por la vivienda ha sido destacada por medios locales. El anuncio del desalojo afecta directamente a esas familias y sitúa el conflicto en el contexto de la movilización estatal por el derecho a una vivienda digna.
+La coincidencia con la jornada de protesta por la vivienda ha sido destacada por Canarias Ahora. El anuncio del desalojo afecta directamente a esas familias y sitúa el conflicto en el contexto de la movilización estatal por el derecho a una vivienda digna.
 
-Las circunstancias judiciales y la identidad de las partes no se incluyen en esta crónica. La información se basa en la cobertura publicada por medios locales sobre el suceso.
+Las circunstancias judiciales y la identidad de las partes no se incluyen en esta crónica. La información se basa en la cobertura publicada por Canarias Ahora sobre el suceso.

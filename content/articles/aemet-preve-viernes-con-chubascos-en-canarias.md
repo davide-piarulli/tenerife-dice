@@ -14,7 +14,7 @@ sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/tiempo-aemet-canarias-3
 draft: false
 ---
 
-**Aemet** anuncia un empeoramiento del tiempo en Canarias para el viernes. Según medios locales, la previsión apunta a chubascos fuertes en varias zonas del archipiélago.
+**Aemet** anuncia un empeoramiento del tiempo en Canarias para el viernes. Según Diario de Avisos, la previsión apunta a chubascos fuertes en varias zonas del archipiélago.
 
 El aviso llega acompañado de un descenso moderado en las temperaturas mínimas, que se espera sea leve.
 
@@ -22,6 +22,6 @@ El aviso llega acompañado de un descenso moderado en las temperaturas mínimas,
 - Fenómeno principal: chubascos fuertes.
 - Temperaturas: las mínimas sufrirán un ligero descenso.
 
-Las autoridades meteorológicas regionales y estatales son las referencias para el seguimiento de los avisos, pero la información difundida por los medios locales ya subraya un cambio hacia un tiempo más otoñal. En las próximas horas será importante vigilar la evolución de las lluvias, especialmente en áreas donde los chubascos puedan concentrarse.
+Las autoridades meteorológicas regionales y estatales son las referencias para el seguimiento de los avisos, pero la información difundida por Diario de Avisos ya subraya un cambio hacia un tiempo más otoñal. En las próximas horas será importante vigilar la evolución de las lluvias, especialmente en áreas donde los chubascos puedan concentrarse.
 
 Mantenga precaución si debe desplazarse y atienda a los comunicados oficiales sobre avisos y recomendaciones puntuales.

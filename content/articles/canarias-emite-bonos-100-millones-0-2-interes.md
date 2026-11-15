@@ -25,6 +25,6 @@ Las condiciones publicadas indican que la inversión mínima para poder suscribi
 - Interés: 0,2% fijo anual
 - Mínimo de suscripción: 1.000 euros
 
-La nota sobre la emisión se ha difundido a través de medios locales. El calendario y el tipo de interés son los datos clave para quienes valoren incluir estos bonos en su cartera durante el periodo de oferta.
+La nota sobre la emisión se ha difundido a través de Diario de Avisos. El calendario y el tipo de interés son los datos clave para quienes valoren incluir estos bonos en su cartera durante el periodo de oferta.
 
 Quienes estén interesados deberán atender las fechas y el mínimo de entrada establecidos.

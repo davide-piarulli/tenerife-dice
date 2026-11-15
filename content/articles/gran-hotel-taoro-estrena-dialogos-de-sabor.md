@@ -22,6 +22,6 @@ La carta del estreno incluye **Suertes del Marqués**, firma del cocinero **Jona
 - Fecha: 21 de noviembre
 - Propuestas: Suertes del Marqués (Jonatan García) y la cocina de Erlantz Gorostiza
 
-El anuncio llega a través de medios locales y sitúa a Taoro como escenario de un ciclo centrado en la gastronomía. La noticia confirma fecha, escenario y los nombres implicados en la primera entrega.
+El anuncio llega a través de Diario de Avisos y sitúa a Taoro como escenario de un ciclo centrado en la gastronomía. La noticia confirma fecha, escenario y los nombres implicados en la primera entrega.
 
 Quienes sigan la escena culinaria de Tenerife podrán esperar nuevas citas dentro del ciclo, que parte con esta colaboración entre cocineros reconocidos. Más detalles sobre el formato o próximas sesiones no se especifican en el comunicado original.

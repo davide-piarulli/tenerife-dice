@@ -24,4 +24,4 @@ La representante reclama más recursos y políticas públicas orientadas a crear
 
 Vela enlaza la protección de la salud mental con medidas estructurales. Su mensaje insiste en que invertir en derechos y apoyos sociales es esencial para que los jóvenes puedan cuidar su salud emocional mientras construyen su futuro.
 
-El llamamiento procede de Unicef Canarias y fue recogido por medios locales en una pieza sobre la situación juvenil y el bienestar emocional en el archipiélago.
+El llamamiento procede de Unicef Canarias y fue recogido por Diario de Avisos en una pieza sobre la situación juvenil y el bienestar emocional en el archipiélago.

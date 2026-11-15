@@ -14,7 +14,7 @@ sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/tedros-oms-premios-tabu
 draft: false
 ---
 
-El director general de la OMS, **Tedros**, dedicó su Premio Taburiente al pueblo de Tenerife. Reconoció la actitud solidaria de la isla durante la emergencia del buque **Hondius**, según informaron medios locales.
+El director general de la OMS, **Tedros**, dedicó su Premio Taburiente al pueblo de Tenerife. Reconoció la actitud solidaria de la isla durante la emergencia del buque **Hondius**, según informó Diario de Avisos.
 
 ## Premio y reconocimiento
 Tedros puso en valor la respuesta colectiva de la población tinerfeña en esa crisis sanitaria. El galardón fue presentado como un gesto de agradecimiento al apoyo mostrado por la comunidad, según la misma fuente.

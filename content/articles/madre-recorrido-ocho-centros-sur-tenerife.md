@@ -20,4 +20,4 @@ La situación obligó a la madre, que está sola en la isla, a disminuir su jorn
 
 El caso refleja las tensiones que enfrentan familias que intentan conciliar trabajo y escolarización en áreas con oferta limitada de plazas. Medellín asegura que, a pesar de la cercanía al centro señalado, no hubo plaza disponible para su hijo en el inicio del curso, lo que la llevó a buscar alternativas en varios colegios.
 
-La historia fue recogida por medios locales y pone el foco en la necesidad de medidas que faciliten la conciliación para progenitores en situación de vulnerabilidad. El relato subraya tanto el esfuerzo de la madre como las consecuencias laborales y económicas de no disponer de plaza escolar a tiempo.
+La historia fue recogida por Diario de Avisos y pone el foco en la necesidad de medidas que faciliten la conciliación para progenitores en situación de vulnerabilidad. El relato subraya tanto el esfuerzo de la madre como las consecuencias laborales y económicas de no disponer de plaza escolar a tiempo.

@@ -16,7 +16,7 @@ draft: false
 
 El 29 de octubre de 2026 la Agencia Estatal de Meteorología (Aemet) comunicó un cambio en la situación meteorológica de Canarias. El organismo indica que el episodio de calor llega a su fin y que se producirán chubascos en el archipiélago.
 
-La información fue difundida por medios locales. Aemet sitúa el giro en la tendencia del tiempo y apunta a precipitaciones en distintos puntos de las islas. No se detallan en la nota los acumulados ni la distribución por islas.
+La información fue difundida por Diario de Avisos. Aemet sitúa el giro en la tendencia del tiempo y apunta a precipitaciones en distintos puntos de las islas. No se detallan en la nota los acumulados ni la distribución por islas.
 
 La llegada de chubascos supone un descenso de las temperaturas respecto a los días anteriores. Los avisos y recomendaciones concretas corresponden a los partes oficiales de la Agencia y a los servicios de emergencias locales.
 

@@ -14,7 +14,7 @@ sourceUrl: "https://diariodeavisos.elespanol.com/2026/11/plazas-aereas-reino-uni
 draft: false
 ---
 
-**Tenerife** refuerza su presencia en el mercado británico con **2,7 millones de plazas aéreas** desde Reino Unido. La cifra, difundida por medios locales, respalda la posición de la isla como destino preferente para los viajeros británicos.
+**Tenerife** refuerza su presencia en el mercado británico con **2,7 millones de plazas aéreas** desde Reino Unido. La cifra, difundida por Diario de Avisos, respalda la posición de la isla como destino preferente para los viajeros británicos.
 
 En la feria WTM de Londres, inaugurada el **4 de noviembre de 2026**, las autoridades y agentes turísticos de Tenerife presentaron las prioridades para los próximos meses. El objetivo es rentabilizar la conectividad existente y atraer a un perfil de turista con mayor poder adquisitivo.
 

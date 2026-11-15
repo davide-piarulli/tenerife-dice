@@ -26,4 +26,4 @@ Los decretos requieren además el respaldo de la mayoría en el Congreso de los 
 ## Aplicación en Canarias
 Aunque el paquete viene del Gobierno central, su concreción en el archipiélago depende también de la comunidad autónoma y de los ayuntamientos. Eso significa que algunas medidas podrán aplicarse en toda Canarias solo si el Ejecutivo regional las asume o si los consistorios aprueban ordenanzas complementarias.
 
-Organizaciones y colectivos vinculados a la vivienda han presentado al Gobierno canario propuestas para frenar la emergencia habitacional, según informan medios locales. La coordinación entre las administraciones será determinante para que las medidas activas en el papel lleguen a la calle.
+Organizaciones y colectivos vinculados a la vivienda han presentado al Gobierno canario propuestas para frenar la emergencia habitacional, según informa Canarias Ahora. La coordinación entre las administraciones será determinante para que las medidas activas en el papel lleguen a la calle.

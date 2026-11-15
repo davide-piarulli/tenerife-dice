@@ -22,4 +22,4 @@ El cambio busca evitar la superposición con los comicios y facilitar la logíst
 - Motivo: adelanto por la cita electoral
 - Ámbito: sur de Tenerife
 
-Los detalles concretos sobre el recorrido, la hora de salida y las inscripciones no figuran en la nota original difundida por medios locales. La organización es la responsable de anunciar cualquier información práctica adicional para quienes quieran sumarse a la caminata.
+Los detalles concretos sobre el recorrido, la hora de salida y las inscripciones no figuran en la nota original difundida por Diario de Avisos. La organización es la responsable de anunciar cualquier información práctica adicional para quienes quieran sumarse a la caminata.

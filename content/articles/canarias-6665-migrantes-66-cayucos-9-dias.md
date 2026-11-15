@@ -18,7 +18,7 @@ draft: false
 
 Canarias ha recibido un total de **6.665** personas a bordo de **66 cayucos** en apenas **9 días**. El aumento de llegadas por la ruta atlántica ha concentrado la atención de las autoridades autonómicas.
 
-- Las cifras corresponden al periodo informado por medios locales.
+- Las cifras corresponden al periodo informado por Diario de Avisos.
 - El incremento de pateras ha provocado especial presión en la isla de **El Hierro**.
 
 Hoy se celebra en **Madrid** una comisión interministerial convocada para abordar este nuevo repunte. La reunión busca coordinar la respuesta del Estado ante la situación registrada en el archipiélago.

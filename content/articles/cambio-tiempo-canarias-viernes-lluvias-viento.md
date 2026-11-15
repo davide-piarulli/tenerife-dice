@@ -22,4 +22,4 @@ draft: false
 
 El aviso describe un episodio moderado y localizado: las lluvias no serán generalizadas y el enfriamiento será leve. El impacto principal será el viento en puntos con mayor exposición, y la mayor probabilidad de chubascos en la fachada norte de cada isla.
 
-La información procede de medios locales que recogen el parte de la Aemet para este viernes. Para los próximos días, la previsión apunta a un retorno gradual de las condiciones normales tras el paso de este frente débil.
+La información procede de Diario de Avisos que recogen el parte de la Aemet para este viernes. Para los próximos días, la previsión apunta a un retorno gradual de las condiciones normales tras el paso de este frente débil.

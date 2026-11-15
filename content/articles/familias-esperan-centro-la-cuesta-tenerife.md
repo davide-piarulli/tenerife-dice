@@ -18,7 +18,7 @@ draft: false
 
 Una unión temporal de empresas (UTE) ha conseguido el contrato para concluir las obras del CAMP La Cuesta, el centro para personas con discapacidad psíquica que permanece a medio construir en Tenerife.
 
-El proyecto incluye 56 plazas para usuarios residentes y 20 plazas destinadas a atención diurna. La noticia llega después de que, según medios locales, unas 80 familias lleven casi diez años esperando que el centro quede operativo.
+El proyecto incluye 56 plazas para usuarios residentes y 20 plazas destinadas a atención diurna. La noticia llega después de que, según Diario de Avisos, unas 80 familias lleven casi diez años esperando que el centro quede operativo.
 
 La reapertura de los trabajos relanza la esperanza de quienes han visto retrasado el servicio durante casi una década. La actuación pretende completar las instalaciones y poner en marcha las plazas anunciadas.
 

@@ -22,6 +22,6 @@ La instalación convierte la plaza en un paisaje polar artificial. El contraste 
 - Autores: Julio Nieto y Teatro KDO.
 - Objetivo: concienciar sobre el cambio climático.
 
-La pieza usa la puesta en escena urbana para atraer la atención de peatones y visitantes. No pretende ambientación decorativa: el eje es la visibilidad pública del mensaje ambiental. La intervención se ha difundido por medios locales y aparece en la cobertura del 14 de noviembre de 2026.
+La pieza usa la puesta en escena urbana para atraer la atención de peatones y visitantes. No pretende ambientación decorativa: el eje es la visibilidad pública del mensaje ambiental. La intervención se ha difundido por Diario de Avisos y aparece en la cobertura del 14 de noviembre de 2026.
 
 La iniciativa se enmarca en propuestas artísticas recientes que emplean el espacio urbano como plataforma de debate. En la plaza, los icebergs de acero actúan como recordatorio visual del impacto climático y como invitación al diálogo público.

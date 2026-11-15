@@ -18,8 +18,8 @@ draft: false
 
 El municipio volvió a abrir sus puertas y permitió el acceso nocturno a distintos lugares de su patrimonio. La iniciativa atrajo a miles de visitantes interesados en recorrer más de cinco siglos de historia en común.
 
-La programación combinó recorridos por espacios históricos y actividades vinculadas al patrimonio local, según informaron medios locales. La cita se celebra desde hace nueve ediciones con el objetivo de acercar la historia de la ciudad a residentes y turistas.
+La programación combinó recorridos por espacios históricos y actividades vinculadas al patrimonio local, según informó Diario de Avisos. La cita se celebra desde hace nueve ediciones con el objetivo de acercar la historia de la ciudad a residentes y turistas.
 
 El cierre de esta edición deja constancia del interés por los bienes culturales del municipio y consolida la propuesta como una actividad estable en el calendario cultural de La Laguna.
 
-La organización y los detalles concretos de las actividades se recogieron en la cobertura de medios locales el mismo día del cierre.
+La organización y los detalles concretos de las actividades se recogieron en la cobertura de Diario de Avisos el mismo día del cierre.

@@ -14,7 +14,7 @@ sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/trata-explotacion-sexua
 draft: false
 ---
 
-El aumento de la vulnerabilidad socioeconómica y las dificultades de acceso a la vivienda están empujando a mujeres en Canarias hacia redes de explotación sexual, según informes publicados el 23 de septiembre de 2026 por medios locales.
+El aumento de la vulnerabilidad socioeconómica y las dificultades de acceso a la vivienda están empujando a mujeres en Canarias hacia redes de explotación sexual, según informes publicados el 23 de septiembre de 2026 por Diario de Avisos.
 
 El Programa **Daniela-Oblatas** es el recurso que más víctimas atiende en el archipiélago. Sus usuarios son mayoritariamente migrantes latinoamericanas, aunque las crónicas señalan que el número de víctimas provenientes del propio territorio canario está en alza.
 
@@ -25,4 +25,4 @@ Puntos clave:
 - Incremento de víctimas locales en Canarias.
 - Uso de entornos digitales para captación y explotación.
 
-La combinación de precariedad económica y problemas de vivienda crea un caldo de cultivo para estas redes, según las notas publicadas por medios locales. El fenómeno preocupa por su extensión y por la adaptación de los traficantes a canales digitales.
+La combinación de precariedad económica y problemas de vivienda crea un caldo de cultivo para estas redes, según las notas publicadas por Diario de Avisos. El fenómeno preocupa por su extensión y por la adaptación de los traficantes a canales digitales.

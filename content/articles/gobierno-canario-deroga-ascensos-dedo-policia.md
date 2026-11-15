@@ -16,7 +16,7 @@ draft: false
 
 **El Gobierno de Canarias ha derogado una modificación normativa incluida en los presupuestos de 2026** que abría la puerta a ascensos discrecionales en la Policía Canaria sin respetar el escalafón ni la titulación. La medida, impulsada por Coalición Canaria (CC) y el Partido Popular (PP), había sido aprobada junto a las cuentas autonómicas de 2026.
 
-La retirada de la reforma responde, según fuentes citadas por medios locales, a la preocupación por un posible recurso del Estado ante el Tribunal Constitucional. Con la derogación, el Ejecutivo evita llevar la norma a un conflicto judicial que podría cuestionar la legalidad del procedimiento para elegir cargos en la Policía Autonómica.
+La retirada de la reforma responde, según fuentes citadas por Canarias Ahora, a la preocupación por un posible recurso del Estado ante el Tribunal Constitucional. Con la derogación, el Ejecutivo evita llevar la norma a un conflicto judicial que podría cuestionar la legalidad del procedimiento para elegir cargos en la Policía Autonómica.
 
 La modificación permitía, en la práctica, nombramientos por designación directa que habrían saltado los criterios habituales de escalafón y titulación. El Gobierno regional ha decidido dar marcha atrás y restablecer el marco previo, recuperando así los criterios de promoción basados en méritos y requisitos formativos.
 

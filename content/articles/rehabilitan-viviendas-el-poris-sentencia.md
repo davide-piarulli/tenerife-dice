@@ -16,8 +16,8 @@ draft: false
 
 **Dos viviendas de El Porís han sido rehabilitadas tras una sentencia judicial.**
 
-Las casas resultaron dañadas en 2008 por el colapso de un muro y, según los medios locales, las obras de reparación se ejecutaron después de la resolución judicial. La decisión del tribunal obligó a restaurar los inmuebles afectados.
+Las casas resultaron dañadas en 2008 por el colapso de un muro y, según Diario de Avisos, las obras de reparación se ejecutaron después de la resolución judicial. La decisión del tribunal obligó a restaurar los inmuebles afectados.
 
 Una de las personas perjudicadas admite que cometió un error en su reclamación y, a la vez, afirma haber sido excluida del proceso. Por su parte, una tercera vivienda cuya reclamación fue desestimada solicita ahora la misma intervención que se aplicó a las dos primeras.
 
-La información procede de medios locales y recoge los pasos judiciales que han desembocado en las reparaciones y en las nuevas peticiones de los vecinos afectados.
+La información procede de Diario de Avisos y recoge los pasos judiciales que han desembocado en las reparaciones y en las nuevas peticiones de los vecinos afectados.

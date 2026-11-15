@@ -22,4 +22,4 @@ El Centro Coordinador de Emergencias 1-1-2 intervino tras el suceso y activó un
 - Lugar: avenida Marítima, Santiago del Teide
 - Servicios movilizados: ambulancia del SUC, Policía Local
 
-Fuentes locales informaron del traslado del motorista al hospital. La nota se ha elaborado a partir de la información difundida por medios locales.
+Fuentes locales informaron del traslado del motorista al hospital. La nota se ha elaborado a partir de la información difundida por Diario de Avisos.

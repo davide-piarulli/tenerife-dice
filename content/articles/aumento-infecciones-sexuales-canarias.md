@@ -16,13 +16,13 @@ draft: false
 
 **Aumento notable de ITS en Canarias**
 
-Las infecciones de transmisión sexual (ITS) han crecido con fuerza en el Archipiélago. Según informes recogidos por medios locales, la incidencia en Canarias avanza a un ritmo que es tres veces el registrado en el resto de España.
+Las infecciones de transmisión sexual (ITS) han crecido con fuerza en el Archipiélago. Según informes recogidos por Diario de Avisos, la incidencia en Canarias avanza a un ritmo que es tres veces el registrado en el resto de España.
 
 - **En siete años**: los diagnósticos de ITS en las Islas se han multiplicado por seis.
 - **Gonorrea**: su tasa ha subido más del 500%.
 
 Los datos reflejan un incremento sostenido en un periodo de siete años y una evolución especialmente marcada en la gonorrea. El repunte sitúa a Canarias por encima de la media nacional en este tipo de infecciones.
 
-La información proviene de medios locales que han recogido estas cifras y alertas sobre la evolución epidemiológica en el Archipiélago. La tendencia plantea desafíos para la prevención y el seguimiento clínico de las ITS en las Islas.
+La información proviene de Diario de Avisos que han recogido estas cifras y alertas sobre la evolución epidemiológica en el Archipiélago. La tendencia plantea desafíos para la prevención y el seguimiento clínico de las ITS en las Islas.
 
 El foco está en detener el avance de los contagios y en adecuar las respuestas sanitarias a un aumento que, según las cifras citadas, supera con claridad el comportamiento observado en el resto del país.

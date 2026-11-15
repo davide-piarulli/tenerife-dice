@@ -16,7 +16,7 @@ draft: false
 
 Las autoridades sanitarias canarias han anunciado la disponibilidad de **282.263 dosis antigripales** para la próxima campaña. Además, la protección frente al virus respiratorio sincitial (VRS) se amplía a nuevos colectivos.
 
-La ampliación incluye a **personas mayores**, pacientes con enfermedades crónicas y otros grupos vulnerables, según el comunicado transmitido por medios locales. Las autoridades recuerdan que la vacunación frente a la gripe sigue siendo una herramienta clave para reducir ingresos y complicaciones en temporada respiratoria.
+La ampliación incluye a **personas mayores**, pacientes con enfermedades crónicas y otros grupos vulnerables, según el comunicado transmitido por Diario de Avisos. Las autoridades recuerdan que la vacunación frente a la gripe sigue siendo una herramienta clave para reducir ingresos y complicaciones en temporada respiratoria.
 
 - Dosis disponibles: **282.263**
 - Grupos incluidos en la ampliación del VRS: **mayores, crónicos y vulnerable**
@@ -24,4 +24,4 @@ La ampliación incluye a **personas mayores**, pacientes con enfermedades cróni
 
 El anuncio llega en el inicio de la campaña estacional de vacunación. La administración regional facilita la organización con la apertura de la cita previa para quienes estén incluidos en los grupos ampliados. La medida busca reducir la presión sobre los servicios sanitarios en los meses de mayor circulación de virus respiratorios.
 
-Las declaraciones y los datos publicados proceden de medios locales y del comunicado difundido por Sanidad el 14 de octubre de 2026.
+Las declaraciones y los datos publicados proceden de Diario de Avisos y del comunicado difundido por Sanidad el 14 de octubre de 2026.

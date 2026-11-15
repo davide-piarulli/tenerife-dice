@@ -22,4 +22,4 @@ La herramienta también concluye que la mayoría de los grandes municipios canar
 
 El texto recuerda además que la vivienda vacacional quedó regulada legalmente en mayo de 2015, un hito que, según las fuentes, ha ido dejando menos oportunidades a la población local frente al crecimiento de la oferta turística.
 
-Los resultados del mapa aportan una foto de la presión combinada entre turismo y mercado de la vivienda en el Archipiélago. La información fue difundida por medios locales el 24 de septiembre de 2026.
+Los resultados del mapa aportan una foto de la presión combinada entre turismo y mercado de la vivienda en el Archipiélago. La información fue difundida por Canarias Ahora el 24 de septiembre de 2026.

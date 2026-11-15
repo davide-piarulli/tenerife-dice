@@ -21,4 +21,4 @@ draft: false
 - Daños en viviendas próximas al lugar.
 - Huella permanente en la montaña del antiguo recinto militar.
 
-El episodio, recogido por medios locales, dejó consecuencias tanto humanas como materiales y transformó el paisaje donde se ubicaba el recinto. La referencia al lugar y al año aparece en la documentación original del suceso, que sitúa el hecho en Valle Tabares, Tenerife. El relato de los hechos conserva los elementos básicos: víctimas, evacuación, daños en viviendas y la alteración del terreno en torno al antiguo emplazamiento militar.
+El episodio, recogido por Diario de Avisos, dejó consecuencias tanto humanas como materiales y transformó el paisaje donde se ubicaba el recinto. La referencia al lugar y al año aparece en la documentación original del suceso, que sitúa el hecho en Valle Tabares, Tenerife. El relato de los hechos conserva los elementos básicos: víctimas, evacuación, daños en viviendas y la alteración del terreno en torno al antiguo emplazamiento militar.

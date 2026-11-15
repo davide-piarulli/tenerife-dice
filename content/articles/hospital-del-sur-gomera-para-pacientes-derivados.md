@@ -14,7 +14,7 @@ sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/hospital-del-sur-gomera
 draft: false
 ---
 
-**La Gomera apuesta por el Hospital del Sur como destino para pacientes derivados.** La consejería de Sanidad ha insistido en que el centro ya presta atención a este tipo de pacientes y que podrá asumir un mayor volumen a medida que se amplíe su cartera de servicios. La información se publicó el 19 de octubre de 2026 en medios locales.
+**La Gomera apuesta por el Hospital del Sur como destino para pacientes derivados.** La consejería de Sanidad ha insistido en que el centro ya presta atención a este tipo de pacientes y que podrá asumir un mayor volumen a medida que se amplíe su cartera de servicios. La información se publicó el 19 de octubre de 2026 en Diario de Avisos.
 
 El mensaje oficial destaca dos puntos básicos:
 

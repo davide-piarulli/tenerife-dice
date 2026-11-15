@@ -24,4 +24,4 @@ Otra novedad de esta edición afecta al tramo de edad de 3 a 5 años. Ese grupo 
 - Grupos prioritarios: residencias y sanitarios.
 - Alumnos de 3 a 5 años: vacuna antigripal intranasal en colegios.
 
-La información procede de medios locales. El anuncio combina la campaña frente a la gripe y la covid con el cambio en la forma de administrar la vacuna antigripal a los más pequeños.
+La información procede de Diario de Avisos. El anuncio combina la campaña frente a la gripe y la covid con el cambio en la forma de administrar la vacuna antigripal a los más pequeños.

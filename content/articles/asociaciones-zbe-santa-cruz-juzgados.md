@@ -14,8 +14,8 @@ sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/juzgados-zbe-santa-cruz
 draft: false
 ---
 
-Dos asociaciones de vecinos han llevado la ordenanza de la Zona de Bajas Emisiones (ZBE) de Santa Cruz de Tenerife ante los tribunales. Según medios locales, la denuncia ya ha sido presentada ante el **Tribunal Superior de Justicia**.
+Dos asociaciones de vecinos han llevado la ordenanza de la Zona de Bajas Emisiones (ZBE) de Santa Cruz de Tenerife ante los tribunales. Según Diario de Avisos, la denuncia ya ha sido presentada ante el **Tribunal Superior de Justicia**.
 
-La acción judicial se dirige contra la normativa municipal que regula la ZBE en la capital tinerfeña. El recurso fue comunicado a la opinión pública a través de medios locales el 13 de septiembre de 2026.
+La acción judicial se dirige contra la normativa municipal que regula la ZBE en la capital tinerfeña. El recurso fue comunicado a la opinión pública a través de Diario de Avisos el 13 de septiembre de 2026.
 
 El movimiento de las asociaciones abre un nuevo frente jurídico en el debate sobre la implantación y el alcance de las restricciones asociadas a la ZBE. El procedimiento continúa en sede judicial, donde se resolverá si la ordenanza se ajusta a la legalidad vigente.

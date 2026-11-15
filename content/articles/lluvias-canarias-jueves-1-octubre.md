@@ -19,6 +19,6 @@ Este jueves, 1 de octubre de 2026, el tiempo cambiará en varias islas del archi
 - La Palma y Tenerife: serán las islas con mayor probabilidad de precipitaciones.
 - Lanzarote y Fuerteventura: predominarán los claros y menor riesgo de lluvia.
 
-Las condiciones previstas señalan que, pese a la presencia de lluvias en algunas zonas, no se esperan cambios bruscos en las temperaturas máximas, que rondarán los 30 grados. El aviso llega por medios locales que cubren el estado del tiempo en el archipiélago.
+Las condiciones previstas señalan que, pese a la presencia de lluvias en algunas zonas, no se esperan cambios bruscos en las temperaturas máximas, que rondarán los 30 grados. El aviso llega por Diario de Avisos que cubren el estado del tiempo en el archipiélago.
 
 La distribución de nubes y lluvias será desigual entre islas: algunas tendrán intervalos de nubosidad con chubascos aislados, mientras otras mantendrán cielos más despejados. Para quienes vayan a desplazarse entre islas o a actividades al aire libre, conviene tener en cuenta esta variabilidad local del tiempo durante la jornada del jueves.

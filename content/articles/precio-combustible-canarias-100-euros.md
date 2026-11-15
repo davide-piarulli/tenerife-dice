@@ -26,4 +26,4 @@ Las cifras clave:
 
 El alza de los combustibles actúa como un factor directo en el bolsillo de las familias y en los costes de empresas, especialmente en sectores dependientes del transporte. El comportamiento de estos precios ha elevado la presión sobre la evolución general de los precios en el archipiélago.
 
-La noticia proviene de medios locales y refleja la situación económica reciente en las Islas tal como se informa en la fuente original.
+La noticia proviene de Diario de Avisos y refleja la situación económica reciente en las Islas tal como se informa en la fuente original.

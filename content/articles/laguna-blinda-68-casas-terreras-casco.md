@@ -22,4 +22,4 @@ El paso por el Boletín Oficial de Canarias corresponde a la fase inicial del pr
 
 La decisión pretende asegurar el estado del casco histórico mientras se definen las soluciones para conservar las viviendas tradicionales. Las partes interesadas y los propietarios deben atenerse a la normativa derivada de la aprobación inicial publicada en el BOC.
 
-La noticia fue difundida por medios locales el 22 de octubre de 2026.
+La noticia fue difundida por Diario de Avisos el 22 de octubre de 2026.

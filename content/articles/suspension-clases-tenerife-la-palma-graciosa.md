@@ -25,4 +25,4 @@ Islas afectadas:
 - La Palma
 - La Graciosa
 
-La información procede de medios locales que recogen el anuncio de la Consejería y los avisos meteorológicos. El cambio a docencia telemática se aplicará el 11 de noviembre, según la comunicación oficial citada por esos medios.
+La información procede de Canarias Ahora que recogen el anuncio de la Consejería y los avisos meteorológicos. El cambio a docencia telemática se aplicará el 11 de noviembre, según la comunicación oficial citada por esos medios.

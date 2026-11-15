@@ -26,4 +26,4 @@ Según García Piñero, la entidad busca mantener una presencia activa que acomp
 
 La intervención se enmarca en la actividad habitual de la entidad en Canarias, donde Cajamar ha desarrollado proyectos de financiación y apoyo a distintos sectores. El director territorial enfatizó la voluntad de seguir colaborando con agentes sociales y económicos para impulsar la recuperación y el crecimiento sostenido en la comunidad.
 
-La declaración fue recogida por medios locales el 15 de noviembre de 2026.
+La declaración fue recogida por Diario de Avisos el 15 de noviembre de 2026.

@@ -18,7 +18,7 @@ draft: false
 
 La medida, autorizada hoy, 29 de octubre de 2026, responde a la modificación tarifaria que el Consistorio local solicitó al Ejecutivo regional. Según la información disponible, la aprobación llegó tras un proceso administrativo que incluyó varios requerimientos formales.
 
-Los nuevos precios entran en vigor hoy, por lo que las modificaciones aprobadas empezarán a aplicarse de inmediato. El anuncio no detalla en la nota pública los tramos o el impacto por tipo de contrato; la comunicación difundida por medios locales se limita a confirmar el porcentaje y la entrada en vigor.
+Los nuevos precios entran en vigor hoy, por lo que las modificaciones aprobadas empezarán a aplicarse de inmediato. El anuncio no detalla en la nota pública los tramos o el impacto por tipo de contrato; la comunicación difundida por Diario de Avisos se limita a confirmar el porcentaje y la entrada en vigor.
 
 El ajuste del 2,2% se suma a las decisiones recientes sobre tarifas municipales y servicios, en un contexto de revisión periódica de los costes del suministro. El Consistorio fue el promotor de la solicitud y el Ejecutivo regional refrendó la modificación tras completar los trámites administrativos exigidos.
 

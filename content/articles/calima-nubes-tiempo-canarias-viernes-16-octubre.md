@@ -16,7 +16,7 @@ draft: false
 
 **La Aemet prevé calima en Canarias para este viernes 16 de octubre de 2026.**
 
-Cielos con nubes altas durante la mañana que irán dando paso a más claros desde el mediodía. La presencia de calima será notable en el archipiélago, según el aviso recogido por medios locales.
+Cielos con nubes altas durante la mañana que irán dando paso a más claros desde el mediodía. La presencia de calima será notable en el archipiélago, según el aviso recogido por Diario de Avisos.
 
 El viento soplará del noreste, condicionando la sensación térmica en costas y zonas expuestas. Las temperaturas mínimas se situarán en torno a los 23 °C en las dos capitales.
 

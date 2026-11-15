@@ -16,8 +16,8 @@ draft: false
 
 **Comercios y hosteleros de La Laguna** han pedido al Ayuntamiento el pago de los bonos de la campaña de comercio para poder afrontar gastos corrientes.
 
-Según medios locales, los establecimientos han manifestado su preocupación por no recibir aún las cantidades derivadas de las ventas con esos bonos. En respuesta, el **Ayuntamiento** ha señalado que la campaña concluirá "la próxima semana" y que, una vez cerrada, se ingresarán las cantidades correspondientes por las ventas.
+Según Diario de Avisos, los establecimientos han manifestado su preocupación por no recibir aún las cantidades derivadas de las ventas con esos bonos. En respuesta, el **Ayuntamiento** ha señalado que la campaña concluirá "la próxima semana" y que, una vez cerrada, se ingresarán las cantidades correspondientes por las ventas.
 
 La reclamación de los empresarios llega en un momento en el que, según la información disponible, esperan liquidez para cubrir costes de explotación. El Ayuntamiento mantiene el calendario de la campaña y vincula los pagos al cierre de la misma.
 
-La noticia fue recogida por medios locales; el avance público no incluye detalles sobre fechas concretas de abono, importes totales ni el número de establecimientos afectados. La información difundida apunta únicamente al compromiso municipal de efectuar los ingresos tras la finalización de la campaña.
+La noticia fue recogida por Diario de Avisos; el avance público no incluye detalles sobre fechas concretas de abono, importes totales ni el número de establecimientos afectados. La información difundida apunta únicamente al compromiso municipal de efectuar los ingresos tras la finalización de la campaña.

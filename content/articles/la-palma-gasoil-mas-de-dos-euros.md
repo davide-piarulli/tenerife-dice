@@ -16,7 +16,7 @@ draft: false
 
 **Precio récord en La Palma**
 
-El precio del gasoil ha superado **los 2 euros por litro** en La Palma, según informan medios locales. El aumento afecta especialmente a actividades que dependen del combustible, como la agricultura y la pesca.
+El precio del gasoil ha superado **los 2 euros por litro** en La Palma, según informa Diario de Avisos. El aumento afecta especialmente a actividades que dependen del combustible, como la agricultura y la pesca.
 
 Productores y armadores responden con preocupación. El encarecimiento incrementa los costes de explotación en islas donde el transporte y la logística ya son caros.
 
@@ -24,4 +24,4 @@ Además, en el sector existe el temor a nuevas subidas vinculadas a la guerra in
 
 Las fuentes locales destacan el impacto inmediato sobre los transportes y la cadena de suministros. En breve plazo, los sectores más expuestos deberán ajustar precios o costes de producción, según los análisis citados por los medios.
 
-La noticia fue difundida el 25 de septiembre de 2026 por medios locales y pone de relieve la vulnerabilidad de las economías insulares ante las fluctuaciones del mercado energético.
+La noticia fue difundida el 25 de septiembre de 2026 por Diario de Avisos y pone de relieve la vulnerabilidad de las economías insulares ante las fluctuaciones del mercado energético.
