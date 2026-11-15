@@ -53,3 +53,37 @@ export async function getArticulosRelacionados(
     .filter((a) => pattern.test([a.title, a.excerpt, ...(a.tags ?? [])].join(" ")))
     .slice(0, limit);
 }
+
+const REGLAS_SERVICIO: { slug: string; patron: RegExp; texto: string }[] = [
+  {
+    slug: "avisos-aemet-tenerife",
+    patron: /\baemet\b|aviso (amarillo|naranja|rojo)|lluvias?\b|viento|calima|borrasca|temporal|tormenta|oleaje|prealerta/i,
+    texto: "Consulta en tiempo real los avisos meteorológicos de AEMET para cada zona de Tenerife.",
+  },
+  {
+    slug: "permiso-subir-teide",
+    patron: /\bteide\b|las cañadas|teleférico|altavista/i,
+    texto: "Cómo reservar el permiso para subir al pico del Teide, precios de la ecotasa y alternativas.",
+  },
+  {
+    slug: "estado-carreteras-tenerife",
+    patron: /\bTF-\d|tráfico|carretera|atasco|retenciones|guaguas?\b|tranvía|autopista/i,
+    texto: "Dónde ver el tráfico en tiempo real, cámaras de la TF-1 y la TF-5 y cierres de carreteras.",
+  },
+  {
+    slug: "playas-tenerife-hoy",
+    patron: /\bplayas?\b|bañistas?|socorrista|bandera azul|litoral/i,
+    texto: "Estado del mar, viento y webcams de las playas de Tenerife, actualizado cada día.",
+  },
+];
+
+/** Service page most related to an article (first matching rule wins), if any. */
+export function servicioRelacionado(texto: string): (Servicio & { texto: string }) | null {
+  for (const r of REGLAS_SERVICIO) {
+    if (r.patron.test(texto)) {
+      const s = getServicio(r.slug);
+      if (s) return { ...s, texto: r.texto };
+    }
+  }
+  return null;
+}

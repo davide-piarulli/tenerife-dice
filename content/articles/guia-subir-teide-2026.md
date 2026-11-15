@@ -9,10 +9,11 @@ image: "/images/articles/guia-subir-teide-2026.webp"
 imageAlt: "Fotografía editorial del Teide"
 imageIsAI: true
 author: "Redacción Tenerife Dice"
+updated: "2026-11-15T19:00:00Z"
 draft: false
 faq:
   - question: "¿Necesito un permiso para subir al Teide?"
-    answer: "Sí, para el tramo final hasta el cráter, por encima de la estación superior del teleférico, necesitas un permiso gratuito del Parque Nacional. Tiene plazas limitadas por día, así que conviene solicitarlo con varias semanas de antelación."
+    answer: "Sí, para el tramo final hasta el cráter, por encima de la estación superior del teleférico, necesitas un permiso del Parque Nacional que se reserva en Tenerife ON. Desde enero de 2026 cuesta 15 € para visitantes de fuera de Canarias y 6 € para residentes en otras islas, y es gratis para residentes en Tenerife y menores de 14 años. Tiene plazas limitadas, así que conviene reservarlo con antelación."
   - question: "¿Hay que reservar el teleférico con antelación?"
     answer: "Es muy recomendable. Las plazas suelen agotarse con días de antelación en verano y en puentes, así que conviene comprar el billete online cuanto antes."
   - question: "¿Hace frío en la cumbre del Teide aunque sea verano?"
@@ -25,7 +26,9 @@ El Teide es el punto más alto de España y el corazón del Parque Nacional del 
 
 ## Permiso para la cumbre
 
-El tramo final que lleva hasta el cráter, por encima de la estación superior del teleférico, requiere un permiso gratuito que expide el Parque Nacional. Se solicita con antelación a través de la web oficial del organismo y tiene plazas limitadas por día, por lo que se recomienda reservarlo con varias semanas de margen, especialmente en temporada alta.
+Actualizamos todos los detalles (precios, horarios y alternativas) en nuestra [guía del permiso para subir al Teide](/servicios/permiso-subir-teide/).
+
+El tramo final que lleva hasta el cráter, por encima de la estación superior del teleférico, requiere un permiso del Parque Nacional que se reserva en Tenerife ON, la plataforma del Cabildo. Desde el 19 de enero de 2026 tiene una ecotasa (15 € para visitantes de fuera de Canarias, 6 € para residentes en otras islas, gratis para residentes en Tenerife y menores de 14 años). Hay plazas limitadas por franja horaria, por lo que se recomienda reservarlo con varias semanas de margen, especialmente en temporada alta.
 
 ## Teleférico: reserva anticipada
 

@@ -13,6 +13,7 @@ import { ArticleCard } from "@/components/ArticleCard";
 import { CategoryBadge } from "@/components/CategoryBadge";
 import { ShareButtons } from "@/components/ShareButtons";
 import { getCategory, SITE } from "@/lib/constants";
+import { servicioRelacionado } from "@/lib/servicios";
 
 export const dynamicParams = false;
 
@@ -73,6 +74,7 @@ export default async function ArticlePage({
   const category = getCategory(article.category);
   const related = await getRelatedArticles(article);
   const url = `${SITE.url}/noticias/${article.slug}/`;
+  const servicio = servicioRelacionado([article.title, article.excerpt, ...(article.tags ?? [])].join(" "));
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -222,6 +224,19 @@ export default async function ArticlePage({
         className="prose-article mt-8"
         dangerouslySetInnerHTML={{ __html: article.content }}
       />
+
+      {servicio && (
+        <aside className="mt-8 rounded-xl border-l-4 border-ocean bg-white p-4 shadow-sm">
+          <p className="text-xs font-semibold uppercase tracking-wide text-ocean">Te puede servir</p>
+          <Link
+            href={`/servicios/${servicio.slug}/`}
+            className="mt-1 block font-display text-lg font-bold text-volcanic hover:text-ocean"
+          >
+            {servicio.short}
+          </Link>
+          <p className="text-sm text-ink/80">{servicio.texto}</p>
+        </aside>
+      )}
 
       {article.faq && article.faq.length > 0 && (
         <section className="mt-10">
