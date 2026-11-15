@@ -135,3 +135,37 @@ export function veredicto(d: DiaPlaya): Veredicto {
 export function hoyCanarias(): string {
   return new Intl.DateTimeFormat("en-CA", { timeZone: "Atlantic/Canary" }).format(new Date());
 }
+
+export type ResumenPlayas = {
+  fecha: string;
+  mejores: { nombre: string; municipio: string; zona: Zona; tMax?: number; tAgua?: number }[];
+  precaucion: number;
+  evitar: number;
+  total: number;
+};
+
+function diaPara(p: Playa, fecha: string): DiaPlaya | undefined {
+  return p.dias.find((d) => d.fecha === fecha) ?? p.dias.find((d) => d.fecha > fecha);
+}
+
+/** Day summary shared by the page, the JSON feed and the Instagram image. */
+export function resumir(playas: Playa[]): ResumenPlayas | null {
+  const conDatos = playas.filter((p) => p.dias.length > 0);
+  if (conDatos.length === 0) return null;
+  const hoy = hoyCanarias();
+  const fecha = conDatos.map((p) => diaPara(p, hoy)?.fecha).filter((f): f is string => !!f).sort()[0] ?? hoy;
+  const conDia = conDatos.map((p) => ({ p, d: diaPara(p, fecha) })).filter((x) => x.d) as { p: Playa; d: DiaPlaya }[];
+  const v = conDia.map((x) => ({ ...x, v: veredicto(x.d) }));
+  const mejores = v
+    .filter((x) => x.v === "bueno")
+    .sort((a, b) => (b.d.tMax ?? 0) - (a.d.tMax ?? 0))
+    .slice(0, 6)
+    .map(({ p, d }) => ({ nombre: p.nombre, municipio: p.municipio, zona: p.zona, tMax: d.tMax, tAgua: d.tAgua }));
+  return {
+    fecha,
+    mejores,
+    precaucion: v.filter((x) => x.v === "regular").length,
+    evitar: v.filter((x) => x.v === "malo").length,
+    total: v.length,
+  };
+}
