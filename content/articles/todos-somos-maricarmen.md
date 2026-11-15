@@ -9,7 +9,7 @@ image: "/images/articles/todos-somos-maricarmen.webp"
 imageAlt: "Imagen ilustrativa: Todos somos Maricarmen"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/todos-somos-maricarmen/"
 draft: false
 ---

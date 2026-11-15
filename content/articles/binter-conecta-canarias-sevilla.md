@@ -9,7 +9,7 @@ image: "/images/articles/binter-conecta-canarias-sevilla.webp"
 imageAlt: "Imagen ilustrativa: Binter conecta Canarias con Sevilla, destino cultural"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/sevilla-cuna-del-arte-y-la-tradicion/"
 draft: false
 ---

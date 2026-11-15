@@ -9,7 +9,7 @@ image: "/images/articles/miguel-angel-millan-vinos-tenerife-saben-volcan.webp"
 imageAlt: "Imagen ilustrativa: Miguel Ángel Millán explica por qué los vinos de Tenerife \"saben a volcán\""
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/miguel-angel-millan-vinos-de-tenerife-saben-volcan/"
 draft: false
 ---

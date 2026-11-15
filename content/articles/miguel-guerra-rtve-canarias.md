@@ -9,7 +9,7 @@ image: "/images/articles/miguel-guerra-rtve-canarias.webp"
 imageAlt: "Imagen ilustrativa: Miguel Guerra, nuevo director de RTVE Canarias, impulsa cambios en la programación"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/miguel-guerra-director-rtve-canarias-entrevista-cambios-programacion/"
 draft: false
 ---

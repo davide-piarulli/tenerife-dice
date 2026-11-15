@@ -9,7 +9,7 @@ image: "/images/articles/psoe-acusa-afonso-retraso-playa-jardin.webp"
 imageAlt: "Imagen ilustrativa: PSOE acusa a Afonso de justificar con la falta de permisos el retraso en Playa Jardín"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/obras-playa-jardin-puerto-de-la-cruz/"
 draft: false
 ---

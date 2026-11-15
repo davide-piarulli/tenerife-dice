@@ -9,7 +9,7 @@ image: "/images/articles/elsa-punset-visita-jardin-terapeutico-la-candelari.webp
 imageAlt: "Imagen ilustrativa: Elsa Punset visita las obras del jardín terapéutico pediátrico de La Candelaria"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/elsa-punset-obras-futuro-jardin-terapeutico-pediatrico-la-candelaria/"
 draft: false
 ---

@@ -9,7 +9,7 @@ image: "/images/articles/aemet-lluvias-canarias-jueves-8-octubre.webp"
 imageAlt: "Imagen ilustrativa: Aemet anuncia lluvias en Canarias para el jueves 8 de octubre"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/aemet-lluvias-canarias-jueves-8-octubre/"
 draft: false
 ---

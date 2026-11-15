@@ -9,7 +9,7 @@ image: "/images/articles/precio-combustible-canarias-100-euros.webp"
 imageAlt: "Imagen ilustrativa: El precio del combustible golpea a Canarias: hasta 100 euros por tanque"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/el-combustible-arruina-a-familias-y-empresas-en-canarias-100-euros-por-tanque/"
 draft: false
 ---

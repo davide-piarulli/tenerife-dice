@@ -9,7 +9,7 @@ image: "/images/articles/santa-cruz-extreme-cuatro-modalidades-anaga.webp"
 imageAlt: "Imagen ilustrativa: La Santa Cruz Extreme se celebra este sábado con cuatro recorridos por Anaga"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/santa-cruz-extreme-modalidades-senderos-anaga/"
 draft: false
 ---

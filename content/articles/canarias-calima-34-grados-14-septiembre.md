@@ -9,7 +9,7 @@ image: "/images/articles/canarias-calima-34-grados-14-septiembre.webp"
 imageAlt: "Imagen ilustrativa: Aemet anuncia hasta 34 grados y calima en Canarias este lunes"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/calima-calor-canarias-lunes-14-septiembre/"
 draft: false
 ---

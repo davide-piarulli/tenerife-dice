@@ -9,7 +9,7 @@ image: "/images/articles/supervivientes-ruta-migratoria-hacia-el-hierro.webp"
 imageAlt: "Imagen ilustrativa: Sobrevivientes relatan la travesía hasta El Hierro: dos se lanzaron por la borda"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/migraciones/personas-tiraron-borda-no-podian-supervivientes-ruta-migratoria-hierro_1_13644423.html"
 draft: false
 ---

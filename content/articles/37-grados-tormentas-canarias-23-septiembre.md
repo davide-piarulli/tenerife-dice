@@ -9,7 +9,7 @@ image: "/images/articles/37-grados-tormentas-canarias-23-septiembre.webp"
 imageAlt: "Imagen ilustrativa: 37 grados y tormentas en Canarias: las zonas donde sube el calor"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/calor-tormentas-canarias-aemet/"
 draft: false
 ---

@@ -9,7 +9,7 @@ image: "/images/articles/lluvias-canarias-jueves-1-octubre.webp"
 imageAlt: "Imagen ilustrativa: La lluvia regresa a Canarias este jueves, con máximas en torno a 30 ºC"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/lluvias-canarias-jueves-1-octubre-aemet/"
 draft: false
 ---

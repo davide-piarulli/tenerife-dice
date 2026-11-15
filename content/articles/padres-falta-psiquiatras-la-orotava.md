@@ -9,7 +9,7 @@ image: "/images/articles/padres-falta-psiquiatras-la-orotava.webp"
 imageAlt: "Imagen ilustrativa: Padres alertan por la falta de psiquiatras infantiles en La Orotava"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/familias-tenerife-falta-psiquiatras-ninos-autismo/"
 draft: false
 ---

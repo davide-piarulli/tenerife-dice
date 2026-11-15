@@ -9,7 +9,7 @@ image: "/images/articles/calima-nubes-tiempo-canarias-viernes-16-octubre.webp"
 imageAlt: "Imagen ilustrativa: Calima y nubes: la Aemet detalla el tiempo en Canarias para el viernes"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/calima-canarias-viernes-16-octubre-aemet/"
 draft: false
 ---

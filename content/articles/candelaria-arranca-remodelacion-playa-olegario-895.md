@@ -9,7 +9,7 @@ image: "/images/articles/candelaria-arranca-remodelacion-playa-olegario-895.webp
 imageAlt: "Imagen ilustrativa: Candelaria arranca la remodelación de la playa de Olegario con 895.324 euros"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/candelaria-playa-de-olegario/"
 draft: false
 ---

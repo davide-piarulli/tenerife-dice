@@ -9,7 +9,7 @@ image: "/images/articles/alcalde-colectivo-mantener-monumento-franco.webp"
 imageAlt: "Imagen ilustrativa: El alcalde y un colectivo intentan frenar la retirada del monumento a Franco en Santa Cruz"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/sociedad/maniobras-alcalde-santa-cruz-tenerife-asociacion-concejal-vox-mantener-monumento-franco_1_13645383.html"
 draft: false
 ---

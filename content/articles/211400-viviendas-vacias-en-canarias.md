@@ -9,7 +9,7 @@ image: "/images/articles/211400-viviendas-vacias-en-canarias.webp"
 imageAlt: "Imagen ilustrativa: Más de 211.400 viviendas vacías en Canarias mientras falta vivienda pública"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/sociedad/casas-canarias-mantiene-vacias-vecinos-buscan-vivir_1_13592494.html"
 draft: false
 ---

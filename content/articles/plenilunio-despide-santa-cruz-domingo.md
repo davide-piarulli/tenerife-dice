@@ -9,7 +9,7 @@ image: "/images/articles/plenilunio-despide-santa-cruz-domingo.webp"
 imageAlt: "Imagen ilustrativa: Plenilunio se despide en Santa Cruz de Tenerife: planes para este domingo"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/plenilunio-santa-cruz-domingo-actividades/"
 draft: false
 ---

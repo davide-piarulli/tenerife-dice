@@ -9,7 +9,7 @@ image: "/images/articles/aumento-infecciones-sexuales-canarias.webp"
 imageAlt: "Imagen ilustrativa: Crece la incidencia de infecciones sexuales en Canarias"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/aumento-infecciones-sexuales-canarias/"
 draft: false
 ---

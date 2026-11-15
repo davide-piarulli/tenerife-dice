@@ -9,7 +9,7 @@ image: "/images/articles/vilaflor-geotermia-tenerife.webp"
 imageAlt: "Imagen ilustrativa: Vilaflor impulsa la geotermia en Tenerife"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/vilaflor-alumbra-el-desarrollo-de-la-geotermia/"
 draft: false
 ---

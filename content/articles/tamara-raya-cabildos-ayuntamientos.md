@@ -9,7 +9,7 @@ image: "/images/articles/tamara-raya-cabildos-ayuntamientos.webp"
 imageAlt: "Imagen ilustrativa: Tamara Raya (PSOE): los cabildos, ayuntamientos de mayor tamaño"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/tamara-raya-psoe-cabildos-ayuntamientos/"
 draft: false
 ---

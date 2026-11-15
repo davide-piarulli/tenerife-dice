@@ -9,7 +9,7 @@ image: "/images/articles/gran-hotel-taoro-estrena-dialogos-de-sabor.webp"
 imageAlt: "Imagen ilustrativa: El Gran Hotel Taoro estrena 'Diálogos de Sabor' en Puerto de la Cruz"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/el-gran-hotel-taoro-en-puerto-de-la-cruz-estrena-dialogos-de-sabor/"
 draft: false
 ---

@@ -9,7 +9,7 @@ image: "/images/articles/dirigente-cc-difunde-cartel-insinua-psoe.webp"
 imageAlt: "Imagen ilustrativa: Un dirigente de Coalición Canaria difunde un cartel que culpa al PSOE de una convocatoria en Santa Cruz"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/politica/dirigente-coalicion-canaria-divulga-convocatoria-violenta-tenerife-psoe_1_13620027.html"
 draft: false
 ---

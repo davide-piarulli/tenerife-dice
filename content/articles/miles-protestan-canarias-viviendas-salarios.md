@@ -9,7 +9,7 @@ image: "/images/articles/miles-protestan-canarias-viviendas-salarios.webp"
 imageAlt: "Imagen ilustrativa: Miles protestan en Canarias por viviendas inalcanzables y salarios bajos"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/sociedad/miles-personas-protestan-canarias-viviendas-inalcanzables-salarios-no-permiten-pagarlas_1_13656540.html"
 draft: false
 ---

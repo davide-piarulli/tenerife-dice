@@ -9,7 +9,7 @@ image: "/images/articles/presupuestos-canarias-2027-recortes-vivienda-medio.webp
 imageAlt: "Imagen ilustrativa: Presupuestos de Canarias 2027: recortes en vivienda, medio ambiente y promoción turística"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/economia/presupuestos-canarias-partida-partida-cc-pp-recortan-vivienda-medio-ambiente-promocion-turistica_1_13641494.html"
 draft: false
 ---

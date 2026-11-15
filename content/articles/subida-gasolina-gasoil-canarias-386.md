@@ -9,7 +9,7 @@ image: "/images/articles/subida-gasolina-gasoil-canarias-386.webp"
 imageAlt: "Imagen ilustrativa: Empresas y hogares soportan la escalada del 38,6% en carburantes en Canarias"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/11/escala-gasolina-gasoil/"
 draft: false
 ---

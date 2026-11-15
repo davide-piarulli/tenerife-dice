@@ -9,7 +9,7 @@ image: "/images/articles/fallece-hombre-ahogado-en-fuerteventura.webp"
 imageAlt: "Imagen ilustrativa: Fallece un hombre rescatado en la playa de Garcey (Fuerteventura)"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/fallecido-mar-fuerteventura/"
 draft: false
 ---

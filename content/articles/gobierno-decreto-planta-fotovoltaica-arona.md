@@ -9,7 +9,7 @@ image: "/images/articles/gobierno-decreto-planta-fotovoltaica-arona.webp"
 imageAlt: "Imagen ilustrativa: El Gobierno autoriza por decreto una planta fotovoltaica en Arona"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/planta-fotovoltaica-la-estrella-arona/"
 draft: false
 ---

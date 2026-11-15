@@ -9,7 +9,7 @@ image: "/images/articles/ayudas-la-palma-600-millones-canarias.webp"
 imageAlt: "Imagen ilustrativa: El Congreso avala el decreto con ayudas para La Palma y 600 millones para Canarias"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/congreso-ayudas-la-palma-600-millones-superavit-canarias/"
 draft: false
 ---

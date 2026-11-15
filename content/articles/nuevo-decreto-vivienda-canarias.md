@@ -9,7 +9,7 @@ image: "/images/articles/nuevo-decreto-vivienda-canarias.webp"
 imageAlt: "Imagen ilustrativa: Nuevo decreto de vivienda: qué medidas podrán aplicarse en Canarias"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/sociedad/nuevo-decreto-vivienda-medidas-canarias_1_13546683.html"
 draft: false
 ---

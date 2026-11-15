@@ -9,7 +9,7 @@ image: "/images/articles/gobierno-prealerta-lluvias-canarias-19-octubre-202.webp
 imageAlt: "Imagen ilustrativa: El Gobierno actualiza la prealerta por lluvias en Canarias"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/lluvias-tormentas-en-canarias-2/"
 draft: false
 ---

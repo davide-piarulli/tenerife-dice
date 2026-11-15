@@ -9,7 +9,7 @@ image: "/images/articles/acufade-acompana-40-personas-en-anaga.webp"
 imageAlt: "Imagen ilustrativa: Acufade atiende a 40 vecinos dependientes en los caseríos de Anaga"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/11/acufade-anaga-cuidados-domicilio-mayores/"
 draft: false
 ---

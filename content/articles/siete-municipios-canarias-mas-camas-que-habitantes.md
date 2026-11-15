@@ -9,7 +9,7 @@ image: "/images/articles/siete-municipios-canarias-mas-camas-que-habitantes.webp
 imageAlt: "Imagen ilustrativa: Siete municipios de Canarias tienen más camas turísticas que habitantes"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/sociedad/siete-municipios-canarias-camas-turisticas-habitantes_1_13526658.html"
 draft: false
 ---

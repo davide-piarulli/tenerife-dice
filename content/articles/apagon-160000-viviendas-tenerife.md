@@ -9,7 +9,7 @@ image: "/images/articles/apagon-160000-viviendas-tenerife.webp"
 imageAlt: "Imagen ilustrativa: Corte de luz afecta a unas 160.000 viviendas en Tenerife y La Gomera"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/tenerifeahora/tenerife-queda-oscuras-160-000-clientes-afectados-apagon_1_13630506.html"
 draft: false
 ---

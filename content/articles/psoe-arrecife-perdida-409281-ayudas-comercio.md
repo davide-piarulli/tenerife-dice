@@ -9,7 +9,7 @@ image: "/images/articles/psoe-arrecife-perdida-409281-ayudas-comercio.webp"
 imageAlt: "Imagen ilustrativa: El PSOE denuncia que Arrecife perderá 409.281 euros en ayudas al comercio"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/politica/psoe-denuncia-arrecife-perdera-409-281-euros-ayudas-comercio-no-presentar-proyecto-tiempo_1_13580290.html"
 draft: false
 ---

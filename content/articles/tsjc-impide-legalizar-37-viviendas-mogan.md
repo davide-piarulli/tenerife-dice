@@ -9,7 +9,7 @@ image: "/images/articles/tsjc-impide-legalizar-37-viviendas-mogan.webp"
 imageAlt: "Imagen ilustrativa: El TSJC impide legalizar 37 viviendas de Monte Carrera en Mogán"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/tribunales/tsjc-cierra-puerta-legalizar-37-viviendas-promotora-monte-carrera-creo-sotanos-mogan_1_13604813.html"
 draft: false
 ---

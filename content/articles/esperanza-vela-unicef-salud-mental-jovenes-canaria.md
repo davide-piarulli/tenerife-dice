@@ -9,7 +9,7 @@ image: "/images/articles/esperanza-vela-unicef-salud-mental-jovenes-canaria.webp
 imageAlt: "Imagen ilustrativa: Esperanza Vela (Unicef Canarias): la salud mental juvenil también depende de la sociedad"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/esperanza-vela-salud-mental-jovenes-canarias/"
 draft: false
 ---

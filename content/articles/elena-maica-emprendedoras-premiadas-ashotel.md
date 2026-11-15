@@ -9,7 +9,7 @@ image: "/images/articles/elena-maica-emprendedoras-premiadas-ashotel.webp"
 imageAlt: "Imagen ilustrativa: Elena y Maica, emprendedoras canarias premiadas por Ashotel"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/elena-maica-emprendedoras-canarias-ia/"
 draft: false
 ---

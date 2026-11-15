@@ -9,7 +9,7 @@ image: "/images/articles/cc-pp-rechaza-psoe-sanciones-vivienda-turistica.webp"
 imageAlt: "Imagen ilustrativa: CC-PP rechaza la iniciativa del PSOE para aliviar sanciones por residir en zonas turísticas"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/politica/gobierno-cc-pp-enroca-iniciativa-psoe-aliviar-sancionados-residir-zonas-turisticas_1_13548453.html"
 draft: false
 ---

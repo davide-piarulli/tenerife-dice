@@ -9,7 +9,7 @@ image: "/images/articles/manuel-dominguez-astrid-perez-lanzarote.webp"
 imageAlt: "Imagen ilustrativa: Manuel Domínguez afirma que Astrid Pérez renunció a la presidencia del PP en Lanzarote"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/politica/manuel-dominguez-dice-ahora-astrid-perez-quiso-abandonar-presidencia-pp-lanzarote_1_13534051.html"
 draft: false
 ---

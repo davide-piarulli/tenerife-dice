@@ -9,7 +9,7 @@ image: "/images/articles/cd-tenerife-recuperar-puntos-cordoba.webp"
 imageAlt: "Imagen ilustrativa: El Tenerife busca recuperar sensaciones y puntos en Córdoba"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/cd-tenerife-cordoba-previa/"
 draft: false
 ---

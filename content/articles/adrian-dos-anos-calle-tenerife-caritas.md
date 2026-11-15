@@ -9,7 +9,7 @@ image: "/images/articles/adrian-dos-anos-calle-tenerife-caritas.webp"
 imageAlt: "Imagen ilustrativa: Adrián, dos años sin hogar en Tenerife: Cáritas le ofreció un lugar para recuperarse"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/adrian-viviendo-calle-tenerife-caritas/"
 draft: false
 ---

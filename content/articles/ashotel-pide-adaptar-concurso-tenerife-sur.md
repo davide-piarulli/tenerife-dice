@@ -9,7 +9,7 @@ image: "/images/articles/ashotel-pide-adaptar-concurso-tenerife-sur.webp"
 imageAlt: "Imagen ilustrativa: Ashotel pide adaptar al contexto económico el concurso del aeropuerto Tenerife Sur"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/ashotel-aena-reforma-aeropuerto-tenerife-sur-concurso-desierto/"
 draft: false
 ---

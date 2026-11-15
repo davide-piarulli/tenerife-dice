@@ -9,7 +9,7 @@ image: "/images/articles/protesta-proteccion-teno-rasca.webp"
 imageAlt: "Imagen ilustrativa: Más de un centenar se concentra en Tenerife para reclamar protección de Teno-Rasca"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/ciencia_y_medio_ambiente/centenar-personas-movilizan-tenerife-exigir-proteccion-teno-rasca_1_13629529.html"
 draft: false
 ---

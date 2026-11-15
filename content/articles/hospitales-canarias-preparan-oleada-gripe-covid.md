@@ -9,7 +9,7 @@ image: "/images/articles/hospitales-canarias-preparan-oleada-gripe-covid.webp"
 imageAlt: "Imagen ilustrativa: El SCS activa planes en los hospitales canarios ante un repunte de gripe y covid"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/hospitales-canarias-oleada-gripe-covid/"
 draft: false
 ---

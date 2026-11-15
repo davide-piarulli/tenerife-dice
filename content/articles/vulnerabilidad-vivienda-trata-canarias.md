@@ -9,7 +9,7 @@ image: "/images/articles/vulnerabilidad-vivienda-trata-canarias.webp"
 imageAlt: "Imagen ilustrativa: La vulnerabilidad en vivienda impulsa la captación para la trata en Canarias"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/trata-explotacion-sexual-canarias-victimas-oblatas/"
 draft: false
 ---

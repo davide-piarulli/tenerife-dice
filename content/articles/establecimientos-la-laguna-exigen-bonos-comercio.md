@@ -9,7 +9,7 @@ image: "/images/articles/establecimientos-la-laguna-exigen-bonos-comercio.webp"
 imageAlt: "Imagen ilustrativa: Comercios de La Laguna exigen el pago de los bonos antes de cerrar la campaña"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/establecimientos-la-laguna-pago-bonos-comercio/"
 draft: false
 ---

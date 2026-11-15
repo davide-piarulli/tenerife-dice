@@ -9,7 +9,7 @@ image: "/images/articles/miles-toman-santa-cruz-por-vivienda-digna.webp"
 imageAlt: "Imagen ilustrativa: Miles toman Santa Cruz contra la especulación y por vivienda digna"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/11/manifestacion-11n-santa-cruz-tenerife-1/"
 draft: false
 ---

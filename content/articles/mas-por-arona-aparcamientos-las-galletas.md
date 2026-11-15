@@ -9,7 +9,7 @@ image: "/images/articles/mas-por-arona-aparcamientos-las-galletas.webp"
 imageAlt: "Imagen ilustrativa: Más por Arona propone alquilar solares para aparcamientos en Las Galletas"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/aparcamientos-las-galletas-alquiler/"
 draft: false
 ---

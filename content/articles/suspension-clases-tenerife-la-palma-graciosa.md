@@ -9,7 +9,7 @@ image: "/images/articles/suspension-clases-tenerife-la-palma-graciosa.webp"
 imageAlt: "Imagen ilustrativa: La Consejería suspende las clases presenciales en Tenerife, La Palma y La Graciosa"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/sociedad/educacion-suspende-clases-presenciales-palma-alerta-maxima-vientos-graciosa-oleaje-tenerife-borrasca-charles_1_13652849.html"
 draft: false
 ---

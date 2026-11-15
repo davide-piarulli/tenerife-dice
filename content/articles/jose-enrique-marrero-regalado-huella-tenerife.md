@@ -9,7 +9,7 @@ image: "/images/articles/jose-enrique-marrero-regalado-huella-tenerife.webp"
 imageAlt: "Imagen ilustrativa: José Enrique Marrero Regalado, el granadillero que dejó su huella en Tenerife"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/jose-enrique-marrero-regalado-obra/"
 draft: false
 ---

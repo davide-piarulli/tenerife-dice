@@ -9,7 +9,7 @@ image: "/images/articles/salvamento-rescata-mas-de-1000-en-el-hierro.webp"
 imageAlt: "Imagen ilustrativa: Salvamento rescata a más de 1.000 personas en varios cayucos cerca de El Hierro"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/migraciones/salvamento-rescata-personas-cayucos-el-hierro-canarias_1_13610432.html"
 draft: false
 ---

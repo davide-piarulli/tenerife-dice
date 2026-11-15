@@ -9,7 +9,7 @@ image: "/images/articles/aemet-fin-del-calor-chubascos.webp"
 imageAlt: "Imagen ilustrativa: Aemet marca el fin del calor en Canarias y anuncia chubascos"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/aemet-tiempo-en-canarias-14/"
 draft: false
 ---

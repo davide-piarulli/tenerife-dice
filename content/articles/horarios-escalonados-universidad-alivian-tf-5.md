@@ -9,7 +9,7 @@ image: "/images/articles/horarios-escalonados-universidad-alivian-tf-5.webp"
 imageAlt: "Imagen ilustrativa: Horarios escalonados de la universidad reducen el tráfico en la TF-5"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/horarios-escalonados-universidad-alivian-tf-5/"
 draft: false
 ---

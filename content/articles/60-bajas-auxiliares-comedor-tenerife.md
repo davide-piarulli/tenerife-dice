@@ -9,7 +9,7 @@ image: "/images/articles/60-bajas-auxiliares-comedor-tenerife.webp"
 imageAlt: "Imagen ilustrativa: Educación registra 60 bajas de auxiliares de comedor en Tenerife"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/educacion-registra-en-tenerife-60-auxiliares-de-comedor-de-baja/"
 draft: false
 ---

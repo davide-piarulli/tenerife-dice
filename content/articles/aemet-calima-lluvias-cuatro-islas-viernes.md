@@ -9,7 +9,7 @@ image: "/images/articles/aemet-calima-lluvias-cuatro-islas-viernes.webp"
 imageAlt: "Imagen ilustrativa: Aemet anuncia calima y riesgo de lluvia en cuatro islas este viernes"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/aemet-canarias-calima-lluvias-2/"
 draft: false
 ---

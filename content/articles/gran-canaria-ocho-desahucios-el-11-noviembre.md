@@ -9,7 +9,7 @@ image: "/images/articles/gran-canaria-ocho-desahucios-el-11-noviembre.webp"
 imageAlt: "Imagen ilustrativa: Ocho desahucios en Gran Canaria coinciden con la huelga general por la vivienda"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/sociedad/gran-canaria-afronta-ocho-desahucios-dia-huelga-general-vivienda_1_13645280.html"
 draft: false
 ---

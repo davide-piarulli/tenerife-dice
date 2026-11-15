@@ -9,7 +9,7 @@ image: "/images/articles/domingo-miguel-gonzalez-arafoguimar.webp"
 imageAlt: "Imagen ilustrativa: Domingo Miguel González asumirá la atención de las parroquias de Arafo y Güímar"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/domingo-miguel-gonzalez-arafo-guimar/"
 draft: false
 ---

@@ -9,7 +9,7 @@ image: "/images/articles/tenerife-71-puntos-recarga-coches-electricos.webp"
 imageAlt: "Imagen ilustrativa: Tenerife prepara 71 puntos de recarga para coches eléctricos"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/71-estaciones-recarga-coches-electricos-tenerife/"
 draft: false
 ---

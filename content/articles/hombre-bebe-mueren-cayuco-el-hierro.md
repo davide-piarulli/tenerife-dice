@@ -9,7 +9,7 @@ image: "/images/articles/hombre-bebe-mueren-cayuco-el-hierro.webp"
 imageAlt: "Imagen ilustrativa: Un hombre y un bebé mueren tras llegar a El Hierro en un cayuco desde Gambia"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/cayuco-el-hierro-gambia/"
 draft: false
 ---

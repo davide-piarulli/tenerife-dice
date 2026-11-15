@@ -9,7 +9,7 @@ image: "/images/articles/premios-taburiente-2026-reconocen-talento.webp"
 imageAlt: "Imagen ilustrativa: Los Premios Taburiente 2026 celebran trayectorias y compromiso"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/premios-taburiente-2026-talento-compromiso-trayectorias/"
 draft: false
 ---

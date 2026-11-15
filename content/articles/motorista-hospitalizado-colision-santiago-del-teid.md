@@ -9,7 +9,7 @@ image: "/images/articles/motorista-hospitalizado-colision-santiago-del-teid.webp
 imageAlt: "Imagen ilustrativa: Motorista hospitalizado tras chocar con un coche en Santiago del Teide"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/un-motorista-hospitalizado-tras-colisionar-contra-un-coche-en-santiago-del-teide/"
 draft: false
 ---

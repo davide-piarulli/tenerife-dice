@@ -9,7 +9,7 @@ image: "/images/articles/la-laguna-ampliacion-estadio-la-manzanilla-15000m2.webp
 imageAlt: "Imagen ilustrativa: La Laguna proyecta ampliar el estadio de La Manzanilla en más de 15.000 metros cuadrados"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/ampliacion-estadio-la-manzanilla-la-laguna/"
 draft: false
 ---

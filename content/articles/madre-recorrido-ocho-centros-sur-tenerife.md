@@ -9,7 +9,7 @@ image: "/images/articles/madre-recorrido-ocho-centros-sur-tenerife.webp"
 imageAlt: "Imagen ilustrativa: Madre del Sur de Tenerife recorre ocho centros para escolarizar a su hijo"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/madre-plaza-escolar-hijo-san-miguel-abona-tenerife/"
 draft: false
 ---

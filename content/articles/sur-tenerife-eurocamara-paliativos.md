@@ -9,7 +9,7 @@ image: "/images/articles/sur-tenerife-eurocamara-paliativos.webp"
 imageAlt: "Imagen ilustrativa: Del sur de Tenerife a la Eurocámara para reclamar cuidados paliativos justos"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/11/cuidados-paliativos-tenerife-2/"
 draft: false
 ---

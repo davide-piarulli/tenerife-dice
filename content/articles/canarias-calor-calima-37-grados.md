@@ -9,7 +9,7 @@ image: "/images/articles/canarias-calor-calima-37-grados.webp"
 imageAlt: "Imagen ilustrativa: Canarias afronta otro día de calor y calima: hasta 37 ºC en Gran Canaria"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/aemet-calor-calima-canarias-hoy-37-grados/"
 draft: false
 ---

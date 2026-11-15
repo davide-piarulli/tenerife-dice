@@ -9,7 +9,7 @@ image: "/images/articles/miles-protestan-canarias-vivienda-decretos.webp"
 imageAlt: "Imagen ilustrativa: Miles salen a la calle en Canarias contra la gestión de la vivienda"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/manifestacion-vivienda-tenerife-canarias/"
 draft: false
 ---

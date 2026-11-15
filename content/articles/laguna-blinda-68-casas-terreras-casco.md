@@ -9,7 +9,7 @@ image: "/images/articles/laguna-blinda-68-casas-terreras-casco.webp"
 imageAlt: "Imagen ilustrativa: La Laguna protege 68 casas terreras del casco histórico"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/la-laguna-casas-terreras-casco/"
 draft: false
 ---

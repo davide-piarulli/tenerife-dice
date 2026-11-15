@@ -9,7 +9,7 @@ image: "/images/articles/mensaje-es-alert-la-palma-alerta-viento.webp"
 imageAlt: "Imagen ilustrativa: Aviso por ES-Alert: La Palma entra en alerta máxima por viento"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/lapalmaahora/sociedad/mensaje-alert-avisar-palma-alerta-maxima-viento_1_13653650.html"
 draft: false
 ---

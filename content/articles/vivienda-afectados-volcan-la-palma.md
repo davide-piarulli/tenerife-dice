@@ -9,7 +9,7 @@ image: "/images/articles/vivienda-afectados-volcan-la-palma.webp"
 imageAlt: "Imagen ilustrativa: Cinco años después: el reto de la vivienda para los afectados por el volcán de La Palma"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/hogar-de-cenizas/reto-encontrar-vivienda-afectados-volcan-palma-cinco-anos-despues_1_13511475.html"
 draft: false
 ---

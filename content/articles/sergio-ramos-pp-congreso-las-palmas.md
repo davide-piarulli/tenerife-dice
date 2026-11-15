@@ -9,7 +9,7 @@ image: "/images/articles/sergio-ramos-pp-congreso-las-palmas.webp"
 imageAlt: "Imagen ilustrativa: Sergio Ramos encabezará la lista del PP al Congreso por Las Palmas"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/politica/sergio-ramos-liderara-lista-pp-congreso-palmas_1_13604641.html"
 draft: false
 ---

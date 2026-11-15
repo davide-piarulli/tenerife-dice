@@ -9,7 +9,7 @@ image: "/images/articles/torres-clavijo-armas-reunion-moncloa.webp"
 imageAlt: "Imagen ilustrativa: Torres, Clavijo y Armas se reúnen en Moncloa por el repunte migratorio"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/11/reunion-repunte-migratorio-canarias/"
 draft: false
 ---

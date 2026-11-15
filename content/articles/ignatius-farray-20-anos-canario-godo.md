@@ -9,7 +9,7 @@ image: "/images/articles/ignatius-farray-20-anos-canario-godo.webp"
 imageAlt: "Imagen ilustrativa: Ignatius Farray critica a quienes venden suelo canario"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/ignatius-farray-canario-godo-vende-tierra-canariedad/"
 draft: false
 ---

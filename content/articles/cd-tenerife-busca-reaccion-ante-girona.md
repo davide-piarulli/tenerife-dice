@@ -9,7 +9,7 @@ image: "/images/articles/cd-tenerife-busca-reaccion-ante-girona.webp"
 imageAlt: "Imagen ilustrativa: El CD Tenerife, obligado a reaccionar frente a un Girona en alza"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/cd-tenerife-reaccionar-girona/"
 draft: false
 ---

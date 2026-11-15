@@ -9,7 +9,7 @@ image: "/images/articles/asprocan-pide-defensa-posei-europa.webp"
 imageAlt: "Imagen ilustrativa: ASPROCAN pide a España que defienda en Europa el aumento del POSEI"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/asprocan-pide-al-gobierno-de-espana-que-defienda-en-europa-el-incremento-del-posei/"
 draft: false
 ---

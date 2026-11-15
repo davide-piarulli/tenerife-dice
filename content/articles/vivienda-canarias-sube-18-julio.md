@@ -9,7 +9,7 @@ image: "/images/articles/vivienda-canarias-sube-18-julio.webp"
 imageAlt: "Imagen ilustrativa: La vivienda en Canarias sube un 18% en julio mientras las ventas bajan un 6,9%"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/precio-vivienda-en-canarias-2/"
 draft: false
 ---

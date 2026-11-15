@@ -9,7 +9,7 @@ image: "/images/articles/explosion-valle-tabares-15-muertos-tenerife.webp"
 imageAlt: "Imagen ilustrativa: Explosión en Valle Tabares dejó 15 muertos y marcó la montaña"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/11/explosion-valle-tabares-tenerife-15-muertos-1949/"
 draft: false
 ---

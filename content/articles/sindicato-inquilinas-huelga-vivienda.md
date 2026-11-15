@@ -9,7 +9,7 @@ image: "/images/articles/sindicato-inquilinas-huelga-vivienda.webp"
 imageAlt: "Imagen ilustrativa: Sindicato de Inquilinas convoca huelga general en Tenerife por la vivienda"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/sociedad/sindicato-inquilinas-tenerife-llama-huelga-general-vivienda-no-cueste-vida_1_13619500.html"
 draft: false
 ---

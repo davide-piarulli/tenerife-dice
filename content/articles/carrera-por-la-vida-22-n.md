@@ -9,7 +9,7 @@ image: "/images/articles/carrera-por-la-vida-22-n.webp"
 imageAlt: "Imagen ilustrativa: La Carrera por la Vida se adelanta al 22-N por la cita electoral"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/fecha-carrera-por-la-vida-22n/"
 draft: false
 ---

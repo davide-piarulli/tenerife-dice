@@ -9,7 +9,7 @@ image: "/images/articles/tenerife-depuracion-52-86-tres-anos.webp"
 imageAlt: "Imagen ilustrativa: Tenerife eleva la depuración de aguas residuales del 52% al 86% en tres años"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/de-residuo-a-recurso/"
 draft: false
 ---

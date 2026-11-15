@@ -9,7 +9,7 @@ image: "/images/articles/agentes-acpmn-falta-equipos.webp"
 imageAlt: "Imagen ilustrativa: Agentes de la Agencia Canaria alertan de falta de equipos para inspecciones"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/sociedad/equipos-seguridad-proteger-medio-ambiente-canarias-no-chaleco-identificacion_1_13628713.html"
 draft: false
 ---

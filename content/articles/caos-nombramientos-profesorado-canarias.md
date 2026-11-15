@@ -9,7 +9,7 @@ image: "/images/articles/caos-nombramientos-profesorado-canarias.webp"
 imageAlt: "Imagen ilustrativa: Sindicatos denuncian desorden en los nombramientos docentes al iniciar el curso en Canarias"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/nombramientos-docentes-canarias/"
 draft: false
 ---

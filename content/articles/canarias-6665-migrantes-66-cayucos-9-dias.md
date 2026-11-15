@@ -9,7 +9,7 @@ image: "/images/articles/canarias-6665-migrantes-66-cayucos-9-dias.webp"
 imageAlt: "Imagen ilustrativa: Canarias recibe 6.665 migrantes en 66 cayucos en 9 días"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/11/canarias-recibe-6-665-personas-migrantes-abordo-de-66-cayucos-en-solo-9-dias/"
 draft: false
 ---

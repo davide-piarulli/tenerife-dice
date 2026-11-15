@@ -9,7 +9,7 @@ image: "/images/articles/colectivos-canarios-alertan-enmiendas-pp.webp"
 imageAlt: "Imagen ilustrativa: Colectivos canarios advierten de riesgo para la educación inclusiva por enmiendas del PP"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/canarias-denuncian-enmiendas-pp-amenazan-educacion-inclusiva/"
 draft: false
 ---

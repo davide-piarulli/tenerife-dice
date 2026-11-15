@@ -9,7 +9,7 @@ image: "/images/articles/aemet-calima-remite-bajada-temperaturas-34.webp"
 imageAlt: "Imagen ilustrativa: La Aemet prevé que la calima remita por la tarde y máximas de 34 ºC"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/aemet-canarias-calima-temperaturas-34/"
 draft: false
 ---

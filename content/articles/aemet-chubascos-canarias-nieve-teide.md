@@ -9,7 +9,7 @@ image: "/images/articles/aemet-chubascos-canarias-nieve-teide.webp"
 imageAlt: "Imagen ilustrativa: Aemet anuncia chubascos en Canarias este miércoles y posibilidad de nieve en el Teide"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/11/aemet-canarias-lluvias-nieve-teide/"
 draft: false
 ---

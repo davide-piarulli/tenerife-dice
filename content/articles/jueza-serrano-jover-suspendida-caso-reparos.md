@@ -9,7 +9,7 @@ image: "/images/articles/jueza-serrano-jover-suspendida-caso-reparos.webp"
 imageAlt: "Imagen ilustrativa: Suspendida la jueza Ana Serrano-Jover por paralizar causas en La Laguna"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/tribunales/suspendida-primera-jueza-caso-reparos-causas-paralizadas-once-anos-perder-expedientes_1_13573287.html"
 draft: false
 ---

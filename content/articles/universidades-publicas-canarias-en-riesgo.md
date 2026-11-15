@@ -9,7 +9,7 @@ image: "/images/articles/universidades-publicas-canarias-en-riesgo.webp"
 imageAlt: "Imagen ilustrativa: Rector de la ULL alerta del riesgo de colapso de las universidades públicas"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/las-universidades-publicas-de-canarias-estan-en-serio-riesgo-de-subsistencia/"
 draft: false
 ---

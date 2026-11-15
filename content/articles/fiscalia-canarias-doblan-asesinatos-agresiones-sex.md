@@ -9,7 +9,7 @@ image: "/images/articles/fiscalia-canarias-doblan-asesinatos-agresiones-sex.webp
 imageAlt: "Imagen ilustrativa: Jaime Serrano-Jover alerta por el aumento de asesinatos y agresiones sexuales a menores en Canarias"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/jaime-serrano-jover-sociedad-sintomas-desquiciada/"
 draft: false
 ---

@@ -9,7 +9,7 @@ image: "/images/articles/ryanair-cancela-tres-rutas-canarias-invierno.webp"
 imageAlt: "Imagen ilustrativa: Ryanair suprime tres rutas con Canarias este invierno"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/ryanair-elimina-tres-rutas-canarias-invierno/"
 draft: false
 ---

@@ -9,7 +9,7 @@ image: "/images/articles/vacunacion-gripe-canarias-282263-dosis.webp"
 imageAlt: "Imagen ilustrativa: Sanidad distribuye 282.263 dosis antigripales y extiende la protección frente al VRS"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/vacunacion-gripe-canarias-2026-cita-fecha/"
 draft: false
 ---

@@ -9,7 +9,7 @@ image: "/images/articles/tedros-premio-taburiente-solidaridad-tenerife.webp"
 imageAlt: "Imagen ilustrativa: Tedros dedica su Premio Taburiente a la solidaridad de Tenerife; Borrell alerta del aumento de conflictos"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/tedros-oms-premios-taburiente-solidaridad-tenerife-borrell/"
 draft: false
 ---

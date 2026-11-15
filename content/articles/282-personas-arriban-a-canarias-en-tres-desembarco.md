@@ -9,7 +9,7 @@ image: "/images/articles/282-personas-arriban-a-canarias-en-tres-desembarco.webp
 imageAlt: "Imagen ilustrativa: 282 personas arriban a Canarias en tres desembarcos"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/rescate-migrantes-canarias-2/"
 draft: false
 ---

@@ -9,7 +9,7 @@ image: "/images/articles/canarias-cuarta-comunidad-violencia-machista.webp"
 imageAlt: "Imagen ilustrativa: Canarias, cuarta comunidad con más mujeres víctimas de violencia machista"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/canarias-cuarta-comunidad-violencia-machista/"
 draft: false
 ---

@@ -9,7 +9,7 @@ image: "/images/articles/segunda-vida-agua-residual-tenerife.webp"
 imageAlt: "Imagen ilustrativa: El agua residual en Tenerife gana nueva utilidad"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/segunda-vida-agua-residual/"
 draft: false
 ---

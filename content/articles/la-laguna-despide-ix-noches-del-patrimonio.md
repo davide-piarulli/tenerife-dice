@@ -9,7 +9,7 @@ image: "/images/articles/la-laguna-despide-ix-noches-del-patrimonio.webp"
 imageAlt: "Imagen ilustrativa: La Laguna despide la IX edición de Las Noches del Patrimonio"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/la-laguna-noches-del-patrimonio/"
 draft: false
 ---

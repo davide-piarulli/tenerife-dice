@@ -9,7 +9,7 @@ image: "/images/articles/aemet-calima-tormentas-tenerife-martes.webp"
 imageAlt: "Imagen ilustrativa: Aemet prevé calima y riesgo de tormentas en Tenerife este martes con máximas de 32 grados"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/calima-tormentas-calor-canarias/"
 draft: false
 ---

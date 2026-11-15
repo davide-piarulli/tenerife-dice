@@ -9,7 +9,7 @@ image: "/images/articles/borrasca-charles-viento-lluvias-canarias.webp"
 imageAlt: "Imagen ilustrativa: La borrasca Charles trae viento fuerte y lluvia a Canarias"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/11/borrasca-charles-canarias-viento-lluvias-110-kmh/"
 draft: false
 ---

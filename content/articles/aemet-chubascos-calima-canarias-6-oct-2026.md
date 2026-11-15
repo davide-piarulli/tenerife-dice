@@ -9,7 +9,7 @@ image: "/images/articles/aemet-chubascos-calima-canarias-6-oct-2026.webp"
 imageAlt: "Imagen ilustrativa: Aemet advierte de chubascos fuertes en zonas de Canarias este martes"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/aemet-tiempo-en-canarias-12/"
 draft: false
 ---

@@ -9,7 +9,7 @@ image: "/images/articles/familias-esperan-centro-la-cuesta-tenerife.webp"
 imageAlt: "Imagen ilustrativa: Unas 80 familias llevan casi diez años esperando por el CAMP La Cuesta"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/11/centro-sin-construir-en-tenerife/"
 draft: false
 ---

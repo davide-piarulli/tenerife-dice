@@ -9,7 +9,7 @@ image: "/images/articles/paciente-70-desahucio-arona.webp"
 imageAlt: "Imagen ilustrativa: Paciente tinerfeño de 70 años con cáncer afronta desahucio sin alternativas"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/enfermo-cancer-tenerife-desahucio/"
 draft: false
 ---

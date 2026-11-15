@@ -9,7 +9,7 @@ image: "/images/articles/el-medano-los-cardones-salas-estudio-recurso.webp"
 imageAlt: "Imagen ilustrativa: El Médano y Los Cardones quedan sin salas de estudio por un recurso"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/el-medano-sala-de-estudio/"
 draft: false
 ---

@@ -9,7 +9,7 @@ image: "/images/articles/aemet-preve-sabado-caluroso-calima-34grados.webp"
 imageAlt: "Imagen ilustrativa: Aemet prevé un sábado caluroso en Canarias con calima y hasta 34 grados"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/aemet-sabado-bochorno-calima-canarias/"
 draft: false
 ---

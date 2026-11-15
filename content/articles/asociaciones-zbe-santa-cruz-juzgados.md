@@ -9,7 +9,7 @@ image: "/images/articles/asociaciones-zbe-santa-cruz-juzgados.webp"
 imageAlt: "Imagen ilustrativa: Dos asociaciones llevan la ordenanza de la ZBE de Santa Cruz a los tribunales"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/juzgados-zbe-santa-cruz-de-tenerife/"
 draft: false
 ---

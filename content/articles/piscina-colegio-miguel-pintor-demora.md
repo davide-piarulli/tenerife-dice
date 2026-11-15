@@ -9,7 +9,7 @@ image: "/images/articles/piscina-colegio-miguel-pintor-demora.webp"
 imageAlt: "Imagen ilustrativa: Retraso en la apertura de la piscina del Colegio Miguel Pintor en Santa Cruz"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/piscina-ceip-miguel-pintor-santa-cruz-reforma/"
 draft: false
 ---

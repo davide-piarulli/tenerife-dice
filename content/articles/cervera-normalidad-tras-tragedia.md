@@ -9,7 +9,7 @@ image: "/images/articles/cervera-normalidad-tras-tragedia.webp"
 imageAlt: "Imagen ilustrativa: Cervera: la normalidad tardará, pero hay que seguir"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/11/cervera-entrenador-cd-tenerife/"
 draft: false
 ---

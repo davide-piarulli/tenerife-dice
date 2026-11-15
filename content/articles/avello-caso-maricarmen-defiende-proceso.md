@@ -9,7 +9,7 @@ image: "/images/articles/avello-caso-maricarmen-defiende-proceso.webp"
 imageAlt: "Imagen ilustrativa: Avello califica de grave el caso de Maricarmen y defiende el proceso"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/avello-tsjc-maricarmen/"
 draft: false
 ---

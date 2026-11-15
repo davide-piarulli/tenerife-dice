@@ -9,7 +9,7 @@ image: "/images/articles/funcionarios-piden-cese-de-la-directora-de-tenerif.webp
 imageAlt: "Imagen ilustrativa: Funcionarios piden el cese de la directora del centro penitenciario Tenerife II"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/funcionarios-reclaman-el-cese-de-la-directora-del-centro-penitenciario-tenerife-ii/"
 draft: false
 ---

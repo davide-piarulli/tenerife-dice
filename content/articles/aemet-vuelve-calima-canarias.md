@@ -9,7 +9,7 @@ image: "/images/articles/aemet-vuelve-calima-canarias.webp"
 imageAlt: "Imagen ilustrativa: La Aemet anuncia la vuelta de la calima a Canarias este jueves"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/aemet-calima-canarias-15-octubre/"
 draft: false
 ---

@@ -9,7 +9,7 @@ image: "/images/articles/plan-renove-electrodomesticos-canarias-tercera-rem.webp
 imageAlt: "Imagen ilustrativa: El Plan Renove de Electrodomésticos activa su tercera remesa de bonos en Canarias"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/plan-renove-electrodomesticos-canarias/"
 draft: false
 ---

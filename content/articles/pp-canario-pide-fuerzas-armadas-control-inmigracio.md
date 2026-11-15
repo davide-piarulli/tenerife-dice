@@ -9,7 +9,7 @@ image: "/images/articles/pp-canario-pide-fuerzas-armadas-control-inmigracio.webp
 imageAlt: "Imagen ilustrativa: El PP canario propone usar a las Fuerzas Armadas para controlar la inmigración"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/el-pp-canario-copia-a-vox-y-pide-controlar-la-inmigracion-con-las-fuerzas-armadas/"
 draft: false
 ---

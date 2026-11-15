@@ -9,7 +9,7 @@ image: "/images/articles/bermudez-descarta-pactos-con-patricia-hernandez.webp"
 imageAlt: "Imagen ilustrativa: Bermúdez descarta pactos con Patricia Hernández y sitúa al PSOE como rival"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/jose-manuel-bermudez-patricia-hernandez/"
 draft: false
 ---

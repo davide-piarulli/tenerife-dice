@@ -9,7 +9,7 @@ image: "/images/articles/cajamar-apoyo-desarrollo-canarias.webp"
 imageAlt: "Imagen ilustrativa: Cajamar mantiene su apoyo al desarrollo económico y social de Canarias"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/11/cajamar-desarrollo-economico-social-canarias/"
 draft: false
 ---

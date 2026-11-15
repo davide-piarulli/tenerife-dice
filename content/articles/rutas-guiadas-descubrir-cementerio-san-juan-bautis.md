@@ -9,7 +9,7 @@ image: "/images/articles/rutas-guiadas-descubrir-cementerio-san-juan-bautis.webp
 imageAlt: "Imagen ilustrativa: Rutas guiadas para descubrir el cementerio de San Juan Bautista"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/cementerio-de-san-juan-la-laguna/"
 draft: false
 ---

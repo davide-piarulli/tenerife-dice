@@ -9,7 +9,7 @@ image: "/images/articles/canon-guerra-independencia-punta-del-hidalgo.webp"
 imageAlt: "Imagen ilustrativa: Hallan un cañón de la Guerra de la Independencia de EE. UU. en Punta del Hidalgo"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/canon-guerra-independencia-punta-del-hidalgo/"
 draft: false
 ---

@@ -9,7 +9,7 @@ image: "/images/articles/la-laguna-no-se-fia-del-peligroso-obradoiro.webp"
 imageAlt: "Imagen ilustrativa: La Laguna no se fía del peligroso Obradoiro"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/la-laguna-tenerife-obradoiro/"
 draft: false
 ---

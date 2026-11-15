@@ -9,7 +9,7 @@ image: "/images/articles/santa-cruz-gasta-3-millones-en-aparcamiento.webp"
 imageAlt: "Imagen ilustrativa: Santa Cruz pagará 3 millones para arreglar el aparcamiento de Plaza de España"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/tenerifeahora/santa_cruz/aparcamiento-plaza-espana-santa-cruz-seguridad-reformas-millonarias_1_13599569.html"
 draft: false
 ---

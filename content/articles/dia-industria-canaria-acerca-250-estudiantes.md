@@ -9,7 +9,7 @@ image: "/images/articles/dia-industria-canaria-acerca-250-estudiantes.webp"
 imageAlt: "Imagen ilustrativa: Día de la Industria Canaria acerca a 250 estudiantes a los oficios"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/dia-industria-canaria-femete/"
 draft: false
 ---

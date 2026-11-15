@@ -9,7 +9,7 @@ image: "/images/articles/hospital-del-sur-gomera-para-pacientes-derivados.webp"
 imageAlt: "Imagen ilustrativa: La Gomera apuesta por el Hospital del Sur para pacientes derivados"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/hospital-del-sur-gomera/"
 draft: false
 ---

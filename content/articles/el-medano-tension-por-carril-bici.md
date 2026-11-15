@@ -9,7 +9,7 @@ image: "/images/articles/el-medano-tension-por-carril-bici.webp"
 imageAlt: "Imagen ilustrativa: Tensión en El Médano por la ejecución del carril bici"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/el-medano-carril-bici-2/"
 draft: false
 ---

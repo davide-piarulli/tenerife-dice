@@ -9,7 +9,7 @@ image: "/images/articles/suprimiran-aparcamientos-plaza-patrona.webp"
 imageAlt: "Imagen ilustrativa: Suprimirán los últimos aparcamientos en la plaza de la Patrona"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/parkings-plaza-de-a-candelaria/"
 draft: false
 ---

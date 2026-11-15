@@ -9,7 +9,7 @@ image: "/images/articles/feria-saldos-la-laguna-parque-mantecas.webp"
 imageAlt: "Imagen ilustrativa: Feria de saldos en La Laguna con actividades familiares y música"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/feria-saldos-la-laguna/"
 draft: false
 ---

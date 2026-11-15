@@ -9,7 +9,7 @@ image: "/images/articles/aemet-cambio-tiempo-canarias-17-09-2026.webp"
 imageAlt: "Imagen ilustrativa: Aemet prevé cambio de tiempo en Canarias: bajan las máximas y vuelve la lluvia"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/cambio-tiempo-canarias-jueves-aemet-temperaturas-lluvia/"
 draft: false
 ---

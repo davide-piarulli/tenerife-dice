@@ -9,7 +9,7 @@ image: "/images/articles/tercer-carril-tf-5-guamasa-aeropuerto.webp"
 imageAlt: "Imagen ilustrativa: Arranca la fase de ejecución del tercer carril en la TF-5 entre Guamasa y el aeropuerto"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/tercer-carril-tf-5-3/"
 draft: false
 ---

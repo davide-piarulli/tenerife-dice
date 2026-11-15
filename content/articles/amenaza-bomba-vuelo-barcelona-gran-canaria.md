@@ -9,7 +9,7 @@ image: "/images/articles/amenaza-bomba-vuelo-barcelona-gran-canaria.webp"
 imageAlt: "Imagen ilustrativa: Amenaza de bomba moviliza seguridad en el aeropuerto de Gran Canaria"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/sucesos/alerta-vuelo-amenaza-bomba-avion-barcelona-gran-canaria_1_13617177.html"
 draft: false
 ---

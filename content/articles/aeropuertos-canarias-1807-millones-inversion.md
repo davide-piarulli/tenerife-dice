@@ -9,7 +9,7 @@ image: "/images/articles/aeropuertos-canarias-1807-millones-inversion.webp"
 imageAlt: "Imagen ilustrativa: El Gobierno destina 1.807 millones a los aeropuertos canarios y mantiene subida mínima de tasas"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/aeropuertos-canarias-inversion/"
 draft: false
 ---

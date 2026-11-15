@@ -9,7 +9,7 @@ image: "/images/articles/iceberg-gigante-plaza-san-juan-tenerife.webp"
 imageAlt: "Imagen ilustrativa: Iceberg gigante en la plaza de San Juan para alertar sobre el cambio climático"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/11/iceberg-gigante-tenerife/"
 draft: false
 ---

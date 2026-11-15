@@ -9,7 +9,7 @@ image: "/images/articles/la-palma-gasoil-mas-de-dos-euros.webp"
 imageAlt: "Imagen ilustrativa: La Palma supera los 2 euros por litro de gasoil"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/canarias-la-palma-precio-litro-gasoil/"
 draft: false
 ---

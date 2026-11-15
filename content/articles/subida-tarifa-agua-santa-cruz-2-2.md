@@ -9,7 +9,7 @@ image: "/images/articles/subida-tarifa-agua-santa-cruz-2-2.webp"
 imageAlt: "Imagen ilustrativa: El Gobierno canario aprueba una subida del 2,2% en la tarifa del agua de Santa Cruz"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/subida-tarifa-del-agua-santa-cruz-tenerife/"
 draft: false
 ---

@@ -9,7 +9,7 @@ image: "/images/articles/cambio-tiempo-canarias-viernes-lluvias-viento.webp"
 imageAlt: "Imagen ilustrativa: Lluvias débiles y descenso de temperaturas en Canarias este viernes, avisa la Aemet"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/aemet-lluvias-canarias-viernes-bajada-temperaturas/"
 draft: false
 ---

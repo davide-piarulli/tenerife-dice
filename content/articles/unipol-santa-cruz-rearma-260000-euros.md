@@ -9,7 +9,7 @@ image: "/images/articles/unipol-santa-cruz-rearma-260000-euros.webp"
 imageAlt: "Imagen ilustrativa: El Ayuntamiento aprueba 260.000 euros para material de la Unipol en Santa Cruz"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/la-unipol-de-santa-cruz-de-tenerife-se-rearma-con-260-000-euros-para-su-material-defensivo/"
 draft: false
 ---

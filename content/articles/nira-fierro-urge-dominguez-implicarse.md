@@ -9,7 +9,7 @@ image: "/images/articles/nira-fierro-urge-dominguez-implicarse.webp"
 imageAlt: "Imagen ilustrativa: Nira Fierro exige a Manuel Domínguez implicación en los “grandes acuerdos de Canarias”"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/nira-fierro-manuel-dominguez-parlamento-canarias/"
 draft: false
 ---

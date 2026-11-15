@@ -9,7 +9,7 @@ image: "/images/articles/borrador-ley-costas-canarias-tramos-degradados.webp"
 imageAlt: "Imagen ilustrativa: Borrador de la ley de costas de Canarias permite excluir tramos degradados del dominio público"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/politica/borrador-ley-costas-canarias-abre-puerta-sacar-dominio-publico-tramos-litoral-degradados_1_13624692.html"
 draft: false
 ---

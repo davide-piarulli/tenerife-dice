@@ -9,7 +9,7 @@ image: "/images/articles/clavijo-pp-vox-retencion-migrantes-canarias.webp"
 imageAlt: "Imagen ilustrativa: Clavijo acusa a PP y Vox de promover la retención de migrantes en Canarias"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/clavijo-pp-vox-menores-migrantes-canarias-reparto/"
 draft: false
 ---

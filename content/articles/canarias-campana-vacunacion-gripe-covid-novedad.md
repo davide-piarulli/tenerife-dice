@@ -9,7 +9,7 @@ image: "/images/articles/canarias-campana-vacunacion-gripe-covid-novedad.webp"
 imageAlt: "Imagen ilustrativa: Canarias comienza la campaña de vacunación contra la gripe y la covid con una novedad"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/canarias-vacunacion-gripe-covid-vrs-2026/"
 draft: false
 ---

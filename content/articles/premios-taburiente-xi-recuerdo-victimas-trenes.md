@@ -9,7 +9,7 @@ image: "/images/articles/premios-taburiente-xi-recuerdo-victimas-trenes.webp"
 imageAlt: "Imagen ilustrativa: Premios Taburiente: minuto de silencio por las víctimas del tren y entrega de galardones en La Laguna"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/premios-taburiente-recuerdo-victimas-trenes/"
 draft: false
 ---

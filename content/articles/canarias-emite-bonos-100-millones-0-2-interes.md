@@ -9,7 +9,7 @@ image: "/images/articles/canarias-emite-bonos-100-millones-0-2-interes.webp"
 imageAlt: "Imagen ilustrativa: Canarias emite 100 millones en bonos con interés del 0,2%"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/canarias-bonos-deuda-publica-ric/"
 draft: false
 ---

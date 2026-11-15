@@ -9,7 +9,7 @@ image: "/images/articles/iglesia-historica-tenerife-torre-palomas.webp"
 imageAlt: "Imagen ilustrativa: Iglesia histórica de Tenerife cierra la torre por invasión de palomas"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/11/palomas-iglesa-historica-tenerife/"
 draft: false
 ---

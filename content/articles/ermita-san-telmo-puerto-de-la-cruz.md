@@ -9,7 +9,7 @@ image: "/images/articles/ermita-san-telmo-puerto-de-la-cruz.webp"
 imageAlt: "Imagen ilustrativa: La ermita de San Telmo, en Puerto de la Cruz, cae en deterioro pese a su valor histórico"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/deterioro-ermita-san-telmo-puerto-de-la-cruz/"
 draft: false
 ---

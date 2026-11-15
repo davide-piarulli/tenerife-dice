@@ -9,7 +9,7 @@ image: "/images/articles/morata-leganes-prueba-cd-tenerife-heliodoro.webp"
 imageAlt: "Imagen ilustrativa: Morata y un Leganés invicto ponen a prueba al CD Tenerife en el Heliodoro"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/cd-leganes-morata-mide-fuerza-cd-tenerife-heliodoro/"
 draft: false
 ---

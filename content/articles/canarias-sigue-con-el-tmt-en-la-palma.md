@@ -9,7 +9,7 @@ image: "/images/articles/canarias-sigue-con-el-tmt-en-la-palma.webp"
 imageAlt: "Imagen ilustrativa: Canarias seguirá trabajando para traer el TMT a La Palma"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/tmt-la-palma-oferta-1000-millones-sin-consenso/"
 draft: false
 ---

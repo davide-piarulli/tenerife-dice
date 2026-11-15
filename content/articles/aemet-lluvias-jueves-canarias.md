@@ -9,7 +9,7 @@ image: "/images/articles/aemet-lluvias-jueves-canarias.webp"
 imageAlt: "Imagen ilustrativa: Aemet anuncia lluvias este jueves en varias islas de Canarias"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/11/aemet-lluvias-canarias-18/"
 draft: false
 ---

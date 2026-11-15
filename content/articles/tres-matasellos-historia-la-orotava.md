@@ -9,7 +9,7 @@ image: "/images/articles/tres-matasellos-historia-la-orotava.webp"
 imageAlt: "Imagen ilustrativa: Tres matasellos cuentan la historia de La Orotava, del Teide a Ezequiel de León"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/matasellos-historia-la-orotava/"
 draft: false
 ---

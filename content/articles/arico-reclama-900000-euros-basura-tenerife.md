@@ -9,7 +9,7 @@ image: "/images/articles/arico-reclama-900000-euros-basura-tenerife.webp"
 imageAlt: "Imagen ilustrativa: Arico reclama más de 900.000 euros por acoger la basura de Tenerife"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/basura-en-arico-tenerife/"
 draft: false
 ---

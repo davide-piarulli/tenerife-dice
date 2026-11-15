@@ -9,7 +9,7 @@ image: "/images/articles/nitratos-fertilizantes-aguas-subterraneas-canarias.webp
 imageAlt: "Imagen ilustrativa: Nitratos y fertilizantes contaminan las aguas subterráneas en Canarias"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/fertilizantes-nitratos-aguas-subterraneas-de-canarias/"
 draft: false
 ---

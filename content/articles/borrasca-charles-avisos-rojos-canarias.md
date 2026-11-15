@@ -9,7 +9,7 @@ image: "/images/articles/borrasca-charles-avisos-rojos-canarias.webp"
 imageAlt: "Imagen ilustrativa: La borrasca Charles deja avisos rojos y naranjas en Canarias"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/tiempo-canarias/avisos-rojos-canarias-aemet-borrasca-charles-ciclogenesis-explosiva_1_13651790.html"
 draft: false
 ---

@@ -9,7 +9,7 @@ image: "/images/articles/gobierno-canario-deroga-ascensos-dedo-policia.webp"
 imageAlt: "Imagen ilustrativa: El Gobierno canario deroga la reforma que permitía ascensos a dedo en la Policía Canaria"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/politica/gobierno-canario-forzado-derogar-reforma-permitia-ascensos-dedo-titulacion-policia-autonomica_1_13657734.html"
 draft: false
 ---

@@ -9,7 +9,7 @@ image: "/images/articles/aemet-prev-lluvias-debiles-canarias-miercoles.webp"
 imageAlt: "Imagen ilustrativa: Aemet prevé lluvias débiles en Canarias este miércoles"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/aemet-lluvias-canarias-14-octubre/"
 draft: false
 ---

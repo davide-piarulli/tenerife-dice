@@ -9,7 +9,7 @@ image: "/images/articles/navahermosa-despide-jesus-de-miguel.webp"
 imageAlt: "Imagen ilustrativa: Navahermosa acogerá este jueves el homenaje a Jesús de Miguel"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/11/navahermosa-jesus-de-miguel/"
 draft: false
 ---

@@ -9,7 +9,7 @@ image: "/images/articles/fiestas-patronales-adeje-romeria-ofrenda.webp"
 imageAlt: "Imagen ilustrativa: Terminan las patronales de Adeje con romería y ofrenda"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/acaban-las-fiestas-patronales-en-adeje-con-la-romeria-y-la-ofrenda/"
 draft: false
 ---

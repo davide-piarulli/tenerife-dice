@@ -9,7 +9,7 @@ image: "/images/articles/choque-parlamento-presupuesto-sanidad-2027.webp"
 imageAlt: "Imagen ilustrativa: Choque en el Parlamento canario por el presupuesto de Sanidad 2027"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/politica/tolete-majadero-tension-comision-sanidad-parlamento-canario-presupuesto-2027_1_13641536.html"
 draft: false
 ---

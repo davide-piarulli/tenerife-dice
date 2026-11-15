@@ -9,7 +9,7 @@ image: "/images/articles/delegado-gobierno-clavijo-repunte-previsto-30.webp"
 imageAlt: "Imagen ilustrativa: El delegado del Gobierno dice a Clavijo que el repunte estaba previsto y que en 2026 las llegadas caen un 30%"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/politica/canarias-repunte-migratorio-2026-llegadas-migrantes_1_13610325.html"
 draft: false
 ---

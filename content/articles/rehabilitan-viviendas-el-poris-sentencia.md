@@ -9,7 +9,7 @@ image: "/images/articles/rehabilitan-viviendas-el-poris-sentencia.webp"
 imageAlt: "Imagen ilustrativa: Dos viviendas de El Porís se rehabilitan por sentencia; una tercera reclama lo mismo"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/viviendas-el-poris/"
 draft: false
 ---

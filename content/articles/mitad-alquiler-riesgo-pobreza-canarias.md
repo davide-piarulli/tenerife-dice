@@ -9,7 +9,7 @@ image: "/images/articles/mitad-alquiler-riesgo-pobreza-canarias.webp"
 imageAlt: "Imagen ilustrativa: Casi la mitad de quienes viven de alquiler en Canarias están en riesgo de pobreza"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/sociedad/claves-datos-pobreza-canarias-mitad-viven-alquiler-riesgo-pobreza_1_13592458.html"
 draft: false
 ---

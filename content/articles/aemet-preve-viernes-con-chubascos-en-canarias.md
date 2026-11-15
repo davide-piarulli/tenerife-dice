@@ -9,7 +9,7 @@ image: "/images/articles/aemet-preve-viernes-con-chubascos-en-canarias.webp"
 imageAlt: "Imagen ilustrativa: Aemet prevé chubascos fuertes en Canarias este viernes"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/tiempo-aemet-canarias-3/"
 draft: false
 ---

@@ -9,7 +9,7 @@ image: "/images/articles/2-7-millones-plazas-reino-unido-tenerife.webp"
 imageAlt: "Imagen ilustrativa: Tenerife consolida su liderazgo en el mercado británico con 2,7 millones de plazas"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/11/plazas-aereas-reino-unido-tenerife/"
 draft: false
 ---

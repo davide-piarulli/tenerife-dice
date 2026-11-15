@@ -9,7 +9,7 @@ image: "/images/articles/ocho-agresiones-sexuales-trabajadoras-sad-santa-cr.webp
 imageAlt: "Imagen ilustrativa: Ocho agresiones sexuales en un año a trabajadoras del SAD en Santa Cruz"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/agresion-sexual-auxiliar-sad-santa-cruz-de-tenerife-trabajadoras-movilizarse/"
 draft: false
 ---

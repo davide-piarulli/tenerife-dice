@@ -9,7 +9,7 @@ image: "/images/articles/bolorino-armani-coalicion-canaria-seguridad.webp"
 imageAlt: "Imagen ilustrativa: Bolorino Armani ficha por Coalición Canaria y aspira a Seguridad en el Cabildo"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/bolorino-armani-consejero-seguridad-cabildo-que-podria-salir-mal/"
 draft: false
 ---

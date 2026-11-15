@@ -9,7 +9,7 @@ image: "/images/articles/44-alumnos-sin-comedor-la-vera-puerto-cruz.webp"
 imageAlt: "Imagen ilustrativa: El PSOE acusa al Ayuntamiento de dejar sin comedor a 44 menores de La Vera"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/44-menores-puerto-cruz-cuota-cero-comedor-escolar/"
 draft: false
 ---

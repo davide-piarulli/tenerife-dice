@@ -9,7 +9,7 @@ image: "/images/articles/tenerife-desbloqueo-renovables-red-y-tramites.webp"
 imageAlt: "Imagen ilustrativa: Tenerife busca desbloquear las renovables con hoja de ruta centrada en red y trámites"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/09/tenerife-energias-renovables/"
 draft: false
 ---

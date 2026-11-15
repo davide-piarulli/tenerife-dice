@@ -9,7 +9,7 @@ image: "/images/articles/mejoras-pabellon-de-tacoronte.webp"
 imageAlt: "Imagen ilustrativa: Reclaman mejoras en el Pabellón de Deportes de Tacoronte tras quejas en los Juegos Cabildo"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/deterioro-pabellon-deportes-tacoronte/"
 draft: false
 ---

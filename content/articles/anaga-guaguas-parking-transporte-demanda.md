@@ -9,7 +9,7 @@ image: "/images/articles/anaga-guaguas-parking-transporte-demanda.webp"
 imageAlt: "Imagen ilustrativa: Anaga implantará lanzaderas, aparcamiento disuasorio y transporte a demanda"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "Diario de Avisos"
 sourceUrl: "https://diariodeavisos.elespanol.com/2026/10/anaga-guaguas-lanzaderas/"
 draft: false
 ---

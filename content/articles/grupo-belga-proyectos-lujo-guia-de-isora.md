@@ -9,7 +9,7 @@ image: "/images/articles/grupo-belga-proyectos-lujo-guia-de-isora.webp"
 imageAlt: "Imagen ilustrativa: Grupo belga impulsa dos proyectos turísticos de lujo en Guía de Isora"
 imageIsAI: true
 author: "Redaccion Tenerife Dice"
-sourceName: "medios locales"
+sourceName: "El Diario (Canarias Ahora)"
 sourceUrl: "https://www.eldiario.es/canariasahora/tenerifeahora/sociedad/poderoso-grupo-belga-proyectos-turisticos-lujo-costa-sur-tenerife-canarias_1_13592180.html"
 draft: false
 ---
