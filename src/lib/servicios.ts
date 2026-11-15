@@ -17,6 +17,20 @@ export const SERVICIOS: Servicio[] = [
       "¿A qué playa ir hoy en Tenerife? Oleaje, viento, temperatura del agua e índice UV en las playas del sur, norte, este y oeste según AEMET, con webcams en directo.",
   },
   {
+    slug: "carnaval-santa-cruz-tenerife-2027",
+    title: "Carnaval de Santa Cruz de Tenerife 2027: fechas, programa y entradas",
+    short: "Carnaval 2027",
+    description:
+      "Fechas del Carnaval de Santa Cruz de Tenerife 2027 (tema «Roma Eterna»): galas, concurso de murgas, Gala de la Reina, Carnaval de Día, Coso y cómo comprar entradas.",
+  },
+  {
+    slug: "guaguas-aeropuertos-tenerife",
+    title: "Cómo ir de los aeropuertos de Tenerife en guagua: líneas de TITSA",
+    short: "Guaguas desde los aeropuertos",
+    description:
+      "Qué guagua coger desde el aeropuerto Tenerife Sur y Tenerife Norte a Santa Cruz, La Laguna, Puerto de la Cruz, Los Cristianos o Costa Adeje: líneas de TITSA, horarios y billetes.",
+  },
+  {
     slug: "permiso-subir-teide",
     title: "Permiso para subir al Teide en 2026: cómo reservar, precio y alternativas",
     short: "Permiso para subir al Teide",
@@ -55,6 +69,16 @@ export async function getArticulosRelacionados(
 }
 
 const REGLAS_SERVICIO: { slug: string; patron: RegExp; texto: string }[] = [
+  {
+    slug: "carnaval-santa-cruz-tenerife-2027",
+    patron: /carnaval|murgas?\b|comparsas?\b|reina del carnaval/i,
+    texto: "Fechas, programa y entradas del Carnaval de Santa Cruz de Tenerife 2027.",
+  },
+  {
+    slug: "guaguas-aeropuertos-tenerife",
+    patron: /aeropuerto|titsa|guaguas?\b/i,
+    texto: "Qué guagua coger desde los aeropuertos Tenerife Sur y Norte: líneas, horarios y billetes.",
+  },
   {
     slug: "avisos-aemet-tenerife",
     patron: /\baemet\b|aviso (amarillo|naranja|rojo)|lluvias?\b|viento|calima|borrasca|temporal|tormenta|oleaje|prealerta/i,
