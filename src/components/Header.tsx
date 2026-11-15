@@ -25,6 +25,12 @@ export function Header() {
             </Link>
           ))}
           <Link
+            href="/servicios/"
+            className="text-sm font-semibold text-sunset transition hover:text-ocean"
+          >
+            Servicios
+          </Link>
+          <Link
             href="/buscar"
             aria-label="Buscar"
             className="text-ink/70 transition hover:text-ocean"
@@ -63,6 +69,15 @@ export function Header() {
                 </Link>
               </li>
             ))}
+            <li>
+              <Link
+                href="/servicios/"
+                onClick={() => setOpen(false)}
+                className="block rounded-md px-2 py-2 text-sm font-semibold text-sunset hover:bg-black/5 hover:text-ocean"
+              >
+                Servicios
+              </Link>
+            </li>
           </ul>
         </nav>
       )}

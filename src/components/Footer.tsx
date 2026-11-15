@@ -55,6 +55,16 @@ export function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/servicios/avisos-aemet-tenerife/" className="hover:text-white">
+                  Avisos AEMET en Tenerife
+                </Link>
+              </li>
+              <li>
+                <Link href="/servicios/estado-carreteras-tenerife/" className="hover:text-white">
+                  Estado de las carreteras
+                </Link>
+              </li>
+              <li>
                 <a href="/rss.xml" className="hover:text-white">
                   RSS
                 </a>

@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getAllArticles } from "@/lib/articles";
 import { CATEGORIES, SITE } from "@/lib/constants";
+import { SERVICIOS } from "@/lib/servicios";
 
 export const dynamic = "force-static";
 
@@ -10,6 +11,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const staticRoutes: MetadataRoute.Sitemap = [
     { url: `${SITE.url}/`, changeFrequency: "hourly", priority: 1 },
     { url: `${SITE.url}/noticias/`, changeFrequency: "hourly", priority: 0.9 },
+    { url: `${SITE.url}/servicios/`, changeFrequency: "weekly", priority: 0.6 },
+    ...SERVICIOS.map((s) => ({
+      url: `${SITE.url}/servicios/${s.slug}/`,
+      changeFrequency: "hourly" as const,
+      priority: 0.8,
+    })),
     { url: `${SITE.url}/sobre-nosotros/`, changeFrequency: "monthly", priority: 0.3 },
     { url: `${SITE.url}/contacto/`, changeFrequency: "monthly", priority: 0.3 },
     { url: `${SITE.url}/aviso-legal/`, changeFrequency: "yearly", priority: 0.1 },
