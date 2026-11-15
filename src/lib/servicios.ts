@@ -6,11 +6,14 @@ export type Servicio = {
   title: string;
   short: string;
   description: string;
+  /** One-line "what it's for", shown on the services hub. */
+  util: string;
 };
 
 export const SERVICIOS: Servicio[] = [
   {
     slug: "excursiones-tenerife",
+    util: "Teide, cetáceos, parques y aventura con una empresa local.",
     title: "Excursiones en Tenerife: qué hacer en la isla",
     short: "Excursiones",
     description:
@@ -18,6 +21,7 @@ export const SERVICIOS: Servicio[] = [
   },
   {
     slug: "playas-tenerife-hoy",
+    util: "Oleaje, viento y webcams: a qué playa ir hoy.",
     title: "Playas de Tenerife hoy: estado del mar, viento y webcams",
     short: "Playas hoy",
     description:
@@ -25,6 +29,7 @@ export const SERVICIOS: Servicio[] = [
   },
   {
     slug: "carnaval-santa-cruz-tenerife-2027",
+    util: "Fechas, galas, Coso y entradas del próximo Carnaval.",
     title: "Carnaval de Santa Cruz de Tenerife 2027: fechas, programa y entradas",
     short: "Carnaval 2027",
     description:
@@ -32,6 +37,7 @@ export const SERVICIOS: Servicio[] = [
   },
   {
     slug: "guaguas-aeropuertos-tenerife",
+    util: "Qué línea coger al aterrizar en el Sur o el Norte.",
     title: "Cómo ir de los aeropuertos de Tenerife en guagua: líneas de TITSA",
     short: "Guaguas desde los aeropuertos",
     description:
@@ -39,6 +45,7 @@ export const SERVICIOS: Servicio[] = [
   },
   {
     slug: "permiso-subir-teide",
+    util: "Cómo reservar el pico, precio de la ecotasa y alternativas.",
     title: "Permiso para subir al Teide en 2026: cómo reservar, precio y alternativas",
     short: "Permiso para subir al Teide",
     description:
@@ -46,6 +53,7 @@ export const SERVICIOS: Servicio[] = [
   },
   {
     slug: "avisos-aemet-tenerife",
+    util: "Viento, lluvia, calima y costeros por zonas, en directo.",
     title: "Avisos de AEMET hoy en Tenerife",
     short: "Avisos meteorológicos",
     description:
@@ -53,6 +61,7 @@ export const SERVICIOS: Servicio[] = [
   },
   {
     slug: "estado-carreteras-tenerife",
+    util: "Tráfico, cámaras de la TF-1 y TF-5 y cierres al Teide.",
     title: "Estado de las carreteras de Tenerife: TF-1, TF-5 y accesos al Teide",
     short: "Estado de las carreteras",
     description:

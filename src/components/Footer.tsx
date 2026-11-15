@@ -75,6 +75,21 @@ export function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/servicios/guaguas-aeropuertos-tenerife/" className="hover:text-white">
+                  Guaguas desde el aeropuerto
+                </Link>
+              </li>
+              <li>
+                <Link href="/servicios/excursiones-tenerife/" className="hover:text-white">
+                  Excursiones en Tenerife
+                </Link>
+              </li>
+              <li>
+                <Link href="/servicios/carnaval-santa-cruz-tenerife-2027/" className="hover:text-white">
+                  Carnaval 2027
+                </Link>
+              </li>
+              <li>
                 <a href="/rss.xml" className="hover:text-white">
                   RSS
                 </a>
