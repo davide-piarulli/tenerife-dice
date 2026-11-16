@@ -23,6 +23,7 @@ for (const p of [
   "servicios/que-hacer-fin-de-semana-tenerife/index.html",
   "servicios/navidad-tenerife-2026/index.html",
   "servicios/empleo-publico-ayudas-tenerife/index.html",
+  "servicios/farmacias-de-guardia-tenerife/index.html",
 ]) {
   if (!existe(p)) errores.push(`Falta ${p}`);
 }
@@ -47,6 +48,15 @@ try {
   if (!hoy.resumen) avisos.push("Sin datos de playas de AEMET en este build");
 } catch {
   avisos.push("No se pudo leer hoy.json de playas");
+}
+
+// Soft: pharmacy rotas come from the COF PDFs (scripts/guardias.py) before the build.
+try {
+  const g = JSON.parse(fs.readFileSync("src/data/guardias.json", "utf8"));
+  const conTurnos = Object.values(g.zonas).filter((z) => Object.keys(z.turnos).length || z.fija).length;
+  if (conTurnos < 5) avisos.push(`Farmacias de guardia: solo ${conTurnos} zonas con turnos`);
+} catch {
+  avisos.push("Sin datos de farmacias de guardia (src/data/guardias.json)");
 }
 
 for (const a of avisos) console.log(`::warning::${a}`);

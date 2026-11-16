@@ -12,6 +12,14 @@ export type Servicio = {
 
 export const SERVICIOS: Servicio[] = [
   {
+    slug: "farmacias-de-guardia-tenerife",
+    util: "La farmacia de guardia de hoy en cada zona de la isla.",
+    title: "Farmacias de guardia hoy en Tenerife: dirección y teléfono por zonas",
+    short: "Farmacias de guardia",
+    description:
+      "Farmacias de guardia hoy en Tenerife por zonas: Santa Cruz, La Laguna, Adeje y Arona, Puerto de la Cruz, Icod, Candelaria y más, con dirección, teléfono y horario según los turnos oficiales.",
+  },
+  {
     slug: "navidad-tenerife-2026",
     util: "Encendidos de luces, mercadillos, belenes y Reyes.",
     title: "Navidad 2026 en Tenerife: luces, mercadillos, belenes y Cabalgata de Reyes",
@@ -109,6 +117,11 @@ export async function getArticulosRelacionados(
 }
 
 const REGLAS_SERVICIO: { slug: string; patron: RegExp; texto: string }[] = [
+  {
+    slug: "farmacias-de-guardia-tenerife",
+    patron: /\bfarmacias?\b|farmacéutic|\bmedicamentos?\b|receta electrónica/i,
+    texto: "Consulta la farmacia de guardia de hoy en tu zona de Tenerife, con dirección y teléfono.",
+  },
   {
     slug: "navidad-tenerife-2026",
     patron: /navidad|navideñ|belén|belenes|cabalgata de reyes|nochevieja|reyes magos/i,

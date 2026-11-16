@@ -11,6 +11,7 @@ import {
   Gift,
   Mountain,
   PartyPopper,
+  Pill,
   Umbrella,
   type LucideIcon,
 } from "lucide-react";
@@ -36,6 +37,7 @@ const ICONOS: Record<string, LucideIcon> = {
   "que-hacer-fin-de-semana-tenerife": CalendarDays,
   "navidad-tenerife-2026": Gift,
   "empleo-publico-ayudas-tenerife": Briefcase,
+  "farmacias-de-guardia-tenerife": Pill,
 };
 
 const PLANIFICA = [
@@ -95,7 +97,7 @@ export default async function ServiciosPage() {
           </span>
           Hoy en Tenerife
         </h2>
-        <div className="mt-4 grid gap-4 md:grid-cols-3">
+        <div className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           <TarjetaHoy slug="playas-tenerife-hoy" acento="bg-sky-100 text-sky-700">
             {resumen && resumen.mejores.length > 0 ? (
               <>
@@ -122,6 +124,9 @@ export default async function ServiciosPage() {
           </TarjetaHoy>
           <TarjetaHoy slug="estado-carreteras-tenerife" acento="bg-rose-100 text-rose-700">
             <span className="text-ink/80">Tráfico en directo, cámaras de la TF-1 y TF-5 y cierres de los accesos al Teide.</span>
+          </TarjetaHoy>
+          <TarjetaHoy slug="farmacias-de-guardia-tenerife" acento="bg-emerald-100 text-emerald-700">
+            <span className="text-ink/80">La farmacia de guardia de hoy en cada zona, con dirección y teléfono.</span>
           </TarjetaHoy>
         </div>
       </section>

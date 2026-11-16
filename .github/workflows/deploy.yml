@@ -5,7 +5,7 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
-    # Refresh data fetched at build time (AEMET beach forecasts, news sitemap window).
+    # Refresh data fetched at build time (AEMET beach forecasts, pharmacy rotas, news sitemap window).
     # Times in UTC: ~09:30 and ~15:30 in Canarias (winter).
     - cron: "30 9 * * *"
     - cron: "30 15 * * *"
@@ -34,6 +34,17 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch pharmacy rotas (COF Tenerife)
+        continue-on-error: true
+        run: |
+          pip install --quiet pymupdf==1.28.2
+          python scripts/guardias.py
 
       - name: Build static export
         run: npm run build

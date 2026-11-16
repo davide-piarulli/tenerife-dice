@@ -105,6 +105,11 @@ export function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/servicios/farmacias-de-guardia-tenerife/" className="hover:text-white">
+                  Farmacias de guardia
+                </Link>
+              </li>
+              <li>
                 <Link href="/servicios/carnaval-santa-cruz-tenerife-2027/" className="hover:text-white">
                   Carnaval 2027
                 </Link>
