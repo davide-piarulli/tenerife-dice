@@ -12,6 +12,22 @@ export type Servicio = {
 
 export const SERVICIOS: Servicio[] = [
   {
+    slug: "navidad-tenerife-2026",
+    util: "Encendidos de luces, mercadillos, belenes y Reyes.",
+    title: "Navidad 2026 en Tenerife: luces, mercadillos, belenes y Cabalgata de Reyes",
+    short: "Navidad en Tenerife",
+    description:
+      "Guía de la Navidad 2026 en Tenerife: cuándo se encienden las luces en cada municipio, mercadillos navideños, belenes, conciertos, Nochevieja y Cabalgata de Reyes, con fechas y lugares.",
+  },
+  {
+    slug: "empleo-publico-ayudas-tenerife",
+    util: "Dónde salen las oposiciones, bolsas, ayudas y becas.",
+    title: "Empleo público, ayudas y becas en Tenerife: dónde consultar las convocatorias",
+    short: "Empleo y ayudas",
+    description:
+      "Dónde se publican las oposiciones, bolsas de empleo, ayudas y becas del Cabildo de Tenerife, el Gobierno de Canarias y los ayuntamientos, con las convocatorias abiertas más recientes.",
+  },
+  {
     slug: "que-hacer-fin-de-semana-tenerife",
     util: "Planes, carreras y eventos de viernes a domingo.",
     title: "Qué hacer este fin de semana en Tenerife: agenda de planes y eventos",
@@ -93,6 +109,16 @@ export async function getArticulosRelacionados(
 }
 
 const REGLAS_SERVICIO: { slug: string; patron: RegExp; texto: string }[] = [
+  {
+    slug: "navidad-tenerife-2026",
+    patron: /navidad|navideñ|belén|belenes|cabalgata de reyes|nochevieja|reyes magos/i,
+    texto: "Luces, mercadillos, belenes y Cabalgata de Reyes: la guía de la Navidad 2026 en Tenerife.",
+  },
+  {
+    slug: "empleo-publico-ayudas-tenerife",
+    patron: /oposici[oó]n|oposiciones|oferta de empleo público|bolsa de empleo|subvenci[oó]n|subvenciones|\bbecas?\b|\bayudas? (de|para|al|a la|a los)\b/i,
+    texto: "Dónde consultar oposiciones, bolsas de empleo, ayudas y becas en Tenerife.",
+  },
   {
     slug: "carnaval-santa-cruz-tenerife-2027",
     patron: /carnaval|murgas?\b|comparsas?\b|reina del carnaval/i,

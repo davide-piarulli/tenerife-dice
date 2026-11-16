@@ -95,6 +95,16 @@ export function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/servicios/navidad-tenerife-2026/" className="hover:text-white">
+                  Navidad 2026 en Tenerife
+                </Link>
+              </li>
+              <li>
+                <Link href="/servicios/empleo-publico-ayudas-tenerife/" className="hover:text-white">
+                  Empleo público y ayudas
+                </Link>
+              </li>
+              <li>
                 <Link href="/servicios/carnaval-santa-cruz-tenerife-2027/" className="hover:text-white">
                   Carnaval 2027
                 </Link>

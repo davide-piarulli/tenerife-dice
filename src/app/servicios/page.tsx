@@ -6,7 +6,9 @@ import {
   CalendarDays,
   Car,
   CloudSun,
+  Briefcase,
   Compass,
+  Gift,
   Mountain,
   PartyPopper,
   Umbrella,
@@ -32,14 +34,18 @@ const ICONOS: Record<string, LucideIcon> = {
   "carnaval-santa-cruz-tenerife-2027": PartyPopper,
   "excursiones-tenerife": Compass,
   "que-hacer-fin-de-semana-tenerife": CalendarDays,
+  "navidad-tenerife-2026": Gift,
+  "empleo-publico-ayudas-tenerife": Briefcase,
 };
 
 const PLANIFICA = [
+  "navidad-tenerife-2026",
   "que-hacer-fin-de-semana-tenerife",
   "permiso-subir-teide",
   "guaguas-aeropuertos-tenerife",
   "excursiones-tenerife",
   "carnaval-santa-cruz-tenerife-2027",
+  "empleo-publico-ayudas-tenerife",
 ];
 
 function TarjetaHoy({

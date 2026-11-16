@@ -21,6 +21,8 @@ for (const p of [
   "servicios/playas-tenerife-hoy/index.html",
   "servicios/permiso-subir-teide/index.html",
   "servicios/que-hacer-fin-de-semana-tenerife/index.html",
+  "servicios/navidad-tenerife-2026/index.html",
+  "servicios/empleo-publico-ayudas-tenerife/index.html",
 ]) {
   if (!existe(p)) errores.push(`Falta ${p}`);
 }
