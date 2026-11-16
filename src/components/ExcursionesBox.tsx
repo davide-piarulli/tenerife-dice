@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { AFILIADO, getExcursiones } from "@/lib/excursiones";
+import { CuponDescuento } from "./CuponDescuento";
 import { TarjetaExcursion } from "./ExcursionesExplorer";
 
 /** Affiliate box with partner excursions. Always shows the affiliate disclosure. */
@@ -16,6 +17,9 @@ export function ExcursionesBox({ ids, titulo }: { ids: string[]; titulo: string 
         <Link href="/servicios/excursiones-tenerife/" className="text-sm font-semibold text-ocean underline">
           Ver todas
         </Link>
+      </div>
+      <div className="mt-3">
+        <CuponDescuento />
       </div>
       <ul className="-mx-5 mt-4 flex snap-x snap-mandatory gap-4 overflow-x-auto px-5 pb-2 [scrollbar-width:none] sm:mx-0 sm:grid sm:grid-cols-2 sm:overflow-visible sm:px-0">
         {excursiones.map((e) => (

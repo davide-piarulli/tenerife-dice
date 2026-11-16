@@ -6,6 +6,8 @@ export const AFILIADO = {
   nombre: "Nabila Experience",
   web: "https://nabilaexperience.com/es/",
   cupon: "DAVIDE10",
+  /** Confirmed by the partner on 16/11/2026. */
+  descuento: "10 %",
 };
 
 export function enlaceAfiliado(url: string): string {

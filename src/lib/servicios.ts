@@ -45,11 +45,11 @@ export const SERVICIOS: Servicio[] = [
   },
   {
     slug: "excursiones-tenerife",
-    util: "Teide, cetáceos, parques y aventura con una empresa local.",
+    util: "Teide, cetáceos, parques y aventura, con un 10 % de descuento.",
     title: "Excursiones en Tenerife: qué hacer en la isla",
     short: "Excursiones",
     description:
-      "Las mejores excursiones y actividades en Tenerife: Teide en quad o teleférico, avistamiento de cetáceos, kayak, Siam Park, Loro Parque y más, con una empresa local.",
+      "Las mejores excursiones y actividades en Tenerife: Teide en quad o teleférico, avistamiento de cetáceos, kayak, Siam Park, Loro Parque y más, con una empresa local y un 10 % de descuento con el código DAVIDE10.",
   },
   {
     slug: "playas-tenerife-hoy",

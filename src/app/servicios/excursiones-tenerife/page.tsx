@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
+import { CuponDescuento } from "@/components/CuponDescuento";
 import { Bus, CloudSun, Mountain, Waves } from "lucide-react";
 import { SITE } from "@/lib/constants";
 import { getServicio } from "@/lib/servicios";
@@ -79,6 +80,9 @@ export default function ExcursionesPage() {
           >
             Ver las {EXCURSIONES.length} excursiones
           </a>
+          <div className="mt-4">
+            <CuponDescuento claro />
+          </div>
         </div>
       </header>
 
@@ -131,7 +135,8 @@ export default function ExcursionesPage() {
           {AFILIADO.nombre}
         </a>
         , una empresa local de Tenerife inscrita en el Registro General Turístico de Canarias. Los enlaces son de
-        afiliado: si reservas, {SITE.name} recibe una comisión sin coste extra para ti. Precios, horarios y
+        afiliado: si reservas, {SITE.name} recibe una comisión sin coste extra para ti, y tú tienes un {AFILIADO.descuento} de descuento con el código{" "}
+        {AFILIADO.cupon}. Precios, horarios y
         disponibilidad, siempre en su web. Fotos: {AFILIADO.nombre}, salvo indicación.
       </p>
     </div>
