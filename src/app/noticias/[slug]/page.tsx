@@ -19,6 +19,18 @@ import { getAutor } from "@/lib/autores";
 
 export const dynamicParams = false;
 
+// "CC BY-SA 4.0" -> https://creativecommons.org/licenses/by-sa/4.0/ (Google image metadata wants a URL).
+function licenseUrl(license?: string): string | undefined {
+  if (!license) return undefined;
+  const l = license.trim();
+  if (/^https?:\/\//.test(l)) return l;
+  const cc = l.match(/^CC[\s-]+(BY(?:-NC)?(?:-SA|-ND)?)[\s-]+(\d\.\d)/i);
+  if (cc) return `https://creativecommons.org/licenses/${cc[1].toLowerCase()}/${cc[2]}/`;
+  if (/^CC0/i.test(l)) return "https://creativecommons.org/publicdomain/zero/1.0/";
+  if (/dominio p[uú]blico|public domain/i.test(l)) return "https://creativecommons.org/publicdomain/mark/1.0/";
+  return undefined;
+}
+
 export async function generateStaticParams() {
   return getArticleSlugs().map((slug) => ({ slug }));
 }
@@ -91,7 +103,11 @@ export default async function ArticlePage({
         ? {
             "@type": "ImageObject",
             url: `${SITE.url}${article.image}`,
-            creditText: `${article.imageCredit} / ${article.imageSource ?? ""}`.trim(),
+            contentUrl: `${SITE.url}${article.image}`,
+            creator: { "@type": "Person", name: article.imageCredit },
+            creditText: [article.imageCredit, article.imageSource].filter(Boolean).join(" / "),
+            copyrightNotice: `© ${article.imageCredit}${article.imageLicense ? `, ${article.imageLicense}` : ""}`,
+            ...(licenseUrl(article.imageLicense) ? { license: licenseUrl(article.imageLicense) } : {}),
             ...(article.imageCreditUrl ? { acquireLicensePage: article.imageCreditUrl } : {}),
           }
         : `${SITE.url}${article.image}`,
