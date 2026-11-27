@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://tenerifedice.com/sitemap.xml
+Sitemap: https://tenerifedice.com/sitemap-images.xml
+Sitemap: https://tenerifedice.com/news-sitemap.xml
